@@ -1,690 +1,711 @@
 House number,listing_id,lat,lng,city,address,property_type,price,total_square_ft,above_square_ft,bed,bath,list_date,hoa
-0,8096560,40.1121997,-104.510358,Keenesburg,414 Quincy Rr Avenue,Residential,"$455,500","1,473","1,473",3,2,05/30/2022,Yes
-1,7041478,39.6876637,-104.8210432,Aurora,14363 E Gunnison Place,Residential,"$499,950","1,724","1,724",4,2,05/30/2022,Yes
-2,9418476,39.2469199,-105.734955,Como,260 Nez Perce Road,Land,"$139,900",,,,,05/30/2022,Yes
-3,2504111,,,Denver,"460 S MARION Parkway Unit# 406, Bldg C",Residential,"$639,900","1,272","1,272",2,2,05/30/2022,Yes
-4,3205405,40.5241479,-104.8510819,Severance,612 Sawyers Pond Drive,Residential,"$553,335","3,333","2,415",5,3,05/30/2022,Yes
-5,6146663,39.99700259999999,-105.0119537,Broomfield,2219 W 166th Avenue,Residential,"$704,859","1,779",,3,3,05/30/2022,
-6,3999732,,,Denver,7700 W Grant Ranch Boulevard Unit# 1A,Residential,"$495,000","1,202","1,202",2,2,05/30/2022,Yes
-7,4423959,39.8794057,-104.832386,Commerce City,10049 Victor Street,Residential,"$776,223","2,744",,5,5,05/30/2022,
-8,6834907,40.498726,-105.0561139,Fort Collins,1626 Dancing Cattail Drive,Residential,"$779,990","2,600",,5,3,05/30/2022,
-9,5746857,40.5852602,-105.084423,Fort Collins,6009 Autumn Breeze Court,Residential,"$800,819","2,476",,4,3,05/30/2022,
-10,2354912,40.498726,-105.0561139,Fort Collins,1638 Dancing Cattail Drive,Residential,"$720,540","2,476",,4,3,05/30/2022,
-11,1586207,40.5852602,-105.084423,Fort Collins,6015 Autumn Breeze Court,Residential,"$775,520","2,253",,3,3,05/30/2022,
-12,8413808,40.498726,-105.0561139,Fort Collins,1632 Dancing Cattail Drive,Residential,"$680,557","1,984",,3,2,05/30/2022,
-13,7701786,40.2159334,-105.0096115,Mead,14816 Charbray Street,Residential,"$579,990","2,131",,3,3,05/30/2022,
-14,7047719,39.6735571,-104.9083388,Denver,6903 E Wesley Avenue,Residential,"$775,000","2,600","1,425",4,3,05/30/2022,No
-15,8198017,39.4840185,-105.0689502,Littleton,8401 Mount Ouray Road,Residential,"$519,990","1,498",,3,3,05/30/2022,
-16,6680292,39.4803791,-105.0709378,Littleton,8047 Monte Vista Circle,Residential,"$718,700","1,949",,4,3,05/30/2022,
-17,3397199,39.627499,-105.133762,Morrison,12079 W Chenango Drive,Residential,"$482,000","1,780","1,251",2,4,05/30/2022,Yes
-18,3112161,39.814597,-104.76353,Denver,19200 E 65th Avenue,Residential,"$435,530","1,420",,3,3,05/30/2022,
-19,4630135,39.81800800000001,-104.76673,Denver,6643 N Danube Way,Residential,"$480,550","1,245",,2,2,05/30/2022,
-20,8147773,39.4167991,-104.8287795,Castle Rock,3077 Carabiner Street,Residential,"$1,029,420","3,576",,4,4,05/30/2022,
-21,8360520,39.4180041,-104.8294465,Castle Rock,3051 Belay Point,Residential,"$1,114,900","3,576",,4,4,05/30/2022,
-22,3062110,39.4186757,-104.8282061,Castle Rock,3125 Belay Point,Residential,"$1,105,190","3,053",,4,3,05/30/2022,
-23,8848669,39.4152642,-104.836478,Castle Rock,3636 Sublime Court,Residential,"$917,110","2,727",,4,3,05/30/2022,
-24,8289544,38.9309415,-104.7125141,Colorado Springs,6245 Bodacious Circle,Residential,"$624,566","2,187",,4,3,05/30/2022,
-25,6874815,40.5178817,-104.8767222,Severance,1225 Argali Drive,Residential,"$619,895","2,161",,3,3,05/30/2022,
-26,4484545,39.3711164,-104.8890343,Castle Rock,535 Felicity Loop,Residential,"$746,000","1,857",,3,3,05/30/2022,
-27,2348727,39.3744146,-104.8239573,Castle Rock,239 Silver Rock Trail,Residential,"$599,900","1,609",,3,2,05/30/2022,
-28,7177908,39.4618557,-104.8579568,Castle Pines,1486 Golden Sill Drive,Residential,"$738,372","1,890",,3,2,05/30/2022,
-29,3226799,38.8338816,-104.8213634,Colorado Springs,6006 Wendy Stream Way,Residential,"$699,900","4,325",,5,4,05/30/2022,
-30,2465269,39.5095854,-104.7553071,Parker,20110 E Williamson Drive,Residential,"$650,000","2,388","2,388",4,3,05/30/2022,Yes
-31,7719124,39.7288816,-104.8744152,Aurora,789 Emporia Street,Residential Income,"$525,000","1,632","1,632",5,2,05/30/2022,No
-32,1554765,38.9842433,-104.5933201,Peyton,10577 Mount Evans Drive,Residential,"$601,000","2,820","1,960",4,4,05/30/2022,Yes
-33,3263274,39.8954887,-104.7863254,Commerce City,17218 E 109th Avenue,Residential,"$749,000","4,027","2,802",5,4,05/30/2022,Yes
-34,6039871,39.9850517,-104.7420219,Brighton,101 Golden Eagle Parkway,Residential,"$450,000","1,325","1,325",3,2,05/30/2022,Yes
-35,3920140,39.7295264,-104.8158909,Aurora,945 Dearborn Street,Residential,"$474,998","2,237","1,679",4,2,05/30/2022,No
-36,8611242,,,Littleton,7428 S Quail Circle Unit# 1715,Residential,"$325,000",759,759,1,1,05/30/2022,Yes
-37,3450197,38.2517805,-104.612489,Pueblo,824 Elm Street,Residential Income,"$264,900","1,950","1,646",2,2,05/30/2022,No
-38,9152538,39.5260173,-105.0183702,Highlands Ranch,10523 Hyacinth Place,Residential,"$644,900","2,064","1,488",4,4,05/30/2022,Yes
-39,3241543,39.7059527,-104.8478789,Aurora,12060 E Virginia Drive,Residential,"$560,000","2,384","1,192",5,3,05/30/2022,No
-40,7929653,39.6268734,-105.15429,Morrison,4937 S Coors Lane,Residential,"$700,000","3,046","2,157",3,3,05/30/2022,Yes
-41,1777252,39.985551,-104.9546286,Thornton,2784 E 159th Way,Residential,"$825,000","4,501","2,293",3,4,05/30/2022,Yes
-42,6728960,39.8155234,-105.0952679,Arvada,6518 Estes Street,Residential,"$700,000","2,350","1,418",3,3,05/30/2022,No
-43,4774266,40.7296196,-106.2753639,Walden,571 JCR 12E Road,Residential,"$425,000","3,564","1,782",4,3,05/30/2022,No
-44,3362465,39.7157473,-104.9273413,Denver,25 S Forest Street,Residential,"$1,875,000","3,722","3,722",4,5,05/30/2022,No
-45,IR966914,40.4289799,-104.7018999,Greeley,427 14th Avenue,Residential,"$299,900","1,230","1,230",3,1,05/30/2022,No
-46,IR966913,40.3781766,-105.5359657,Estes Park,800 Old Ranger Drive,Residential,"$695,000","1,282","1,282",2,1,05/30/2022,No
-47,IR966559,40.3429398,-104.91484,Johnstown,871 N Greeley Avenue,Residential,"$679,000","3,546","1,773",5,3,05/23/2022,No
-48,IR966504,40.4469368,-104.9710808,Windsor,7025 Aladar Drive,Residential,"$929,500","5,050","3,458",5,6,05/25/2022,Yes
-49,2705095,39.2654534,-106.3122056,Leadville,123 Lodgepole Drive,Land,"$40,000",,,,,05/29/2022,Yes
-50,8504526,39.7593299,-105.0535268,Wheat Ridge,2921 Sheridan Boulevard,Residential,"$829,000","1,768",988,2,3,05/29/2022,No
-51,6443181,,,Englewood,15455 Canyon Rim Drive Drive Unit# 207,Residential,"$425,000","1,317","1,317",2,2,05/29/2022,Yes
-52,9933503,39.7432952,-104.3198506,Strasburg,1863 Asoka Street,Residential,"$500,000","2,180","1,454",4,4,05/29/2022,Yes
-53,5536658,39.8481804,-104.9909808,Denver,8359 Cherokee Street,Residential,"$479,700","2,030","1,015",5,2,05/29/2022,No
-54,4142574,39.0498505,-104.820724,Colorado Springs,15025 Hilton Head Court,Residential,"$645,000","3,494","2,118",5,4,05/29/2022,Yes
-55,7855800,,,Estes Park,540 W Elkhorn Avenue Unit# B2,Residential,"$349,000",588,588,1,1,05/29/2022,Yes
-56,6793775,38.5358293,-106.0118778,Salida,118 Mesa Drive,Residential,"$889,000","2,455","1,708",3,4,05/29/2022,No
-57,7046988,40.2684441,-105.4268586,Lyons, Cedar,Land,"$97,000",,,,,05/29/2022,Yes
-58,5649842,39.9897641,-105.8945603,Tabernash,239 Pole Creek Drive,Residential,"$2,890,000","9,627","5,614",5,5,05/29/2022,Yes
-59,6450125,37.9446746,-105.7039687,Crestone,1011 Sycamore Road,Residential,"$749,000","3,179","3,179",5,2,05/29/2022,Yes
-60,1850088,39.7460124,-105.6714107,Georgetown,1944 Alvarado Road,Land,"$279,900",,,,,05/29/2022,No
-61,7158396,39.7084759,-105.1315375,Lakewood,422 S Union Boulevard,Residential,"$695,000","2,673","1,476",5,3,05/29/2022,No
-62,7678775,39.60963599999999,-105.183786,Morrison,5852 Whale Rock Way,Residential,"$1,495,000","3,524","2,300",4,3,05/29/2022,Yes
-63,4750332,39.63568799999999,-104.046874,Deer Trail,4425 S Price Rd,Residential,"$749,900","2,031","2,031",4,2,05/29/2022,No
-64,3402699,39.1125102,-106.3455186,Twin Lakes,796 Spruce Drive,Residential,"$989,000","2,550","2,550",4,3,05/29/2022,No
-65,7842430,,,Frisco,222 Creekside Drive Unit# 316,Residential,"$750,000",754,754,2,2,05/29/2022,Yes
-66,4757050,39.256938,-104.89698,Larkspur,648 Poncho Road,Land,"$250,000",,,,,05/29/2022,No
-67,5330687,40.0573091,-105.2013582,Boulder,4554 Starboard Drive,Residential,"$950,000","2,340","1,566",4,3,05/29/2022,Yes
-68,2580881,39.7574098,-105.0120246,Denver,2103 W 28th Avenue,Residential Lease,"$7,000","3,125","2,448",4,4,05/29/2022,
-69,5958452,,,Aurora,2868 S Heather Gardens Way Unit# 205,Residential,"$264,000","1,200","1,200",2,2,05/29/2022,Yes
-70,1552790,,,Aurora,2411 S Xanadu Way Unit# D,Residential,"$380,000","1,091","1,091",2,2,05/29/2022,Yes
-71,5827651,39.3800151,-104.8007997,Castle Rock,1274 N Tabor Drive,Residential,"$655,000","3,553","2,618",4,3,05/29/2022,Yes
-72,2720566,37.9519961,-104.8061936,Colorado City,Lot 9 Applewood Drive,Land,"$15,000",,,,,05/29/2022,No
-73,7745174,39.659703,-105.339642,Evergreen,29940 Fir Drive,Residential,"$350,000",612,612,1,1,05/29/2022,No
-74,3245518,39.3790465,-104.8528271,Castle Rock,700 Sunset Drive,Residential,"$845,900","3,703","3,127",3,4,05/29/2022,No
-75,7476457,39.0085558,-104.6199342,Colorado Springs,12085 Sylvan Meadows Drive,Residential,"$2,000,000","5,025","2,518",5,4,05/29/2022,Yes
-76,6465002,,,Dillon,"72 Corinthian Circle Unit# 104, Bldg D",Residential,"$969,900","1,142","1,142",2,2,05/29/2022,Yes
-77,8209854,39.0922538,-104.6835853,Colorado Springs,7675 Walker Road,Residential,"$999,800","4,202","2,720",5,4,05/29/2022,Yes
-78,7174548,,,Keystone,20 Hunki Dori Court Unit# 2220,Residential,"$997,000",920,920,2,3,05/29/2022,Yes
-79,3296928,38.1261103,-104.0222042,Fowler,206 206 1/2 E Park,Residential,"$129,900",764,764,2,1,05/29/2022,No
-80,3133925,39.72298199999999,-104.47104,Bennett,44100 E County Road 6 E,Land,"$5,500,000",,,,,05/29/2022,No
-81,6895287,39.7809104,-105.0179594,Denver,4636 Beach Court,Residential,"$590,000","1,065","1,065",3,1,05/29/2022,No
-82,6310679,39.4528882,-104.854581,Castle Pines,1733 Stable View Drive,Residential,"$803,202","2,636","1,894",4,4,05/29/2022,Yes
-83,3523029,39.8891755,-104.9461179,Northglenn,3410 E 106th Place,Residential,"$520,000","1,848","1,540",3,3,05/29/2022,Yes
-84,8664833,39.5845358,-104.7796928,Foxfield,7234 S Uravan Court,Residential,"$1,599,000","5,832","3,866",5,6,05/29/2022,No
-85,3700191,39.0879824,-104.8036263,Monument,17745 Radbourne Court,Residential,"$1,279,000","4,540","2,297",4,5,05/29/2022,Yes
-86,4852129,39.5113057,-105.4986826,Bailey,5 Gray Street,Residential,"$150,000",480,480,1,0,05/29/2022,No
-87,5521649,39.94639859999999,-105.0534811,Broomfield,13870 Meadowbrook Drive,Residential,"$1,050,000","4,356","2,945",5,4,05/29/2022,Yes
-88,IR966906,40.3934769,-105.0848088,Loveland,570 W 2nd Street,Residential,"$489,000","2,184","1,092",2,1,05/29/2022,No
-89,IR966905,,,Estes Park,540 W Elkhorn Avenue Unit# B2,Residential,"$349,000",588,588,1,1,05/29/2022,Yes
-90,IR966903,40.4525649,-105.4497679,Glen Haven,7161 County Road 43,Land,"$425,000",,,,,05/29/2022,Yes
-91,IR966901,40.0005612,-105.1370762,Lafayette,414 Blue Lake Trail,Residential,"$575,000","1,572","1,076",2,3,05/29/2022,Yes
-92,IR966896,40.5203216,-104.8582998,Severance,511 Limber Pine Court Court,Residential,"$517,000","2,495","1,298",5,3,05/29/2022,Yes
-93,IR966895,39.5038991,-105.3296065,Conifer,28669 Mountain View Road,Residential,"$515,000","1,368",864,2,1,05/29/2022,No
-94,IR966894,,,Loveland,2075 Tonopas Court Unit# 101,Residential,"$344,900","1,962","1,350",3,3,05/29/2022,Yes
-95,IR966893,40.493479,-104.89163,Windsor,276 Blue Fortune Drive,Residential,"$892,899","4,576","2,288",5,5,05/29/2022,Yes
-96,IR966892,40.8675872,-105.6465455,Red Feather Lakes,42 Chickasaw Court,Residential,"$525,000","1,920","1,104",2,2,05/29/2022,Yes
-97,IR966890,40.4612328,-104.9027274,Windsor,400 Crystal Beach Drive,Residential,"$1,300,000","4,684","3,104",4,5,05/29/2022,Yes
-98,IR966888,40.114006,-104.5087664,Keenesburg,0 County Road 398,Land,"$1,925,000",,,,,05/29/2022,No
-99,IR966887,39.735741,-104.8344491,Aurora,1281 Wheeling Street,Residential,"$475,000","1,348","1,348",3,3,05/29/2022,No
-100,IR966886,40.1373728,-105.1669036,Longmont,1986 Mountain Crest Court,Land,"$295,000",,,,,05/29/2022,Yes
-101,IR966820,,,Fort Collins,"5151 Boardwalk Drive Unit# 3, Bldg J",Residential,"$465,000","2,692","1,753",4,4,05/27/2022,Yes
-102,IR966480,40.3276647,-105.0887594,Berthoud,2009 Cuda Court,Residential,"$1,093,000","4,039","2,119",5,4,05/24/2022,Yes
-103,3008184,39.810931,-105.1094276,Arvada,6205 Janice Way,Residential,"$729,900","2,030","1,015",3,2,05/28/2022,No
-104,8556225,40.0207764,-105.0643721,Erie,953 Compass Drive,Residential,"$1,595,000","7,003","4,609",4,4,05/28/2022,Yes
-105,1701134,38.9660077,-104.7153411,Colorado Springs,6163 Wolf Village Drive,Residential,"$699,900","3,709","1,875",4,3,05/28/2022,Yes
-106,7585300,38.872894,-105.26258,Trinidad,000 Colorado Mountain Estates,Land,"$85,000",,,,,05/28/2022,No
-107,4868263,,,Lakewood,12485 W Virgina Avenue Unit# 4,Residential Lease,$990,"1,736","1,736",1,1,05/28/2022,
-108,7126324,,,Denver,6918 E Lowry Boulevard Unit# F1 P8,Residential,"$1,246,310","2,340","2,340",2,4,05/28/2022,Yes
-109,9215318,,,Aurora,10722 E Exposition Avenue Unit# 215,Residential,"$164,900",761,761,2,1,05/28/2022,Yes
-110,7431229,38.7849074,-104.7983379,Colorado Springs,3240 Lally Rook Court,Residential Lease,"$2,195","1,165",950,3,2,05/28/2022,
-111,4197959,39.8179971,-105.6572676,Idaho Springs,152 Hillside Road,Residential,"$395,000",800,800,2,1,05/28/2022,Yes
-112,7720210,38.9795343,-104.5936388,Peyton,10243 Capital Peak Way,Residential,"$539,900","3,818","3,818",3,2,05/28/2022,No
-113,4535822,,,Denver,1008 N Corona Street Unit# 605,Residential,"$324,900",589,589,1,1,05/28/2022,Yes
-114,6474384,39.6604568,-105.3402315,Evergreen,29962 Spruce Road,Residential,"$650,000","1,965","1,965",3,2,05/28/2022,No
-115,6171183,40.5153846,-104.8477464,Severance,806 Elias Tarn Drive,Residential,"$581,955","2,718","2,718",5,3,05/28/2022,Yes
-116,2861880,39.4895065,-105.5259373,Bailey,445 Rising Sun Road,Residential,"$550,000","1,728","1,728",3,3,05/28/2022,Yes
-117,4935385,38.5285321,-106.0014102,Salida,1104 G Street,Residential,"$997,000","2,394","2,394",3,2,05/28/2022,No
-118,4492285,39.532341,-104.7909069,Parker,17167 Cornerstone Lane,Residential,"$750,000","3,492","2,465",5,4,05/28/2022,Yes
-119,8966304,39.5530877,-104.940414,Littleton,8981 Kittiwake Street,Residential,"$985,000","4,432","3,160",4,4,05/28/2022,Yes
-120,3744169,39.744371,-104.8625413,Aurora,1729 Jamaica Street,Residential,"$469,500","1,125","1,125",3,2,05/28/2022,No
-121,5864241,39.4344656,-104.764833,Parker,6546 Cherry Creek Drive,Residential,"$700,000","2,835","1,898",5,4,05/28/2022,Yes
-122,1620086,40.5153846,-104.8477464,Severance,810 Elias Tarn Drive,Residential,"$516,800","1,844","1,844",4,3,05/28/2022,Yes
-123,6160325,39.6968634,-105.1406746,Lakewood,12621 W Dakota Drive,Residential Lease,"$3,500","2,614","1,709",5,3,05/28/2022,
-124,6810402,39.4120743,-106.0429627,Blue River,285 Davis Court,Residential,"$1,900,000","2,666","2,666",4,3,05/28/2022,Yes
-125,7542408,39.2519714,-106.318161,Leadville,200 Snowshoe Rabbit Drive,Land,"$300,000",,,,,05/28/2022,Yes
-126,8762624,39.66908069999999,-104.9866446,Denver,2619 S Lincoln Street,Residential Income,"$700,000","1,972","1,972",4,2,05/28/2022,No
-127,1567652,39.5262125,-106.037154,Breckenridge,2346 Highlands Drive,Residential,"$3,965,000","4,709","2,371",4,4,05/28/2022,Yes
-128,4999923,40.0023407,-104.7329299,Lochbuie,1111 Sunrise Drive,Residential,"$520,980","2,125","2,125",4,3,05/28/2022,Yes
-129,5239981,39.7073699,-104.2223584,Byers,281 S Owens Street,Residential,"$499,500","1,779","1,779",3,2,05/28/2022,No
-130,3910261,40.6130332,-105.2806389,Bellvue,2721 Davis Ranch Road,Land,"$350,000",,,,,05/28/2022,Yes
-131,3745302,38.8969056,-105.2482432,Florissant,1400 Lower Twin Rocks Road,Residential,"$895,000","1,870","1,182",2,2,05/28/2022,No
-132,4575583,39.7717229,-104.7527092,Denver,20203 E 40th Place,Residential,"$630,000","3,218","2,144",3,4,05/28/2022,Yes
-133,3626054,40.2276185,-105.8506576,Grand Lake,12710 US Highway 34,Residential,"$1,995,000","1,848","1,848",3,2,05/28/2022,No
-134,6793096,,,Aurora,18847 E Yale Circle Unit# D,Residential,"$400,000","1,344","1,344",2,2,05/28/2022,Yes
-135,2245370,,,Denver,1401 Wewatta Street Unit# 601,Residential,"$525,000",775,775,1,1,05/28/2022,Yes
-136,2631383,39.88940360000001,-104.8361135,Commerce City,12967 E 106th Avenue,Residential,"$739,000","4,574","2,816",5,4,05/28/2022,No
-137,3604913,38.7914957,-105.4235795,Guffey,441 Wagon Wheel Road,Residential,"$300,000",624,624,2,0,05/28/2022,No
-138,6005808,,,Aurora,9191 E 17th Avenue Unit# A & B,Residential Income,"$799,000","3,188","1,594",8,4,05/28/2022,No
-139,8125579,38.9445111,-104.7388546,Colorado Springs,4745 Falls Church Road,Residential,"$545,000","3,255","2,255",5,4,05/28/2022,No
-140,4917912,39.4850303,-105.0838269,Littleton,10574 Kicking Horse Drive,Residential,"$815,000","3,685","2,454",4,3,05/28/2022,Yes
-141,2454866,39.8742085,-105.0199453,Federal Heights,9850 Federal Boulevard,Manufactured In Park,"$55,000","1,088","1,088",2,2,05/28/2022,Yes
-142,9919856,,,Aurora,13405 E Asbury Drive Unit# 101,Residential,"$269,900",940,940,2,2,05/28/2022,Yes
-143,6313815,39.6359897,-104.9893833,Englewood,4443 S Acoma Street,Residential Lease,"$3,200","1,944","1,076",4,2,05/28/2022,
-144,3468951,39.4389401,-103.9910925,Agate,35520 County Road 160,Land,"$115,000",,,,,05/28/2022,No
-145,7655122,39.673676,-105.404641,Evergreen,28 Valley View Lane,Residential Lease,"$3,950","1,800","1,800",3,3,05/28/2022,
-146,7395990,39.8762145,-105.0794653,Westminster,9851 Upham Drive,Residential,"$875,990","3,857","2,849",5,3,05/28/2022,Yes
-147,6311659,39.5157127,-104.8181696,Parker,14684 Domino Drive,Residential,"$804,900","3,435","2,310",3,3,05/28/2022,Yes
-148,8523140,,,Aurora,14004 E Princeton Place Unit# A,Residential,"$450,000","1,537","1,537",3,3,05/28/2022,Yes
-149,2703902,37.4288973,-105.4338999,Fort Garland,7276 Reg Jones Road,Residential,"$452,000","2,105","2,105",2,2,05/28/2022,No
-150,7263004,,,Castle Rock,532 Oakwood Drive Unit# E205,Residential,"$275,000",926,926,2,2,05/28/2022,Yes
-151,7776071,39.7834324,-104.9862795,Denver,4779 Lincoln Street,Commercial Lease,"$1,500",900,,,,05/28/2022,
-152,5030999,,,Castle Rock,532 Oakwood Drive Unit# E202,Residential,"$200,000",609,609,1,1,05/28/2022,Yes
-153,6067648,39.1059461,-105.6972341,Hartsel,3912 Goldenberg Canyon Road,Land,"$20,000",,,,,05/28/2022,Yes
-154,8421116,39.8170094,-105.0558556,Arvada,6627 Benton Street,Residential,"$664,900","2,686","1,568",4,2,05/28/2022,No
-155,7937820,39.57911199999999,-104.9735453,Centennial,1314 E Irish Place,Residential,"$669,000","2,970","2,164",4,3,05/28/2022,No
-156,8242889,39.4988929,-106.0427191,Breckenridge,161 Dyer Trail,Residential,"$3,900,000","5,382","5,382",5,5,05/28/2022,Yes
-157,5471890,38.8810244,-104.9024309,Colorado Springs,3420 Cathedral Spires Drive,Residential,"$1,400,000","6,258","4,122",5,6,05/28/2022,Yes
-158,9602645,39.059629,-104.873603,Monument,15757 Long Valley Drive,Residential,"$950,000","3,206","1,603",4,3,05/28/2022,Yes
-159,4721836,39.4742683,-105.0822512,Littleton,7735 Jared Way,Residential,"$665,000","2,406","1,253",4,3,05/28/2022,No
-160,7933702,39.6984309,-104.7985658,Aurora,1031 S Memphis Street,Residential,"$400,000","1,940","1,940",4,3,05/28/2022,No
-161,4406414,,,Breckenridge,1521 Ski Hill Road Unit# 8211,Residential,"$2,250,000","1,128","1,128",2,2,05/28/2022,Yes
-162,5451019,38.8635139,-104.8115138,Colorado Springs,2131 N El Paso Street,Residential,"$505,000","2,054","1,142",3,2,05/28/2022,No
-163,6134434,38.8296065,-106.1218141,Buena Vista, County Road 317,Land,"$450,000",,,,,05/28/2022,No
-164,5129278,39.7635572,-105.0560839,Wheat Ridge,3289 Benton Street,Commercial Sale,"$1,500,000","4,997",,,,05/28/2022,
-165,5329301,,,Englewood,9019 E Panorama Circle Unit# D406,Residential,"$450,000","1,172","1,172",2,2,05/28/2022,Yes
-166,5743384,38.9944604,-105.0559013,Woodland Park,300 Midland Avenue,Residential Lease,"$2,400","1,350","1,350",3,3,05/28/2022,
-167,7761125,38.942426,-104.689079,Colorado Springs,7613 Sand Lake Heights,Residential,"$420,000","2,068","2,068",3,3,05/28/2022,Yes
-168,6550374,39.5345378,-104.8093254,Parker,10086 Granite Hill Drive,Residential,"$795,000","3,644","2,398",5,4,05/28/2022,Yes
-169,7947305,39.1180015,-105.9909431,Fairplay,265 Trout Road,Residential,"$455,000","1,692","1,692",4,2,05/28/2022,No
-170,5235283,39.516912,-104.8022586,Parker,11012 Ouzel Court,Residential,"$620,000","1,867","1,463",3,3,05/28/2022,Yes
-171,4140414,40.0162522,-104.9975417,Broomfield,17899 Galapagos Street,Residential,"$385,000","1,787","1,787",3,3,05/28/2022,Yes
-172,1869180,38.8658452,-104.7858696,Colorado Springs,2317 Monteagle Street,Residential,"$550,000","2,958","1,479",3,3,05/28/2022,No
-173,8626476,38.8843215,-105.2486823,Florissant,145 Arrowhead Road,Land,"$25,000",,,,,05/28/2022,Yes
-174,7072116,39.7439241,-104.7672032,Aurora,18921 E 17th Avenue,Residential,"$495,000","1,664",832,3,2,05/28/2022,No
-175,7507249,40.4006594,-105.1473223,Loveland,787 Rossum Drive,Residential,"$1,195,000","6,116","3,058",4,5,05/28/2022,Yes
-176,4586004,39.88847610000001,-105.115503,Westminster,10600 W 106th Place,Residential,"$549,900","1,365","1,365",3,2,05/28/2022,No
-177,9659921,40.5612281,-105.0621573,Fort Collins,1904 Sequoia Street,Residential,"$1,100,000","3,476","1,787",5,4,05/28/2022,No
-178,6881987,39.5975086,-104.7244317,Aurora,22554 E Peakview Place,Residential,"$825,000","4,300","2,163",4,3,05/28/2022,Yes
-179,9433276,,,Denver,750 S Alton Way Unit# 6A,Residential,"$196,650",855,855,1,1,05/28/2022,Yes
-180,4599168,39.5473819,-104.9287786,Highlands Ranch,9369 Weeping Willow Court,Residential,"$689,900","2,312","1,805",3,3,05/28/2022,Yes
-181,7295693,38.78632229999999,-104.8302767,Colorado Springs,20 Loma Linda Drive,Residential,"$699,999","2,399","2,399",4,3,05/28/2022,No
-182,6246329,39.933006,-105.067934,Broomfield,1178 Clubhouse Drive,Residential,"$860,000","4,639","2,628",4,3,05/28/2022,Yes
-183,5591025,38.8786366,-105.9046077,Hartsel,597 Forge Road,Land,"$150,000",,,,,05/28/2022,Yes
-184,2850434,39.4901773,-104.5749276,Elizabeth,4745 River Highlands Loop,Residential,"$500,000","1,607","1,607",3,2,05/28/2022,Yes
-185,5005933,,,Denver,7665 E Quincy Avenue Unit# 201,Residential,"$219,900",952,952,2,1,05/28/2022,Yes
-186,4449934,39.8187163,-105.14136,Arvada,12665 W 67th Place,Residential,"$675,000","2,410","1,835",6,3,05/28/2022,No
-187,2286776,38.6907046,-105.4296796,Canon City,4232 COUNTY ROAD 352a,Residential,"$699,000","1,296","1,296",2,2,05/28/2022,No
-188,1665903,40.428214,-105.0748816,Loveland,294 Polk Drive,Residential,"$550,000","2,455","1,645",4,4,05/28/2022,Yes
-189,3575840,39.5619585,-104.5957104,Parker,3547 Antelope Ridge Trail,Residential,"$1,315,000","5,357","3,516",6,6,05/28/2022,Yes
-190,8884547,39.681082,-105.09008,Lakewood,1962 S Carr Street,Residential,"$440,000","2,344","1,172",2,2,05/28/2022,Yes
-191,5217110,39.5113057,-105.4986826,Bailey,5 Gray Street,Land,"$150,000",,,,,05/28/2022,No
-192,1664014,39.5018131,-105.0422028,Littleton,9639 Taylor River Circle,Residential,"$765,000","3,204","2,101",3,4,05/28/2022,Yes
-193,2680773,39.3246635,-104.8311203,Castle Rock,5438 Echo Hollow Street,Residential,"$675,000","3,216","2,216",5,4,05/28/2022,Yes
-194,6453570,39.7500868,-104.3234181,Strasburg,56734 E 24th Avenue,Residential,"$525,000","3,360","1,680",3,2,05/28/2022,Yes
-195,6204207,39.5511079,-104.9160034,Highlands Ranch,6378 Monterey Place,Residential,"$600,000","1,953","1,505",3,3,05/28/2022,Yes
-196,4076162,39.3818905,-104.8098725,Castle Rock,5048 Wingfeather Place,Residential,"$799,999","3,706","2,517",4,4,05/28/2022,Yes
-197,8678413,39.892622,-104.8024866,Commerce City,15857 E 107th Way,Residential,"$559,000","2,737","1,987",3,3,05/28/2022,Yes
-198,2837697,39.4377331,-104.8750841,Castle Rock,5380 N Lariat Drive,Residential,"$1,649,000","5,440","3,822",7,9,05/28/2022,Yes
-199,9070543,39.7576265,-104.985104,Denver,2531 Lawrence Street,Residential,"$1,069,000","2,231","1,887",3,4,05/28/2022,Yes
-200,IR966904,40.2684441,-105.4268586,Lyons,0 Cedar Drive,Land,"$97,000",,,,,05/28/2022,Yes
-201,IR966885,40.4386038,-104.9127413,Windsor,2133 Pelican Farm Road,Residential,"$775,000","3,359","2,357",5,4,05/28/2022,Yes
-202,IR966883,39.9357881,-104.9733171,Thornton,1029 E 131st Drive,Residential,"$650,000","3,077","1,968",3,3,05/28/2022,Yes
-203,IR966882,39.8353615,-105.0645319,Arvada,7622 Jay Court,Residential,"$449,000","1,850","1,850",3,2,05/28/2022,No
-204,IR966880,40.3497184,-105.5072422,Estes Park,1930 N Sharon Court N,Residential,"$1,350,000","3,712","1,856",3,3,05/28/2022,Yes
-205,IR966878,,,Fort Collins,"3465 Lochwood Drive Unit# 10, Bldg B",Residential,"$399,900","1,057","1,057",2,2,05/28/2022,Yes
-206,IR966876,39.9968432,-105.2637474,Boulder,2250 Bluebell Avenue,Land,"$1,695,000",,,,,05/28/2022,No
-207,IR966873,40.2401933,-105.3129127,Lyons,208 Longmont Dam Road,Residential,"$775,000","1,732","1,732",3,3,05/28/2022,No
-208,IR966871,39.822778,-105.057036,Arvada,5555 W 69TH Avenue,Residential,"$1,300,000","1,001",,2,1,05/28/2022,No
-209,IR966869,,,Lafayette,1150 Bacchus Drive Unit# A,Residential,"$350,000",910,910,2,1,05/28/2022,Yes
-210,IR966868,39.7717229,-104.7527092,Denver,20203 E 40th Place,Residential,"$630,000","3,218","2,144",5,4,05/28/2022,Yes
-211,IR966866,,,Fort Collins,"845 Birdwhistle Lane Unit# 6, Bldg 20",Residential,"$604,990","1,675","1,675",2,4,05/28/2022,No
-212,IR966865,,,Fort Collins,"845 Birdwhistle Lane Unit# 7, Bldg 20",Residential,"$621,990","2,149","2,149",3,4,05/28/2022,No
-213,IR966864,,,Fort Collins,"845 Birdwhistle Lane Unit# 8, Bldg 20",Residential,"$624,990","1,935","1,935",3,4,05/28/2022,Yes
-214,IR966863,,,Fort Collins,"845 Birdwhistle Lane Unit# 4, Bldg 20",Residential,"$603,990","1,675","1,675",2,4,05/28/2022,No
-215,IR966862,,,Fort Collins,"845 Birdwhistle Lane Unit# 5, Bldg 20",Residential,"$591,990","1,675","1,675",2,4,05/28/2022,No
-216,IR966860,40.9605792,-102.3893712,Ovid,217 5th Street,Residential,"$36,000","1,992","1,800",3,2,05/28/2022,No
-217,IR966859,40.5757232,-104.8442534,Severance,39671 Ridge Park Drive,Residential,"$1,525,000","6,131","2,821",4,5,05/28/2022,Yes
-218,IR966858,40.1083158,-104.5199585,Keenesburg,0 Highway 2,Land,"$580,000",,,,,05/28/2022,No
-219,IR966857,40.03257110000001,-105.2547525,Boulder,2960 Glenwood Drive,Residential,"$575,000","1,402","1,402",2,2,05/28/2022,Yes
-220,IR966855,40.4101429,-104.8241155,Greeley,9009 18th Street,Residential,"$819,900","4,392","2,297",5,5,05/28/2022,Yes
-221,IR966853,40.4040778,-104.7483112,Greeley,2125 44th Avenue,Residential,"$450,000","2,510","1,784",5,4,05/28/2022,No
-222,IR966752,,,Boulder,2930 Shadow Creek Drive Unit# 304,Residential,"$515,000",955,955,2,2,05/27/2022,Yes
-223,IR966732,40.5414502,-105.0992251,Fort Collins,"3449 Laredo Lane, Bldg D",Residential,"$410,000","1,270","1,270",2,2,05/26/2022,Yes
-224,IR966693,40.1463839,-105.1569401,Longmont,3974 Hawthorne Circle,Residential,"$898,000","2,719","1,851",5,4,05/26/2022,Yes
-225,IR966634,40.4709391,-104.7073902,Greeley,1777 AA Street,Residential,"$2,499,000","4,288","2,144",5,3,05/26/2022,No
-226,IR966592,40.3682251,-105.5329703,Estes Park,639 Park River Place,Residential,"$830,000","1,876","1,292",3,3,05/25/2022,Yes
-227,IR966583,40.428214,-105.0748816,Loveland,294 Polk Drive,Residential,"$550,000","2,455","1,645",4,4,05/24/2022,Yes
-228,IR966551,,,Boulder,4674 White Rock Circle Unit# 5,Residential,"$400,000",887,887,2,2,05/25/2022,Yes
-229,IR966478,40.1921593,-105.4858751,Lyons,536 Taylor Road,Residential,"$649,000","1,344",672,2,2,05/24/2022,No
-230,IR966384,40.5415342,-105.1009773,Fort Collins,3337 Hickok Drive,Residential,"$515,000","1,586",818,3,2,05/23/2022,No
-231,IR966286,40.3824335,-104.7407231,Evans,3715 Ironhorse Drive,Residential,"$450,000","2,692","1,346",3,3,05/20/2022,Yes
-232,3306421,,,Denver,"3550 S Harlan Street Unit# 157, Bldg 6",Residential,"$320,000","1,296","1,296",2,3,05/27/2022,Yes
-233,8100678,39.7201429,-104.940625,Denver,240 Colorado Boulevard,Residential,"$999,900","2,913","2,201",4,4,05/27/2022,No
-234,2584315,,,Denver,100 Park Avenue W Unit# 705,Residential,"$350,000",664,664,1,1,05/27/2022,Yes
-235,7033082,39.6505697,-106.0876139,Silverthorne,384 W Coyote Drive,Residential,"$1,250,000","1,704","1,704",3,3,05/27/2022,Yes
-236,9296592,37.166448,-104.5241573,Trinidad,1031 Robinson Avenue,Residential,"$140,000",839,839,2,1,05/27/2022,No
-237,3282010,40.0318721,-105.2244875,Boulder,5505 Valmont Road Lot 202,Manufactured In Park,"$80,000","1,020","1,020",4,2,05/27/2022,Yes
-238,4797134,38.9837603,-104.6005594,Peyton,12166 Sunset Crater Drive,Residential,"$625,000","3,799","2,539",5,4,05/27/2022,Yes
-239,5072923,40.02895400000001,-104.554537,Keenesburg,1985 County Road 55,Residential,"$649,900","3,951","1,976",4,3,05/27/2022,No
-240,9196896,38.8423431,-106.1292759,Buena Vista,102 S Colorado Avenue,Residential,"$725,000","1,824","1,824",2,3,05/27/2022,No
-241,9775441,39.6842981,-105.3441977,Evergreen,1699 Stoneham Lane,Residential,"$1,225,000","4,158","2,486",3,3,05/27/2022,Yes
-242,1990021,39.8667477,-104.9442082,Thornton,3549 E 94th Avenue,Residential,"$429,900","1,535","1,535",3,3,05/27/2022,Yes
-243,6707698,,,Nathrop,10795 County Road 197a Unit# 188,Residential,"$199,500",351,351,1,1,05/27/2022,Yes
-244,6640210,39.7538078,-104.9607209,Denver,2526 N Gaylord Street,Residential Lease,"$5,500","3,255","2,355",5,4,05/27/2022,
-245,8075811,,,Longmont,1400 S Collyer Street Unit# 295,Residential,"$115,000",976,976,2,2,05/27/2022,Yes
-246,7311566,39.7261836,-104.9176002,Denver,621 Kearney Street,Residential Lease,"$7,500","2,951","2,124",4,3,05/27/2022,
-247,9305181,38.9099809,-104.6844054,Colorado Springs,8297 Kettle Drum Street,Residential,"$470,000","2,156","2,120",4,4,05/27/2022,Yes
-248,3234493,40.5299519,-104.7098278,Eaton,124 E 4th Street,Residential,"$269,900","1,296","1,296",3,2,05/27/2022,No
-249,7742810,37.4665481,-105.7037069,Alamosa,7559 Badger Lane,Residential,"$205,000","1,216","1,216",3,2,05/27/2022,No
-250,8013470,39.9323185,-104.9477607,Thornton,13089 Steele Drive,Residential,"$680,000","3,588","2,024",4,3,05/27/2022,No
-251,6121339,38.8265068,-106.1872488,Buena Vista,17210 County Road 338,Residential,"$570,000","1,514","1,514",2,2,05/27/2022,No
-252,5991900,38.9719876,-104.7299683,Colorado Springs,5244 Castlewood Canyon Court,Residential,"$739,900","3,709","2,445",5,4,05/27/2022,Yes
-253,3563332,39.9195003,-104.9098899,Brighton,6702 E 123rd Place,Residential,"$495,000","1,243","1,243",3,3,05/27/2022,No
-254,4457083,39.5182334,-104.7318367,Parker,10895 Ridge Pointe Lane,Residential,"$929,000","4,688","3,078",4,5,05/27/2022,Yes
-255,9893669,39.25526,-106.099598,Fairplay,179 Sunshine Drive,Land,"$124,999",,,,,05/27/2022,No
-256,5402784,39.0904278,-105.7328267,Hartsel,6944 Jefferson Road,Land,"$29,900",,,,,05/27/2022,No
-257,5153262,38.8886174,-105.9534867,Hartsel,2141 Windmill Drive,Residential,"$575,000","2,048","1,024",2,3,05/27/2022,Yes
-258,8887858,38.8346428,-104.8654147,Colorado Springs,1413 Arch Street,Residential,"$390,000",994,994,0,0,05/27/2022,No
-259,3045045,39.36453909999999,-104.8095077,Castle Rock,595 S Lindsey Street,Residential,"$549,999","1,957","1,507",3,3,05/27/2022,Yes
-260,9617139,37.3303195,-107.5802985,Bayfield,1291 Pine Tree Drive,Land,"$49,999",,,,,05/27/2022,No
-261,3845980,38.7466555,-105.1783149,Cripple Creek,142 Mystic Valley Heights,Land,"$40,000",,,,,05/27/2022,No
-262,6479188,,,Denver,1750 Wewatta Street Unit# 631,Residential Lease,"$4,000","1,289","1,289",2,2,05/27/2022,
-263,7052918,,,Denver,1750 Wewatta Street Unit# 929,Residential Lease,"$3,150",897,897,1,1,05/27/2022,
-264,2818557,38.8893671,-105.94215,Hartsel,1591 Blacksmith Road,Land,"$104,999",,,,,05/27/2022,Yes
-265,7596231,37.5720733,-105.1646122,La Veta,6855 Highway 160,Residential,"$569,000","2,148","2,148",3,2,05/27/2022,Yes
-266,5436863,39.7697787,-104.9650108,Denver,3787 N High Street,Residential,"$799,000","1,984","1,672",4,2,05/27/2022,No
-267,5595310,39.4274363,-104.9034184,Castle Pines,7020 Homeplace Street,Residential,"$852,153","2,543","1,515",3,3,05/27/2022,Yes
-268,2324226,38.9516575,-104.6735178,Colorado Springs,8294 Moorebank Drive,Residential Lease,"$2,995","3,405","2,382",5,4,05/27/2022,
-269,2483126,39.331678,-106.0718193,Alma,2336 Quartzville Road,Land,"$199,000",,,,,05/27/2022,Yes
-270,7915116,38.0440451,-105.3698064,Westcliffe,2098 Commanche Road,Residential,"$745,000","2,080","2,080",3,3,05/27/2022,Yes
-271,2010153,38.8421005,-105.3340835,Florissant,899 Meadows Lane,Land,"$35,000",,,,,05/27/2022,No
-272,5469450,39.4476192,-104.2393483,Deer Trail, Parcel 6 Onyx Trail,Land,"$375,000",,,,,05/27/2022,No
-273,3909108,39.6345635,-104.7903599,Aurora,16931 E Stanford Avenue,Residential,"$365,000",842,842,3,1,05/27/2022,No
-274,5615781,39.5617306,-104.7138602,Aurora,23675 E Del Norte Place,Residential,"$1,198,000","4,557","2,278",5,4,05/27/2022,Yes
-275,9859802,39.6986405,-104.9219574,Denver,1001 S Holly Street,Residential,"$1,499,000","2,730","1,512",5,3,05/27/2022,No
-276,6724643,38.9851779,-104.1458097,Calhan,10555 Ramah Highway,Land,"$93,000",,,,,05/27/2022,No
-277,8036928,39.5849469,-105.0796023,Littleton,7339 W Frost Drive,Residential,"$689,000","2,252","1,126",5,3,05/27/2022,No
-278,7081523,39.3400458,-104.6309223,Elizabeth,1991 County Road 132,Residential,"$899,000","2,820","1,410",3,3,05/27/2022,No
-279,6313316,39.50273680000001,-104.8177831,Parker,11780 Camarillo Street,Residential,"$1,150,000","5,302","3,530",6,6,05/27/2022,Yes
-280,3256126,39.6720655,-104.7552159,Aurora,19978 E Dickenson Place,Residential,"$599,900","1,653","1,269",4,3,05/27/2022,Yes
-281,7932794,39.7486766,-104.971897,Denver,2122 N Marion Street,Residential,"$1,250,000","3,384","2,506",4,4,05/27/2022,No
-282,2604727,40.251711,-105.8216659,Grand Lake,828 Grand Avenue,Residential,"$449,900",539,539,1,1,05/27/2022,Yes
-283,2266645,39.7168529,-104.9277748,Denver,30 Fairfax Street,Residential Lease,"$5,250","2,254","2,254",4,2,05/27/2022,
-284,1678397,39.73396,-104.886854,Denver,8700-8702 Richthofen Place,Residential Income,"$750,000","1,756","1,756",4,2,05/27/2022,No
-285,9195884,40.0620707,-104.7323379,Fort Lupton,4240 Falcon Drive,Residential,"$699,000","2,855","1,893",3,3,05/27/2022,Yes
-286,8691741,39.9981738,-105.0469515,Broomfield,16682 Eolus Way,Residential,"$635,000","1,554","1,554",2,2,05/27/2022,Yes
-287,7833272,39.496326,-105.207078,Littleton,12183 Arnett Ranch Road,Residential,"$1,695,000","3,428","2,238",5,4,05/27/2022,No
-288,9291525,38.9158357,-104.6916945,Colorado Springs,5793 Brennan Avenue,Residential,"$491,000","2,130","1,065",2,2,05/27/2022,Yes
-289,7856859,39.6813821,-104.953328,Denver,1900 S Fillmore Street,Residential,"$899,900","2,520","1,435",4,3,05/27/2022,No
-290,4867091,39.7432337,-105.0636186,Lakewood,1650 Ingalls Street,Residential Lease,"$2,800","2,852","1,426",5,2,05/27/2022,
-291,8296772,40.170761,-105.8960771,Granby,246 County Road 640,Residential,"$2,800,000","5,610","4,253",5,7,05/27/2022,Yes
-292,9133216,,,Lakewood,1825 Kendall Street Unit# 105,Residential,"$245,000",580,580,1,1,05/27/2022,Yes
-293,2411954,39.0519437,-105.2415805,Woodland Park,8567 County Road 3,Land,"$2,500,000",,,,,05/27/2022,No
-294,6310590,39.7378715,-104.9497571,Denver,1357 Steele Street,Residential,"$749,900","1,608","1,200",3,2,05/27/2022,No
-295,4090098,,,Grand Lake,828 Grand Avenue Unit# 201a,Residential,"$469,900",539,539,1,1,05/27/2022,Yes
-296,2407185,40.58309029999999,-105.0735283,Fort Collins,308 E Magnolia Street,Residential,"$900,000","2,751","1,835",5,3,05/27/2022,No
-297,8104649,40.182168,-105.105956,Longmont,900 Mountain View Avenue Lot 103,Manufactured In Park,"$75,000",840,840,2,2,05/27/2022,No
-298,6125356,39.4281506,-104.8887683,Castle Rock,4501 Mirage Drive,Residential,"$1,375,000","4,015","2,018",3,4,05/27/2022,Yes
-299,2646749,39.2695947,-105.6428596,Jefferson,1748 Derbishire Road,Residential,"$749,900","1,701","1,701",3,2,05/27/2022,Yes
-300,9604913,40.00020079999999,-105.8657862,Tabernash,4601 County Road 85,Land,"$499,900",,,,,05/27/2022,No
-301,1576490,39.74801670000001,-105.0390523,Denver,2026 Perry Street,Residential,"$1,150,000","1,093","1,093",2,1,05/27/2022,No
-302,7057891,39.5043525,-105.5480899,Bailey,7823 County Road 43,Residential,"$175,000",712,712,2,1,05/27/2022,No
-303,1837684,39.5391274,-105.0343039,Highlands Ranch,3763 Bucknell Drive,Residential,"$675,000","2,728","1,871",4,3,05/27/2022,Yes
-304,2800225,,,Dillon,"0953 Straight Creek Drive Unit# 101, Bldg S",Residential,"$405,000",584,584,1,1,05/27/2022,Yes
-305,6987954,39.81078,-104.870513,Denver,10055 63rd Avenue,Residential,"$678,449","2,035","1,563",2,0,05/27/2022,Yes
-306,2253978,40.0933252,-104.9184215,Frederick,6289 Taylor Street,Residential,"$529,000","1,757","1,603",4,3,05/27/2022,Yes
-307,9994666,39.92952469999999,-104.895421,Thornton,8055 E 128th Place,Residential,"$601,000","1,932","1,932",3,3,05/27/2022,Yes
-308,3613276,39.0673155,-104.8039455,Monument,16255 Thunder Cat Way,Residential,"$1,290,000","5,126","2,980",5,6,05/27/2022,Yes
-309,4394505,39.0179983,-105.0595544,Woodland Park,444 Ridge Place,Residential,"$699,900","2,794","1,898",5,4,05/27/2022,No
-310,7831905,,,Aurora,18701 E Water Drive Unit# E,Residential,"$335,000","1,034","1,034",1,1,05/27/2022,No
-311,1634210,39.810851,-104.87043,Denver,10075 63rd Avenue,Residential,"$653,794","1,881","1,461",2,1,05/27/2022,Yes
-312,1715989,39.6619792,-104.8984164,Denver,3075 S Spruce Way,Residential,"$679,000","2,096","1,667",3,4,05/27/2022,No
-313,2203420,,,Dillon,175 Argentine Court Unit# 1523 and 1524,Residential,"$1,850,000","2,649","2,649",4,4,05/27/2022,Yes
-314,9102992,40.53603409999999,-105.0597713,Fort Collins,1001 Sailors Reef,Residential,"$499,900","1,765","1,765",2,2,05/27/2022,Yes
-315,5602832,39.5135073,-105.5246666,Bailey,44 Bandit Lane,Residential,"$675,000","2,034","2,034",4,2,05/27/2022,No
-316,2028946,,,Parker,9066 Apache Plume Drive Unit# A,Residential Lease,"$2,500","1,623","1,623",3,3,05/27/2022,
-317,7362714,38.9708535,-104.5815741,Peyton,12875 Morning Breeze Way,Residential,"$725,900","4,226","3,027",4,4,05/27/2022,Yes
-318,8685086,39.0591644,-104.7814934,Colorado Springs,15745 Roller Coaster Road,Residential,"$1,690,000","5,807","4,859",6,5,05/27/2022,No
-319,2847589,40.6019275,-105.0094225,Fort Collins,1121 Elgin Court,Residential,"$540,000","1,732","1,732",3,2,05/27/2022,Yes
-320,8073539,39.9999589,-104.7564465,Brighton,687 N 48th Avenue,Residential,"$545,000","2,745","1,891",4,4,05/27/2022,Yes
-321,6058393,40.4665799,-104.9027852,Twin Lakes,379 Hemlock Drive,Land,"$55,000",,,,,05/27/2022,No
-322,3982202,38.8991359,-104.7272341,Colorado Springs,4635 Woodsorrel Court,Residential,"$625,000","3,015","1,680",4,3,05/27/2022,No
-323,1541053,38.5517248,-105.6756792,Cotopaxi,4647 co Rd 16,Residential,"$1,790,000","3,864","3,864",4,3,05/27/2022,No
-324,6355568,39.2304159,-106.0001361,Fairplay,632 Silverheels Circle,Residential,"$798,980","2,088","2,088",4,2,05/27/2022,No
-325,8240638,,,Fort Collins,2001 S Shields Street Unit# J3,Commercial Sale,"$380,000",,,,,05/27/2022,
-326,8765359,39.50038929999999,-105.3241408,Conifer,28098 Green Valley Lane,Residential,"$2,755,000","7,484","4,802",3,4,05/27/2022,No
-327,8729785,39.4126938,-104.6384633,Elizabeth,1347 Mountview Drive,Land,"$179,000",,,,,05/27/2022,No
-328,6082430,39.3635046,-104.5958932,Elizabeth,375 Logan Street,Residential,"$415,000","1,312",865,3,2,05/27/2022,No
-329,9006033,39.5439493,-104.895953,Lone Tree,9528 Pinyon Trail,Residential,"$1,200,000","5,075","3,370",5,5,05/27/2022,Yes
-330,9700828,39.70333189999999,-104.9202921,Denver,724 S Ivy Street,Residential,"$748,000","2,284","1,142",4,3,05/27/2022,No
-331,6823120,40.4317799,-105.0719756,Loveland,447 Slippery Elm Court,Residential,"$415,000","1,008","1,008",2,2,05/27/2022,No
-332,4178145,39.7495692,-105.132337,Lakewood,2132 Union Way,Residential,"$999,999","3,000","1,850",4,3,05/27/2022,No
-333,6343431,,,Louisville,1400 Main Street Unit# 101,Commercial Lease,$16,"1,642",,,,05/27/2022,
-334,9869775,39.5200922,-104.7835219,Parker,10907 Baxter Drive,Residential,"$799,900","4,386","3,330",5,3,05/27/2022,Yes
-335,9722304,39.8131279,-105.0417919,Arvada,6400 Raleigh Street,Residential,"$450,000","1,552","1,552",3,2,05/27/2022,No
-336,8395120,,,Breckenridge,120 Atlantic Lode Road Unit# 4,Residential,"$885,000",812,812,2,2,05/27/2022,Yes
-337,9792657,40.5403168,-105.1179697,Fort Collins,2206 Bronson Street,Residential,"$625,000","2,659","1,600",4,4,05/27/2022,Yes
-338,4219206,40.2146371,-104.0816599,Wiggins,503 Pronghorn Court,Residential,"$355,000","1,349","1,349",3,2,05/27/2022,Yes
-339,5945640,,,Denver,2034 S Holly Street Unit# 4,Residential,"$632,660","1,315","1,315",3,3,05/27/2022,Yes
-340,8430200,39.716063,-105.2708499,Golden,219 Pine Road,Land,"$89,900",,,,,05/27/2022,No
-341,9709704,38.815621,-104.75077,Colorado Springs,4097 Jericho Loop,Residential,"$390,000","1,125","1,125",2,2,05/27/2022,Yes
-342,3921867,39.4809811,-106.0358913,Breckenridge,146 Moonstone Road,Residential,"$2,000,000","2,356","2,356",,0,05/27/2022,No
-343,2036379,39.4490016,-105.4600001,Bailey,238 Derringer Court,Residential,"$1,750,000","7,386","5,823",4,5,05/27/2022,Yes
-344,9593807,39.5586492,-106.0583802,Breckenridge,600 Alpensee Drive,Residential,"$2,000,000","2,900","2,900",0,0,05/27/2022,No
-345,4393515,39.7151245,-104.9248775,Denver,65 S Grape Street,Residential,"$1,099,000","2,111","1,391",3,3,05/27/2022,No
-346,6715925,39.8049048,-104.7573581,Aurora,19916 E 59th Drive,Residential,"$580,000","2,782","2,038",3,3,05/27/2022,Yes
-347,7771196,,,Wheat Ridge,10251 W 44th Avenue Unit# 1-108,Residential,"$315,000",954,954,2,1,05/27/2022,Yes
-348,3783422,39.404102,-104.849746,Castle Rock,4193 Black Feather Trail,Residential,"$733,000","3,371","3,371",5,4,05/27/2022,Yes
-349,6854523,40.1845223,-104.9628202,Firestone,12648 Canoe Street,Residential,"$820,000","4,401","3,069",5,4,05/27/2022,Yes
-350,2956252,39.7643076,-104.9531441,Denver,2910 Bruce Randolph Avenue,Residential,"$350,000","1,956","1,440",3,3,05/27/2022,Yes
-351,2015790,40.45194619999999,-104.9106075,Windsor,1774 Beachside Drive,Residential,"$797,487","2,130","2,130",3,2,05/27/2022,Yes
-352,3018992,40.4494591,-104.9309399,Windsor,1594 Winter Glow Drive,Residential,"$935,902","4,117","2,752",4,3,05/27/2022,Yes
-353,8807280,38.6618276,-104.8650954,Colorado Springs,11545 Calle Corvo,Residential,"$1,750,000","4,791","2,481",5,4,05/27/2022,No
-354,6423588,39.330372,-104.865271,Castle Rock,271 Kitselman Drive,Residential,"$885,000","3,423","2,401",3,3,05/27/2022,Yes
-355,3336519,39.7992514,-105.1663299,Golden,14888 W 57th Drive,Residential,"$2,195,000","6,422","4,394",6,7,05/27/2022,No
-356,4586217,39.3160998,-105.892792,Como,2463 Arrowhead Drive,Residential,"$590,000","1,803","1,803",4,3,05/27/2022,Yes
-357,9439508,38.9821123,-104.5818473,Peyton,10339 Evening Vista,Residential,"$565,000","3,480","2,381",3,3,05/27/2022,Yes
-358,2375444,40.0388623,-105.0377282,Erie,329 Bonanza Drive,Residential Lease,"$3,245","2,645","1,825",4,3,05/27/2022,
-359,5887709,39.068648,-104.815346,Monument,620 Sage Forest Lane,Residential,"$600,000","1,854","1,854",3,3,05/27/2022,Yes
-360,8764429,,,Denver,1800 Lawrence Street Unit# 103,Residential,"$495,000",906,906,1,1,05/27/2022,Yes
-361,4568552,39.1121409,-104.8549249,Monument,1520 Fawnwood Road,Residential,"$849,000","3,864","2,326",4,4,05/27/2022,Yes
-362,6218673,38.7285069,-104.703449,Colorado Springs,7110 Gershwin Court,Residential,"$425,000","1,427",937,3,2,05/27/2022,No
-363,2753084,38.931863,-104.6859543,Colorado Springs,6975 Dancing Wind,Residential,"$625,000","3,016","2,094",5,4,05/27/2022,Yes
-364,8431988,39.4577101,-104.8792577,Castle Pines,6531 Merrimack Drive,Residential,"$839,950","5,051","2,541",4,3,05/27/2022,Yes
-365,5867215,39.7950102,-104.8111491,Denver,15165 Maxwell Place,Residential,"$459,900","1,936",968,5,2,05/27/2022,No
-366,7791537,38.8336539,-106.1497086,Buena Vista,93 Tammie Drive,Residential,"$509,500","1,348","1,348",3,2,05/27/2022,No
-367,7856606,,,Englewood,10111 Inverness Main Street Unit# 315,Residential Lease,"$2,650","1,130","1,130",2,2,05/27/2022,
-368,9100744,39.5344215,-105.014855,Highlands Ranch,2131 Maples Place,Residential,"$935,000","4,060","2,717",4,3,05/27/2022,Yes
-369,4446044,40.802481,-105.5916629,Red Feather Lakes,1137 Okmulgee Circle,Residential,"$325,000",960,960,2,2,05/27/2022,Yes
-370,6922918,39.4167347,-104.8249645,Castle Rock,3304 Offbeaten Place,Residential,"$1,334,168","4,687","3,332",6,5,05/27/2022,Yes
-371,9192035,39.250827,-105.9828637,Fairplay,168 Dry Lake Road,Residential,"$499,000","1,900","1,900",3,2,05/27/2022,Yes
-372,8552914,39.336495,-104.6569027,Elizabeth,295 High Meadows Loop,Residential,"$1,275,000","4,956","2,478",3,2,05/27/2022,Yes
-373,8502208,39.73184579999999,-104.8443902,Aurora,1006 Quentin Street,Residential,"$499,900","1,644","1,612",3,2,05/27/2022,No
-374,2841894,38.8654431,-104.7027656,Colorado Springs,2255 Lisa Drive,Residential,"$405,000","1,583","1,231",3,2,05/27/2022,No
-375,7448009,40.302202,-105.063063,Berthoud,206 Cowbell Drive,Residential,"$692,167","3,714","2,187",3,4,05/27/2022,Yes
-376,7038879,39.9941512,-104.7488809,Brighton,5216 Sagebrush Street,Residential,"$520,000","2,376","1,692",3,2,05/27/2022,Yes
-377,1903871,39.2438422,-106.3068769,Leadville,000 County Road 4,Land,"$135,000",,,,,05/27/2022,No
-378,3358544,39.8070388,-104.7431863,Aurora,20936 E 61st Avenue,Residential,"$750,000","2,854","1,382",4,3,05/27/2022,Yes
-379,6585932,40.56257600000001,-105.068921,Fort Collins,1821 Indian Hills Circle,Residential,"$535,000","2,276","1,144",4,3,05/27/2022,Yes
-380,4427639,38.626664,-104.263722,Yoder,30495 Fred View,Land,"$48,000",,,,,05/27/2022,Yes
-381,4738282,38.886031,-105.96119,Hartsel,928 Kaufman Road,Residential,"$739,000","3,036","2,024",3,2,05/27/2022,Yes
-382,1842564,39.6900659,-105.0850372,Lakewood,1456 S Zephyr Court,Residential,"$599,900","2,194","1,097",4,3,05/27/2022,No
-383,5201634,39.6807108,-105.1448322,Lakewood,12951 W Jewell Circle,Residential,"$675,000","1,918","1,918",3,3,05/27/2022,No
-384,7288940,39.9980243,-104.7447336,Brighton,802 Gamble Oak Street,Residential,"$698,000","3,477","2,332",4,4,05/27/2022,Yes
-385,6410287,40.0666111,-104.72842,Fort Lupton,4800 Meadow Lark Road,Residential,"$1,065,000","4,664","2,653",4,3,05/27/2022,Yes
-386,5340288,39.4160431,-106.0469233,Breckenridge,528 97 Circle,Residential,"$675,000",676,580,1,1,05/27/2022,No
-387,4578777,40.56972409999999,-105.1004292,Fort Collins,1338 Bennett Road,Residential,"$925,000","3,888","2,307",5,5,05/27/2022,Yes
-388,7829885,38.7299151,-106.1376715,Nathrop,14510 County Road 276,Residential,"$649,900","1,568","1,568",3,2,05/27/2022,No
-389,8114521,39.8804347,-104.7920694,Commerce City,16722 E 102nd Avenue,Residential,"$539,800","3,012","1,506",2,2,05/27/2022,Yes
-390,3241552,40.42445800000001,-104.740107,Greeley,818 37th Avenue Court,Residential,"$230,000","1,596","1,071",2,2,05/27/2022,Yes
-391,3608856,40.2509123,-105.8473948,Grand Lake,714 GCR 4632,Land,"$119,000",,,,,05/27/2022,Yes
-392,4878663,39.8059501,-104.74446,Aurora,6016 N Lisbon Street,Residential,"$761,034","4,054","2,754",4,4,05/27/2022,Yes
-393,9037826,39.813431,-105.140068,Arvada,6430 Wright Street,Residential,"$425,000","1,878","1,421",3,3,05/27/2022,Yes
-394,6668294,39.6417663,-104.7472402,Aurora,20656 E Oxford Place,Residential,"$599,000","2,466","1,726",5,3,05/27/2022,Yes
-395,7194610,39.6754197,-104.8780946,Denver,2276 S Dayton Street,Residential,"$695,000","2,714","2,710",4,3,05/27/2022,No
-396,4849812,39.14649319999999,-104.7558476,Larkspur,14700 Arfsten Road,Land,"$900,000",,,,,05/27/2022,No
-397,4681567,38.8599604,-104.6975261,Colorado Springs,1971 Mineola Street,Residential,"$289,999",984,984,2,2,05/27/2022,Yes
-398,8869363,39.62798600000001,-104.7428423,Aurora,21230 E Layton Lane,Residential,"$926,999","4,958","3,347",6,5,05/27/2022,Yes
-399,3214125,40.0314255,-105.2436753,Boulder,3129 Bell Drive,Residential,"$609,000","1,444","1,444",3,3,05/27/2022,Yes
-400,3197831,39.4803791,-105.0709378,Littleton,8047 Monte Vista Circle,Residential,"$718,700","2,866","1,949",4,3,05/27/2022,Yes
-401,8396760,39.6571205,-104.9792505,Englewood,3284 S Washington Street,Residential,"$615,000","1,608",936,3,2,05/27/2022,No
-402,8862457,39.7519319,-104.8643657,Aurora,2340 Iola Street,Residential,"$495,000","2,088","1,044",3,2,05/27/2022,No
-403,8120498,40.4337381,-105.1012742,Loveland,4163 Georgetown Drive,Residential,"$476,000","2,683","1,734",2,3,05/27/2022,Yes
-404,2926432,39.6090557,-104.9553359,Centennial,5927 S Elizabeth Way,Residential Lease,"$3,000","1,776","1,776",4,2,05/27/2022,
-405,4052634,39.5303909,-104.9366267,Highlands Ranch,4507 Lyndenwood Point,Residential,"$675,000","2,267","1,862",3,3,05/27/2022,Yes
-406,3607154,40.331681,-104.9382936,Johnstown,2398 Siskin Way,Residential,"$603,675","2,716","2,716",5,2,05/27/2022,Yes
-407,5800705,39.6858729,-104.7759093,Aurora,1750 S Walden Way,Residential,"$399,999","1,296","1,296",3,2,05/27/2022,No
-408,8106308,39.707719,-104.968238,Denver,1625 E Virginia Avenue,Residential Income,"$1,499,900","1,824","1,824",4,,05/27/2022,No
-409,3046095,39.9691942,-105.5158179,Nederland,5 Sundown Trail,Residential,"$869,000","2,679","1,703",3,4,05/27/2022,No
-410,6836172,,,Aurora,23456 E 5th Place Unit# 202,Residential,"$345,000","1,084","1,084",2,2,05/27/2022,Yes
-411,7316262,40.0358882,-107.9230239,Meeker,1231 Main Street,Residential,"$220,000","1,079","1,079",3,1,05/27/2022,No
-412,6411107,39.8790912,-104.9558835,Thornton,10092 Elizabeth Street,Residential,"$550,000","2,587","1,911",4,3,05/27/2022,No
-413,3412557,39.7400442,-105.5504844,Idaho Springs,0000 Spring Gulch,Land,"$186,000",,,,,05/27/2022,No
-414,6357741,39.8612398,-104.9448858,Thornton,9146 Delwood Court,Residential,"$450,000","1,920",960,3,2,05/27/2022,No
-415,2901219,39.3790786,-104.4412256,Kiowa, COUNTY ROAD 142,Land,"$285,000",,,,,05/27/2022,No
-416,5646978,39.5859275,-104.6637491,Aurora,129 S Waterloo Street,Residential,"$698,995","3,540","2,548",4,3,05/27/2022,Yes
-417,6660764,39.3790786,-104.4412256,Kiowa, COUNTY ROAD 142,Land,"$305,000",,,,,05/27/2022,No
-418,9397610,37.5081745,-105.5475616,Blanca,00 Eighteenth Street,Land,"$6,000",,,,,05/27/2022,No
-419,8783443,40.1883085,-105.1104326,Longmont,1651 Gay Street,Residential,"$625,000","2,252","1,136",4,2,05/27/2022,No
-420,8005304,,,Denver,1182 Clermont Street Unit# A202,Residential,"$235,000",528,528,1,1,05/27/2022,Yes
-421,7683028,39.9381334,-104.9176687,Thornton,13349 Krameria Street,Residential,"$695,000","4,209","2,313",3,3,05/27/2022,Yes
-422,8645548,,,Denver,875 S Quebec Unit# 11,Residential,"$220,000",833,833,2,2,05/27/2022,Yes
-423,8889284,39.7314208,-104.6638099,Aurora,35 N Waterloo Street,Residential,"$695,895","3,314","2,398",4,3,05/27/2022,Yes
-424,4082492,39.9917898,-105.0883826,Lafayette,206 Skylark Circle,Manufactured In Park,"$84,500",896,896,2,2,05/27/2022,Yes
-425,4948577,39.8822581,-104.7914995,Commerce City,10267 Ouray Street,Residential,"$580,000","3,190","2,195",4,3,05/27/2022,Yes
-426,2586943,39.8713243,-104.9277177,Denver,5129 Riverdale Avenue Lot 73,Manufactured In Park,"$110,000","1,216","1,216",3,2,05/27/2022,Yes
-427,5499415,38.8504781,-104.8625413,Colorado Springs,2611 W Bijou Street,Residential Income,"$639,900","1,667","1,667",3,2,05/27/2022,No
-428,7095925,40.4521659,-104.9113833,Windsor,1771 Barefoot Drive,Residential,"$964,698","3,134","3,134",4,3,05/27/2022,Yes
-429,3286291,39.330372,-104.865271,Castle Rock,271 Kitselman Drive,Residential,"$881,777","2,401",,3,3,05/27/2022,
-430,5580514,39.812951,-104.7614271,Denver,19037 E 64th Avenue,Residential,"$418,390","1,371",,3,3,05/27/2022,
-431,5532436,39.813621,-104.76314,Denver,6435 N Dunkirk Street,Residential,"$408,340","1,248",,2,3,05/27/2022,
-432,8555121,,,Denver,6571 N Danube Way Unit# 1,Residential,"$484,030","1,498",,2,2,05/27/2022,
-433,3294234,39.81800800000001,-104.76673,Denver,6643 N Danube Way,Residential,"$480,550","1,245","1,245",2,2,05/27/2022,Yes
-434,5632848,39.459973,-104.855359,Castle Pines,1650 Golden Sill Drive,Residential,"$949,252","2,893",,4,3,05/27/2022,
-435,9338016,39.9812583,-104.8987129,Thornton,7692 E 158th Place E,Residential,"$679,900","1,616","1,616",3,2,05/27/2022,Yes
-436,4724355,39.51382600000001,-104.814611,Parker,15012 Cast Pebble Circle,Residential,"$762,900","2,411",,3,3,05/27/2022,
-437,9224592,39.514098,-104.814867,Parker,15050 Gladshine Drive,Residential,"$698,400","2,297",,4,4,05/27/2022,
-438,4791446,39.8145687,-105.4894701,Black Hawk,0000 Dory Hill Road,Land,"$150,000",,,,,05/27/2022,No
-439,6802769,38.962427,-104.703772,Colorado Springs,6132 Harmonica Arch Drive,Residential,"$550,900","1,813",,3,2,05/27/2022,
-440,3662106,40.5291491,-104.9852533,Timnath,4810 Denys Drive,Residential,"$552,065","1,620",,3,3,05/27/2022,
-441,7172619,,,Fort Collins,557 Vicot Way Unit# D,Residential,"$378,465",868,,1,1,05/27/2022,
-442,9753875,39.9831657,-104.9588708,Thornton,15801 Josephine Circle,Residential,"$725,000","3,545","2,415",4,4,05/27/2022,Yes
-443,6831503,38.8422488,-106.1288165,Buena Vista,115 S Colorado Avenue,Residential,"$575,000","1,321","1,321",3,1,05/27/2022,No
-444,5264899,39.928951,-104.959406,Thornton,2273 E 128th Avenue,Residential,"$440,000","2,226","1,483",2,3,05/27/2022,Yes
-445,9670926,,,Frisco,910 Copper Road Unit# 622,Residential,"$600,000",591,591,1,1,05/27/2022,Yes
-446,5601318,39.723276,-105.2061001,Golden,1325 C Street,Manufactured In Park,"$132,000","1,150","1,150",3,2,05/27/2022,Yes
-447,9986536,39.442091,-104.666963,Parker,5524 Freddys Trail,Residential,"$1,325,000","4,353","2,957",5,5,05/27/2022,No
-448,3860384,39.72731599999999,-104.8652323,Aurora,761 Iola Street,Residential,"$410,000",816,816,3,1,05/27/2022,No
-449,8735107,39.3290426,-102.2595617,Burlington,19892 US Highway 385,Land,"$650,000",,,,,05/27/2022,No
-450,9282803,39.8812949,-104.9277291,Thornton,10137 Eudora Court,Residential,"$459,900","1,110","1,110",3,2,05/27/2022,Yes
-451,8172840,40.1560131,-104.9669263,Firestone,4666 Timberline Avenue,Manufactured In Park,"$160,000","1,404","1,404",3,2,05/27/2022,No
-452,5279111,40.50428309999999,-104.9507269,Timnath,5890 Jasper Street,Residential,"$710,000","3,085","2,110",4,4,05/27/2022,Yes
-453,1620561,39.9038519,-104.9181021,Thornton,11378 Kearney Way,Residential,"$599,000","3,459","2,254",3,3,05/27/2022,Yes
-454,4713657,38.0866304,-106.1417453,Saguache, San Juan Avenue,Land,"$149,000",,,,,05/27/2022,No
-455,6936985,38.8774489,-104.7353,Colorado Springs,3135 Raindrop Drive,Residential,"$390,000","2,174","2,174",5,3,05/27/2022,No
-456,8482089,39.8950691,-104.8352162,Commerce City,10934 Ursula Street,Residential,"$590,000","2,927","2,012",3,3,05/27/2022,Yes
-457,8224469,39.7630278,-105.2255896,Golden,414 Ford Street,Land,"$550,000",,,,,05/27/2022,No
-458,8187862,39.7045921,-105.0213377,Denver,660 S Dale Court,Residential,"$499,900","1,524",762,4,1,05/27/2022,No
-459,8102148,39.6125252,-104.729262,Aurora,5695 S Shawnee Street,Residential,"$730,000","4,151","2,714",5,4,05/27/2022,Yes
-460,3476319,39.6222203,-105.1231317,Littleton,11207 W Progress Avenue,Residential,"$700,000","2,610","1,908",4,3,05/27/2022,Yes
-461,8646814,39.4121995,-104.9039067,Castle Rock,5075 Stonecrop Circle,Residential,"$584,900","2,124","1,440",3,2,05/27/2022,Yes
-462,5509678,40.16745299999999,-104.9451596,Firestone,5831 Vine Avenue,Residential,"$525,000","2,507","1,747",3,3,05/27/2022,Yes
-463,2651737,,,Denver,1811 S Quebec Way Unit# 19,Residential,"$320,000","1,327","1,131",2,3,05/27/2022,Yes
-464,7389763,39.749852,-105.0248531,Denver,2156 Federal Boulevard,Residential,"$690,000","1,652","1,350",3,2,05/27/2022,No
-465,7849242,39.8125073,-105.0506501,Arvada,6389 Xavier Court,Residential,"$535,000","1,658","1,658",4,2,05/27/2022,No
-466,4928437,39.6689032,-105.1058648,Lakewood,2558 S Independence Court,Residential,"$675,000","2,766","1,807",2,4,05/27/2022,Yes
-467,2655414,39.9659108,-105.045673,Broomfield,14786 Eagle River Loop,Residential,"$915,000","3,590","1,795",3,3,05/27/2022,Yes
-468,4560201,39.4418456,-104.8924176,Castle Rock,38 Castle Pines Drive N,Residential,"$1,850,000","7,568","4,841",5,5,05/27/2022,Yes
-469,6917876,39.015737,-104.492283,Peyton,17925 E US Highway 24,Residential,"$1,999,000","1,954","1,954",4,3,05/27/2022,No
-470,2625243,39.1347065,-105.9772633,Fairplay,1294 Kokanee Road,Residential,"$395,000","1,188","1,188",2,2,05/27/2022,No
-471,9059123,39.5887523,-104.7261633,Aurora,7034 S Tibet Way,Residential,"$639,900","3,430","1,729",2,2,05/27/2022,Yes
-472,4814011,39.068623,-104.863432,Monument,1999 Peak Prairie Lane,Residential Lease,"$2,950","1,963","1,963",3,3,05/27/2022,
-473,3542958,39.4768508,-106.0630535,Breckenridge,457 Timber Trail Road,Residential,"$11,900,000","9,536","5,118",7,9,05/27/2022,Yes
-474,3078070,39.4086235,-104.6023365,Elizabeth,37245 Polo Run Drive,Residential,"$899,000","3,419","2,187",4,4,05/27/2022,Yes
-475,4358109,39.6082125,-104.7734478,Aurora,5932 S Zeno Court,Residential,"$600,000","1,956","1,612",3,4,05/27/2022,Yes
-476,2839897,39.7242184,-104.680852,Aurora,435 N Old Hammer Street,Residential,"$595,000","2,798","1,883",3,3,05/27/2022,Yes
-477,8287449,40.40131179999999,-105.1527822,Loveland,910 Owl Grove Place,Residential,"$995,000","4,996","2,498",5,4,05/27/2022,Yes
-478,7600158,37.9784083,-105.6847414,Crestone,383 N Chaparral Way,Residential,"$585,000","1,640","1,640",3,2,05/27/2022,Yes
-479,1984524,,,Frisco,737 Lagoon Drive Unit# A,Residential,"$875,000","1,120","1,120",2,3,05/27/2022,Yes
-480,3633004,,,Littleton,2769 W Riverwalk Circle Unit# D,Residential,"$475,000","1,279","1,279",2,2,05/27/2022,Yes
-481,9892606,38.989699,-104.75529,Colorado Springs,10925 Howells Road,Residential,"$1,400,000","4,488","2,992",6,4,05/27/2022,No
-482,3271329,,,Thornton,12963 Lafayette Street Unit# B,Residential,"$349,900","1,166","1,166",2,2,05/27/2022,Yes
-483,3128862,,,Arvada,7130 Simms Street Unit# 104,Residential,"$350,000",948,948,1,1,05/27/2022,Yes
-484,2508073,39.59649,-105.08042,Littleton,6638 S Webster Street,Residential,"$550,000","2,186","1,432",2,4,05/27/2022,Yes
-485,2705525,,,Denver,9315 E Center Avenue Unit# 5D,Residential,"$315,000","1,380","1,380",2,2,05/27/2022,Yes
-486,8945002,39.5851832,-104.7372824,Aurora,7243 S Perth Way,Residential,"$1,525,000","7,536","4,348",4,7,05/27/2022,Yes
-487,5392401,,,Parker,9359 Las Ramblas Court Unit# O,Residential,"$315,000",933,933,1,1,05/27/2022,Yes
-488,6572484,39.603058,-104.037383,Deer Trail,329 S 3rd Avenue,Residential,"$400,000","3,214","2,143",3,3,05/27/2022,Yes
-489,6848643,38.8501691,-104.8909351,Manitou Springs,35 Sutherland Road,Residential,"$649,900","2,168","1,229",3,3,05/27/2022,No
-490,4421833,39.324676,-104.8420189,Castle Rock,1958 Villageview Lane,Residential,"$649,900","2,657","1,813",3,4,05/27/2022,Yes
-491,2570329,39.9486053,-104.8954141,Thornton,8011 E 138th Place,Residential,"$710,000","4,023","2,531",4,4,05/27/2022,Yes
-492,8444723,39.1238763,-104.9157753,Palmer Lake,255 Upper Glenway,Residential,"$475,000","2,475","1,452",4,2,05/27/2022,No
-493,4906187,39.5019841,-104.7369862,Parker,11855 Discovery Circle,Residential,"$920,000","3,995","3,068",4,3,05/27/2022,Yes
-494,8718818,39.5932801,-105.1258498,Littleton,6817 S Queen Lane,Residential,"$980,000","4,829","2,996",4,4,05/27/2022,Yes
-495,5862509,38.8500756,-104.74822,Colorado Springs,1210 N Murray Boulevard,Residential,"$425,000","2,350","1,325",5,3,05/27/2022,No
-496,9931679,39.4433473,-104.9115323,Castle Rock,180 Ramshorn Drive,Residential,"$1,750,000","6,433","3,969",5,5,05/27/2022,Yes
-497,4087459,39.5495528,-104.8837507,Lone Tree,8989 E Cedar Hill Place,Residential,"$1,199,000","4,149","2,916",4,4,05/27/2022,Yes
-498,5862651,39.7245881,-104.7123641,Aurora,23625 E 5th Place,Residential,"$469,900","1,553","1,553",3,2,05/27/2022,Yes
-499,6871649,39.6275744,-105.1528736,Morrison,4868 S Coors Court,Residential,"$825,000","3,430","2,615",4,3,05/27/2022,Yes
-500,4948056,39.81941399999999,-105.1171931,Arvada,6798 Newman Street,Residential,"$699,000","2,030","1,015",4,2,05/27/2022,No
-501,3335314,39.5925521,-105.1049398,Littleton,9462 W Ontario Drive,Residential,"$410,000","1,116","1,116",2,3,05/27/2022,Yes
-502,9327237,39.9030221,-104.9465742,Thornton,3483 E 114th Drive,Residential,"$465,000","1,700",850,2,1,05/27/2022,No
-503,8422745,39.1003233,-106.3288422,Twin Lakes,446 Mount Hope Drive,Residential,"$995,000","2,479","2,479",3,3,05/27/2022,Yes
-504,7721881,39.9248673,-105.150589,Superior,3032 W Yarrow Circle,Residential,"$750,000","1,800","1,408",4,3,05/27/2022,Yes
-505,4863166,39.8510154,-105.0914313,Arvada,8566 W 84th Circle,Residential,"$665,000","2,616","1,941",3,3,05/27/2022,No
-506,4667295,39.7332617,-105.1792848,Golden,1035 Orchard Street,Residential,"$670,000","2,200","1,125",4,2,05/27/2022,No
-507,4763268,39.7112386,-104.8544254,Aurora,296 Moline Street,Residential,"$499,900","2,314","1,543",3,2,05/27/2022,No
-508,3596821,39.4575,-105.47185,Bailey,58 Conestoga Court,Residential,"$825,000","2,216","1,740",3,2,05/27/2022,Yes
-509,9853045,,,Fraser,905 County Road 834 Unit# B-10,Residential,"$735,000","1,390","1,390",2,3,05/27/2022,Yes
-510,5339475,39.2508229,-106.2925238,Leadville,4193 Badger,Land,"$79,000",,,,,05/27/2022,No
-511,4399172,39.8977346,-104.9264059,Thornton,11133 Forest Avenue,Residential,"$505,000","1,885","1,885",4,2,05/27/2022,No
-512,9152530,39.5313634,-105.0272728,Highlands Ranch,3266 White Oak Lane,Residential,"$950,000","4,733","3,084",5,4,05/27/2022,Yes
-513,2291764,39.0858474,-104.8364099,Monument,17485 Chipped Arrow Way,Residential,"$715,000","3,599","2,135",3,3,05/27/2022,Yes
-514,4264654,,,Englewood,10111 Inverness Main Street Unit# 301,Residential,"$579,000","1,387","1,387",2,2,05/27/2022,Yes
-515,9774386,39.7066011,-104.8494067,Aurora,11933 E Virginia Drive,Residential,"$509,000","2,233","1,192",4,3,05/27/2022,No
-516,5379599,39.7477972,-105.092322,Lakewood,2001 Cody Street,Residential,"$799,000","2,113","2,113",3,2,05/27/2022,No
-517,1656958,39.3704946,-104.8045382,Castle Rock,102 Ponderosa Street,Residential,"$630,000","2,701","2,159",4,3,05/27/2022,Yes
-518,6594695,39.690401,-104.8762021,Denver,9636 E Arkansas Place,Residential,"$507,000","2,200","2,200",3,3,05/27/2022,Yes
-519,5375752,39.694086,-105.1043091,Lakewood,1260 Hoyt Street,Residential,"$748,000","2,340","1,170",5,2,05/27/2022,No
-520,9288459,39.6369098,-105.2734716,Indian Hills,4362 Pima Road,Residential,"$1,995,000","5,129","2,918",5,4,05/27/2022,No
-521,9052646,38.2490328,-105.9494021,Villa Grove,57111 County Road Ll57,Residential,"$249,000","1,152","1,152",3,1,05/27/2022,No
-522,5755358,39.6826078,-104.986599,Denver,1877 S Lincoln Street,Residential,"$775,000","1,594",797,2,1,05/27/2022,No
-523,6329029,39.7495258,-104.9369461,Denver,2200 Bellaire Street,Residential,"$2,495,000","4,119","2,486",5,3,05/27/2022,No
-524,8919321,,,Nathrop,10795 County Road 197a Unit# 127,Residential,"$195,000",406,406,1,1,05/27/2022,Yes
-525,3073633,39.9491616,-104.9241246,Thornton,13945 Hudson Street,Residential,"$685,000","3,855","2,431",4,4,05/27/2022,Yes
-526,3807986,39.5217598,-104.4905771,Elizabeth,9330 Sun Country Drive,Residential,"$749,000","2,392","1,204",4,3,05/27/2022,Yes
-527,2717333,40.03124760000001,-105.0752409,Erie,883 Marfell Street,Residential,"$1,080,000","4,800","2,453",5,3,05/27/2022,No
-528,9909191,39.5200711,-105.3591791,Conifer,10835 Beas Drive,Residential,"$2,995,000","7,460","7,460",4,7,05/27/2022,No
-529,3736153,39.9826751,-104.7738125,Brighton,264 Montezuma Street,Residential,"$625,000","3,096","1,575",6,3,05/27/2022,Yes
-530,2268856,39.5688269,-104.7348215,Aurora,8142 S Quatar Circle,Residential,"$805,700","4,628","2,324",4,3,05/27/2022,Yes
-531,6749623,39.758179,-104.9120798,Denver,2890 Monaco Parkway,Residential,"$975,000","2,754","1,377",4,4,05/27/2022,No
-532,4848390,39.5235754,-104.99534,Highlands Ranch,10604 Star Thistle Court,Residential,"$1,425,000","4,037","2,869",4,4,05/27/2022,Yes
-533,6046197,39.6273239,-105.2798501,Evergreen,4923 Snowberry Lane,Residential,"$1,495,000","3,308","2,486",3,2,05/27/2022,Yes
-534,6425300,39.7571079,-105.0267847,Denver,2757 Grove Street,Residential,"$1,250,000","3,361","2,372",4,5,05/27/2022,No
-535,6407456,,,Denver,1366 Garfield Street Unit# 105,Residential,"$300,000",900,900,2,1,05/27/2022,Yes
-536,5888867,,,Denver,78 Jackson Street Unit# H,Residential,"$985,000","2,490","2,490",2,3,05/27/2022,Yes
-537,1734753,38.9745853,-104.7305839,Colorado Springs,5248 Mount Cutler Court,Residential,"$984,000","4,682","2,851",6,4,05/27/2022,Yes
-538,5524616,39.583711,-105.107871,Littleton,9835 W Hinsdale Place,Residential,"$614,990","2,212","1,754",3,4,05/27/2022,Yes
-539,8164225,39.5711388,-104.7156829,Aurora,23454 E Heritage Parkway,Residential,"$967,700","4,624","2,328",3,3,05/27/2022,Yes
-540,2135262,39.68132689999999,-104.7924113,Aurora,1988 S Ouray Street,Residential,"$389,900",969,969,3,1,05/27/2022,No
-541,3442133,39.6066542,-104.925174,Centennial,6072 S Glencoe Way,Residential,"$850,000","3,021","2,215",3,3,05/27/2022,Yes
-542,9984714,39.5315154,-104.9286417,Highlands Ranch,10174 Fawnbrook Lane,Residential,"$840,000","3,236","2,288",4,4,05/27/2022,Yes
-543,4299508,39.8472631,-105.0455817,Westminster,8240 Turnpike Drive,Residential,"$550,000","2,175","2,175",4,2,05/27/2022,No
-544,5871461,40.1843812,-105.0720669,Longmont,1026 Red Oak Drive,Residential,"$560,000","1,492","1,093",3,3,05/27/2022,Yes
-545,9121545,40.3989857,-104.7011709,Greeley,2406 14th Avenue,Residential,"$355,000","1,368",948,3,2,05/27/2022,No
-546,3550827,39.8151662,-105.0504674,Arvada,4932 W 65th Place,Residential,"$689,900","2,296","1,148",5,4,05/27/2022,No
-547,9955098,,,Highlands Ranch,2133 Primo Road Unit# 205,Residential,"$500,000","1,240","1,240",2,2,05/27/2022,Yes
-548,1695229,38.920937,-104.8124257,Colorado Springs,6205 Pulpit Rock Drive,Residential,"$565,000","2,112","1,412",4,3,05/27/2022,No
-549,5293901,39.6937722,-105.1081943,Lakewood,1293 S Johnson Way,Residential,"$650,900","2,244","1,668",5,3,05/27/2022,No
-550,7483001,39.8912129,-105.1315375,Westminster,11876 W 107th Avenue,Residential,"$600,000","2,616","2,175",3,3,05/27/2022,Yes
-551,1585075,39.9787097,-104.7973805,Brighton,2054 Donna Street,Residential,"$744,900","3,688","1,888",3,3,05/27/2022,Yes
-552,1650996,39.6894693,-104.9445664,Denver,1497 S Garfield Street,Residential,"$875,000","1,820","1,820",3,2,05/27/2022,No
-553,8276309,39.9923211,-104.6439113,Brighton,16300 Great Rock Way,Residential,"$800,000","3,830","2,083",4,4,05/27/2022,Yes
-554,7509810,39.6633202,-104.9371286,Denver,3001 S Birch Street,Residential,"$765,000","2,180","2,180",4,3,05/27/2022,No
-555,5340987,39.62176970000001,-105.0371347,Littleton,5287 S Mabre Court,Residential,"$739,000","2,462","1,368",3,3,05/27/2022,No
-556,6464729,39.7358531,-104.9148286,Denver,1238 Leyden Street,Residential,"$445,000","1,392",928,3,2,05/27/2022,Yes
-557,7558044,39.8068243,-104.9184215,Commerce City,6000 E 61st Avenue,Residential,"$330,000",840,840,3,1,05/27/2022,No
-558,7485118,40.4244744,-105.0847631,Loveland,3207 Sheridan Avenue,Residential,"$430,000","2,128","1,064",3,2,05/27/2022,No
-559,7078021,39.5316601,-104.8805348,Lone Tree,10156 Belvedere Loop,Residential,"$675,000","1,559","1,559",3,3,05/27/2022,Yes
-560,3277680,39.590133,-104.958411,Centennial,2582 E Easter Avenue,Residential,"$475,000","1,343","1,343",3,2,05/27/2022,Yes
-561,7877821,39.67910699999999,-104.9661518,Denver,2060 S Williams Street,Residential,"$735,000","1,632",816,3,2,05/27/2022,No
-562,9396303,39.9973456,-104.7464882,Brighton,759 Lilac Court,Residential,"$770,000","3,786","2,162",5,4,05/27/2022,Yes
-563,9850235,39.5872062,-104.9595572,Centennial,2493 E Fremont Court,Residential,"$550,000","2,376","1,320",3,3,05/27/2022,Yes
-564,4625760,39.7050971,-105.0043554,Denver,1317 W Gill Place,Residential,"$524,900","1,214","1,214",4,2,05/27/2022,No
-565,2248414,39.5225234,-104.8747877,Lone Tree,10659 Montecito Drive,Residential,"$1,075,000","4,260","3,043",3,3,05/27/2022,Yes
-566,3964432,38.9444861,-104.6905556,Colorado Springs,6926 Red Cardinal Loop,Residential,"$489,000","2,135","1,491",3,3,05/27/2022,Yes
-567,4266452,39.9970469,-105.0882799,Lafayette,210 E Cleveland Street,Residential,"$1,179,000","2,940","1,470",5,4,05/27/2022,No
-568,2707236,39.61054379999999,-105.1057506,Littleton,9604 W Long Drive,Residential,"$675,000","3,739","1,965",3,2,05/27/2022,Yes
-569,3162928,39.8101774,-105.0638012,Arvada,6209 Ingalls Street,Residential,"$484,999","1,976",988,3,2,05/27/2022,No
-570,5492202,,,Aurora,907 S Yampa Street Unit# 106,Residential,"$250,000","1,020","1,020",2,2,05/27/2022,Yes
-571,7513948,39.594812,-104.9438194,Centennial,6707 S Jackson Court,Residential,"$850,000","3,328","2,488",4,4,05/27/2022,Yes
-572,8028976,39.7570615,-104.9386344,Denver,2829 Ash Street,Residential,"$889,000","2,352","1,283",4,2,05/27/2022,No
-573,9846453,39.544432,-105.005011,Highlands Ranch,9460 Carlyle Park Place,Residential,"$525,000","1,594","1,594",3,3,05/27/2022,Yes
-574,9208425,39.6982595,-105.0266336,Denver,1015 S Grove Street,Residential,"$559,500","1,826",913,4,2,05/27/2022,No
-575,9123697,40.0849398,-104.9350068,Dacono,500 Sundance Parkway,Residential,"$499,900","1,800",900,3,2,05/27/2022,No
-576,9206818,39.6970651,-105.121076,Lakewood,11169 W Tennessee Court,Residential,"$988,000","3,103","2,374",5,4,05/27/2022,Yes
-577,8200709,39.70822280000001,-105.1515028,Lakewood,13561 W Alaska Place,Residential,"$780,000","2,442","2,442",4,3,05/27/2022,No
-578,IR966851,40.2429587,-105.5193016,Allenspark,763 Cabin Creek Road,Residential,"$599,000","1,264","1,264",2,2,05/27/2022,No
-579,IR966849,39.6754197,-104.8780946,Denver,2276 S Dayton Street,Residential,"$695,000","2,714","2,320",4,3,05/27/2022,No
-580,IR966848,40.62063020000001,-103.2428011,Sterling,114 Club Road,Residential,"$443,000","2,600","1,300",4,2,05/27/2022,Yes
-581,IR966846,40.5166523,-105.1796046,Fort Collins,5009 Sandstone Drive,Residential,"$1,100,000","5,129","3,515",4,4,05/27/2022,Yes
-582,IR966845,40.3928923,-105.5646117,Estes Park,1260 Fall River Court,Residential,"$2,345,678","4,760","3,860",4,3,05/27/2022,Yes
-583,IR966844,,,Boulder,540 Mohawk Drive Unit# 23,Residential,"$539,900",945,945,1,1,05/27/2022,Yes
-584,IR966843,40.4519112,-104.7778694,Greeley,14782 County Road 64 Road,Residential,"$435,000","1,292","1,292",3,2,05/27/2022,No
-585,IR966837,39.9787097,-104.7973805,Brighton,2054 Donna Street,Residential,"$744,900","3,688",400,3,3,05/27/2022,Yes
-586,IR966835,40.8264539,-104.8105339,Carr,56998 County Road 27,Residential,"$720,000","1,980","1,980",3,2,05/27/2022,No
-587,IR966833,40.1640901,-103.2187629,Akron,581 Delta Avenue,Residential,"$230,000","2,120","1,620",4,2,05/27/2022,No
-588,IR966831,40.5884879,-104.7344797,Ault,628 1st Avenue,Residential,"$420,000","2,102","1,102",4,3,05/27/2022,No
-589,IR966830,39.8521396,-105.0458556,Westminster,8473 Rutgers Street,Residential,"$521,000","1,998",999,5,2,05/27/2022,No
-590,IR966828,40.5291491,-104.9852533,Timnath,5057 John Muir Drive,Residential,"$661,063","2,764","1,921",3,3,05/27/2022,No
-591,IR966827,40.4648143,-105.4568529,Glen Haven,1298 North Fork Road,Residential,"$550,000",706,608,1,1,05/27/2022,Yes
-592,IR966825,40.54349819999999,-105.0981911,Fort Collins,3125 Laredo Lane,Residential,"$435,000",915,915,3,1,05/27/2022,No
-593,IR966823,40.44469429999999,-104.9418635,Windsor,1981 Blue Moon Drive,Residential,"$594,959","2,966","1,542",2,2,05/27/2022,Yes
-594,IR966821,40.4444035,-104.9416876,Windsor,1993 Blue Moon Drive,Residential,"$674,028","3,511","1,823",3,3,05/27/2022,Yes
-595,IR966819,40.7027126,-105.0048119,Wellington,8114 3rd Street,Residential,"$435,000","1,595","1,204",2,2,05/27/2022,No
-596,IR966818,40.2898819,-105.3492295,Lyons,369 Cree Court,Residential,"$1,050,000","2,742","2,205",2,2,05/27/2022,No
-597,IR966816,40.5707776,-105.1088338,Fort Collins,1121 Skyline Drive,Residential,"$475,000","2,085","2,085",4,2,05/27/2022,No
-598,IR966812,40.33796479999999,-104.9290979,Johnstown,1906 Sherwood Lane,Residential,"$550,000","2,569","1,289",4,3,05/27/2022,Yes
-599,IR966811,40.5824804,-104.7319112,Ault, TBD Weld County Road 112,Land,"$145,000",,,,,05/27/2022,No
-600,IR966809,40.4164342,-104.8163468,Greeley,1335 84th Ave Ct,Residential,"$535,000","2,806","2,236",4,3,05/27/2022,Yes
-601,IR966808,40.5263239,-104.7162069,Eaton,106 Cheyenne Avenue,Residential,"$440,000","1,902","1,902",3,1,05/27/2022,No
-602,IR966807,40.5891637,-105.0643492,Fort Collins,304 E Lincoln Avenue,Residential,"$535,000","1,342","1,342",2,2,05/27/2022,No
-603,IR966806,38.934388,-104.7263228,Colorado Springs,5557 Prairie Schooner Drive,Residential,"$560,000","2,447","1,287",4,4,05/27/2022,Yes
-604,IR966805,38.8793336,-104.7359643,Colorado Springs,1335 Raindrop Drive,Residential,"$390,000","2,117","1,087",5,3,05/27/2022,No
-605,IR966803,40.2457614,-103.8879587,Fort Morgan,16879 County Road 14,Residential,"$650,000","1,500","1,500",2,2,05/27/2022,No
-606,IR966802,,,Windsor,"1897 Seadrift Drive Unit# B, Bldg 6",Residential,"$489,000","1,852","1,852",3,3,05/27/2022,Yes
-607,IR966799,40.5403168,-105.1179697,Fort Collins,2206 Bronson Street,Residential,"$625,000","2,567","1,484",4,4,05/27/2022,Yes
-608,IR966798,40.6130332,-105.2806389,Bellvue,2721 Davis Ranch Road,Land,"$350,000",,,,,05/27/2022,Yes
-609,IR966797,40.4317799,-105.0719756,Loveland,447 Slippery Elm Court,Residential,"$415,000","1,008","1,008",3,1,05/27/2022,No
-610,IR966796,40.2446212,-103.7862414,Fort Morgan,308 Dahlia Street,Residential,"$359,000","2,228","1,136",4,2,05/27/2022,No
-611,IR966795,,,Denver,1800 Lawrence Street Unit# 103,Residential,"$495,000",906,906,1,1,05/27/2022,Yes
-612,IR966794,,,Greeley,5775 W 29th Street Unit# 905,Residential,"$324,900","1,276","1,276",2,2,05/27/2022,Yes
-613,IR966792,40.53603409999999,-105.0597713,Fort Collins,1001 Sailors Reef,Residential,"$499,900","1,765","1,765",2,2,05/27/2022,Yes
-614,IR966791,40.6770293,-103.3191013,Sterling,16755 County Road 29,Residential,"$545,000","3,528","1,512",4,3,05/27/2022,No
-615,IR966789,40.58309029999999,-105.0735283,Fort Collins,308 E Magnolia Street,Residential,"$900,000","2,751","1,835",5,3,05/27/2022,No
-616,IR966786,39.9620177,-104.9225822,Thornton,14650 Hudson Street,Residential,"$775,000","4,507","3,162",5,5,05/27/2022,Yes
-617,IR966785,40.856048,-105.6842446,Red Feather Lakes,37 Yacqui Court,Land,"$150,000",,,,,05/27/2022,Yes
-618,IR966784,40.2248175,-104.8276942,Platteville,12125 County Road 32 1/2,Residential,"$650,000","2,600","2,028",4,3,05/27/2022,No
-619,IR966783,40.2504732,-103.7969016,Fort Morgan,311 Lake Street,Residential,"$149,000","1,318","1,248",3,2,05/27/2022,No
-620,IR966782,40.3992605,-104.7243177,Greeley,2314 27th Ave Ct,Residential,"$430,000","2,583","1,911",3,3,05/27/2022,No
-621,IR966779,40.3881154,-104.5679626,Kersey,112 Park View Boulevard,Residential,"$445,000","2,790","1,860",3,3,05/27/2022,Yes
-622,IR966778,39.977363,-105.4754833,Nederland,277 N sky view Drive,Residential,"$649,900","1,552","1,308",2,2,05/27/2022,No
-623,IR966776,39.9616817,-104.9225912,Thornton,14620 Hudson Street,Residential,"$750,000","3,709","2,576",3,4,05/27/2022,Yes
-624,IR966775,40.0687206,-105.1792132,Boulder,7454 Singing Hills Drive,Residential,"$429,000",965,965,2,2,05/27/2022,Yes
-625,IR966770,40.302202,-105.063063,Berthoud,206 Cowbell Drive,Residential,"$692,167","3,714","2,187",3,4,05/27/2022,Yes
-626,IR966769,40.45194619999999,-104.9106075,Windsor,1774 Beachside Drive,Residential,"$797,487","2,130","2,130",3,2,05/27/2022,Yes
-627,IR966766,40.193133,-105.1061845,Longmont,926 Yeager Place,Residential,"$440,000",984,984,3,1,05/27/2022,No
-628,IR966764,40.592851,-105.0907246,Fort Collins,412 Wood Street,Residential,"$695,000",962,762,2,1,05/27/2022,No
-629,IR966762,40.1325796,-105.1585621,Longmont,2284 Picadilly Circle,Residential,"$2,100,000","7,625","4,369",6,7,05/27/2022,Yes
-630,IR966759,40.4019365,-104.7748153,Greeley,2303 Fairway Lane,Residential,"$464,000","2,878","2,149",4,3,05/27/2022,No
-631,IR966758,40.3697719,-104.715979,Evans,4202 Larkspur Road,Residential,"$399,000","2,184","1,092",3,2,05/27/2022,Yes
-632,IR966757,40.4337381,-105.1012742,Loveland,4163 Georgetown Drive,Residential,"$476,000","2,683","1,734",2,3,05/27/2022,Yes
-633,IR966755,40.5299416,-104.7003053,Eaton,407 Magnolia Court,Residential,"$425,000","3,105","2,083",5,4,05/27/2022,No
-634,IR966754,40.4521659,-104.9113833,Windsor,1771 Barefoot Drive,Residential,"$964,698","3,134","3,134",4,3,05/27/2022,Yes
-635,IR966753,40.4494591,-104.9309399,Windsor,1594 Winter Glow Drive,Residential,"$935,902","4,117","2,752",4,3,05/27/2022,Yes
-636,IR966751,40.6038615,-105.0044924,Fort Collins,3926 Celtic Lane,Residential,"$499,000","1,686","1,686",3,3,05/27/2022,Yes
-637,IR966749,39.8957267,-105.4685253,Black Hawk,161 Meadow Way,Residential,"$525,000","1,032","1,032",2,2,05/27/2022,No
-638,IR966748,40.4690151,-104.9472359,Windsor,1049 Ridge West Drive,Residential,"$1,000,000","4,644","2,322",4,5,05/27/2022,Yes
-639,IR966746,40.2146371,-104.0816599,Wiggins,503 Pronghorn Court,Residential,"$355,000","1,349","1,349",3,2,05/27/2022,Yes
-640,IR966744,40.5677784,-104.9736138,Timnath,5622 Bristow Road N,Residential,"$699,500","3,434","1,652",5,4,05/27/2022,No
-641,IR966742,40.4364243,-105.0900155,Loveland,967 Claremont Place,Residential,"$485,000","1,954","1,538",3,3,05/27/2022,Yes
-642,IR966741,40.2393531,-105.0074596,Mead,2539 Basil Drive,Residential,"$515,000","2,074","1,641",3,3,05/27/2022,Yes
-643,IR966740,40.2015874,-105.0017534,Mead,2769 Stage Coach Drive,Residential,"$575,000","2,253","1,505",4,4,05/27/2022,Yes
-644,IR966738,40.5547581,-105.0490291,Fort Collins,2404 Rollingwood Drive,Residential,"$2,020,000","4,452","3,270",4,4,05/27/2022,Yes
-645,IR966737,40.4147454,-104.6877287,Greeley,1523 6th Avenue,Residential,"$479,500","1,048",712,2,1,05/27/2022,No
-646,IR966736,40.1956832,-105.1260554,Longmont,2061 Spencer Street,Residential,"$497,890","1,280","1,280",4,2,05/26/2022,No
-647,IR966720,40.3223975,-104.8406999,Milliken,838 S Depot Drive,Residential,"$425,000","2,462","1,231",3,2,05/26/2022,Yes
-648,IR966717,39.8653026,-104.9606297,Thornton,9290 Harris Street,Residential,"$475,000","1,426","1,426",3,2,05/26/2022,No
-649,IR966680,39.8881968,-105.0385044,Westminster,10564 N Osceola Drive,Residential,"$880,000","4,046","2,531",2,2,05/26/2022,Yes
-650,IR966646,40.4029613,-104.6659107,Greeley,820 E 21st Street,Residential,"$360,000","1,050","1,050",3,2,05/26/2022,No
-651,IR966606,40.1660026,-105.0986022,Longmont,403 Collyer Street,Residential,"$750,000","1,756","1,756",3,3,05/26/2022,No
-652,IR966588,40.0232174,-105.2683296,Boulder,"2130 Mapleton Avenue, Bldg 2",Residential,"$925,000",900,900,2,1,05/25/2022,Yes
-653,IR966586,40.3050467,-105.0751267,Berthoud,121 Mountain Avenue,Residential,"$460,000","1,974","1,496",3,1,05/25/2022,No
-654,IR966584,40.3418241,-104.9185811,Johnstown,1009 N 6th Street,Residential,"$722,000","3,409","1,724",6,3,05/25/2022,No
-655,IR966578,,,Windsor,"387 Buffalo Drive Unit# H, Bldg 1",Residential,"$285,000",784,784,2,1,05/24/2022,Yes
-656,IR966573,39.9821482,-105.1009773,Lafayette,1723 Dusty Boot Drive,Residential,"$1,225,000","4,436","3,316",5,5,05/25/2022,Yes
-657,IR966548,40.4046438,-104.8092114,Greeley,2112 82nd Avenue,Residential,"$545,000","3,512","1,766",3,3,05/16/2022,Yes
-658,IR966545,40.4244744,-105.0847631,Loveland,3207 Sheridan Avenue,Residential,"$430,000","2,128","1,064",3,2,05/25/2022,No
-659,IR966532,40.395972,-105.5689399,Estes Park,1491 David Drive,Residential,"$949,900","1,849","1,849",2,2,05/25/2022,Yes
-660,IR966500,40.408068,-104.7141109,Greeley,1909 21st Ave Ct,Residential,"$535,000","3,710","1,855",5,3,05/24/2022,No
-661,IR966498,40.2002907,-105.0899698,Longmont,209 Homestead Parkway,Residential,"$750,000","4,884","2,442",3,3,05/24/2022,Yes
-662,IR966482,40.4357221,-105.102302,Loveland,1919 Dove Creek Circle,Residential,"$389,900","1,533","1,533",3,3,05/24/2022,Yes
-663,IR966481,40.3820705,-104.7806956,Evans,3320 Corvina Court,Residential,"$375,000","2,721","1,378",2,2,05/24/2022,Yes
-664,IR966466,40.0047053,-105.2802304,Boulder,955 10th Street,Residential,"$1,850,000","3,179","2,339",4,5,05/24/2022,No
-665,IR966448,39.9595256,-105.4910941,Nederland,42 Doe Trail,Residential,"$699,000","1,647","1,647",2,2,05/24/2022,No
-666,IR966429,40.0094461,-105.0853797,Lafayette,1204 Hawk Ridge Road,Residential,"$1,490,000","5,128","3,458",6,5,05/17/2022,Yes
-667,IR966421,40.3989857,-104.7011709,Greeley,2406 14th Avenue,Residential,"$355,000","1,368",948,3,2,05/24/2022,No
-668,IR966376,40.140515,-105.1716077,Longmont,5419 Cannon Mountain Way,Residential,"$1,249,000","5,222","3,507",4,4,05/18/2022,Yes
-669,IR966335,40.0665678,-105.1868708,Boulder,7170 Cedarwood Circle,Residential,"$1,350,000","3,771","2,782",3,3,05/22/2022,Yes
-670,IR966316,40.6341731,-103.2214674,Sterling,737 N 7th Avenue,Residential,"$299,900","2,321","2,321",4,3,05/20/2022,No
-671,IR966315,,,Boulder,1140 Portland Place Unit# #308,Residential,"$799,000","1,311","1,311",3,2,05/20/2022,Yes
-672,IR966303,40.4643152,-104.901336,Windsor,215 Pelican Cove,Residential,"$575,000","3,037","1,528",3,3,05/20/2022,Yes
-673,IR966297,40.4452997,-104.9458669,Windsor,8898 Longs Peak Circle,Residential,"$1,195,000","5,688","2,852",6,6,05/21/2022,Yes
-674,IR966292,40.3826906,-105.1284995,Loveland,3748 Desert Rose Drive,Residential,"$850,000","4,312","2,156",3,2,05/20/2022,Yes
-675,IR966272,40.4433852,-105.0241226,Loveland,4941 Valley Oak Drive,Residential,"$1,450,000","3,924","2,550",5,4,05/20/2022,Yes
-676,IR966258,39.9248673,-105.150589,Superior,3032 W Yarrow Circle,Residential,"$750,000","1,800","1,400",4,3,05/18/2022,Yes
-677,IR966184,39.9697866,-105.2572177,Boulder,2750 Juilliard Street,Residential,"$1,799,000","1,846","1,846",4,3,05/20/2022,No
-678,IR966183,40.0178895,-105.2911538,Boulder,409 Mountain View Road,Residential,"$1,850,000","1,073","1,073",1,2,05/20/2022,No
-679,2732720,40.5153846,-104.8477464,Severance,808 Elias Tarn Drive,Residential,"$520,630","2,219","2,219",3,3,05/30/2022,Yes
-680,7625865,40.0023407,-104.7329299,Lochbuie,1109 Sunrise Drive,Residential,"$492,460","1,844","1,844",4,3,05/27/2022,Yes
-681,3475748,39.8785766,-104.9902505,Northglenn,10031 Melody Drive,Residential,"$540,000","1,868","1,868",3,3,05/27/2022,No
-682,6296661,39.499049,-105.339136,Conifer,11905 Blackfoot Road,Residential,"$1,257,000","3,768","2,512",4,3,05/27/2022,No
-683,9025685,40.5153846,-104.8477464,Severance,804 Elias Tarn Drive,Residential,"$558,210","2,398","2,398",4,3,05/27/2022,Yes
-684,3111010,39.7012182,-105.3239395,Evergreen,727 Dreamcatcher Lane,Residential,"$1,395,000","4,991","2,940",4,4,05/27/2022,Yes
-685,IR966579,40.3391062,-104.9173037,Johnstown,1001 N 3rd Street,Residential,"$590,000","3,084","1,542",4,3,05/25/2022,No
-686,8160961,39.7015715,-105.0334821,Denver,3503 W Ada Place,Residential,"$335,000",842,471,2,1,05/27/2022,No
-687,5130475,38.997568,-104.7920466,Colorado Springs,2183 Shady Aspen Drive,Residential,"$465,000","1,566","1,566",3,3,05/27/2022,Yes
-688,IR966735,,,Fort Collins,2608 Kansas Drive Unit# A107,Residential,"$450,000","1,934","1,139",3,4,05/24/2022,Yes
+0,1574687,38.8339038,-104.8357145,Colorado Springs,527 W Pikes Peak Avenue,Residential Lease,"$1,850",581,581,1,1,05/30/2022,
+1,4148195,39.011676,-105.847936,Hartsel,0 Black Foot Trail,Land,"$59,000",,,,,05/30/2022,No
+2,6427512,40.3909023,-104.7006698,Greeley,1310 28th Street Road,Residential,"$375,000","1,890","1,890",4,2,05/30/2022,No
+3,5653180,39.704429,-104.9824911,Denver,668 S Logan Street,Residential,"$815,000","1,878","1,536",3,2,05/30/2022,No
+4,7944120,38.84867300000001,-104.856549,Colorado Springs,2301 W Uintah Street,Residential Lease,"$2,300","1,000","1,000",2,2,05/30/2022,
+5,4879757,39.5842225,-104.6909656,Aurora,7294 S Kellerman Way,Residential,"$675,000","2,914","2,070",3,3,05/30/2022,Yes
+6,8994338,39.376885,-104.887428,Castle Rock,888 Oleander Street,Residential,"$991,448","4,745","3,247",5,5,05/30/2022,Yes
+7,9499412,,,Highlands Ranch,"4765 Copeland Circle Unit# 103, Bldg 1",Residential Lease,"$2,050","1,153","1,153",2,2,05/30/2022,
+8,6167565,38.8101964,-104.8174534,Colorado Springs,502 Warren Avenue,Residential,"$350,000","1,734","1,139",2,2,05/30/2022,No
+9,1727890,39.7737372,-104.7414067,Denver,4142 Malta Street,Residential,"$460,000","1,468","1,468",2,3,05/30/2022,Yes
+10,9715870,39.4126567,-105.3993256,Bailey,54 Holmes Gulch Road,Land,"$199,000",,,,,05/30/2022,No
+11,8146819,,,Denver,444 17th Street Unit# 406,Residential,"$424,900",987,987,2,1,05/30/2022,Yes
+12,9148918,,,Breckenridge,4192 State Hwy 9 Unit# 20-L,Residential,"$422,000",432,432,1,1,05/30/2022,Yes
+13,7316236,39.6263063,-105.1193858,Littleton,10742 W Dumbarton Circle,Residential,"$650,000","2,442","1,509",3,3,05/30/2022,Yes
+14,9322554,39.7446594,-104.9202921,Denver,1745 Ivy Street,Residential,"$1,175,000","2,516","1,258",3,4,05/30/2022,No
+15,4711233,39.6724776,-105.1710556,Lakewood,2347 S Loveland Street,Residential,"$995,000","3,270","2,217",5,4,05/30/2022,Yes
+16,9935564,37.6668091,-106.6523164,South Fork,850 Aspen Drive,Residential,"$599,000","2,374","1,744",1,0,05/30/2022,No
+17,9040540,39.3283355,-104.8319274,Castle Rock,2851 Villageview Lane,Residential,"$705,160","3,080","2,222",3,3,05/30/2022,Yes
+18,5054770,39.9116314,-105.0128692,Westminster,2301 W 118th Avenue,Residential,"$625,000","1,976","1,653",3,3,05/30/2022,Yes
+19,7637153,39.3287996,-104.8326003,Castle Rock,4863 Cattle Cross Trail,Residential,"$735,680","3,080","2,222",3,3,05/30/2022,Yes
+20,5846516,39.9929422,-105.2359101,Boulder,4630 Sioux Drive,Residential,"$1,299,000","2,464","1,232",5,3,05/30/2022,No
+21,3536254,39.2991591,-102.8690977,Seibert,209 E 1st Street,Residential,"$350,000","2,700","2,500",4,3,05/30/2022,No
+22,7031374,40.0149677,-104.7648875,Brighton,0 County Road 4,Land,"$1,250,000",,,,,05/30/2022,No
+23,6818658,40.0991506,-104.9371993,Frederick,7010 Kali Court,Residential,"$462,740","1,500","1,500",3,3,05/30/2022,Yes
+24,7538618,39.421463,-104.797093,Castle Rock,6392 Agave Avenue,Residential,"$925,000","4,785","3,174",7,5,05/30/2022,Yes
+25,8925318,39.5696771,-104.9123535,Centennial,8081 S Niagara Way,Residential,"$839,900","2,566","2,566",4,3,05/30/2022,No
+26,4832225,39.6182763,-105.1225379,Littleton,11153 W Aqueduct Lane,Residential,"$745,000","2,610","1,908",4,4,05/30/2022,Yes
+27,7677945,39.746055,-104.771401,Aurora,1931 Andes Street,Land,"$210,000",,,,,05/30/2022,No
+28,8980144,39.7494623,-104.857935,Aurora,2211 Lansing Street,Residential,"$465,000","1,127","1,127",3,1,05/30/2022,No
+29,7349403,38.3089499,-104.800549,Pueblo West,971 S Los Charros Drive,Residential,"$499,900","3,780","1,890",5,3,05/30/2022,No
+30,7310375,39.72220859999999,-104.9797069,Denver,368 Pearl Street,Residential,"$1,475,000","2,985","1,990",5,4,05/30/2022,No
+31,8112290,39.8481859,-104.9727238,Denver,8360 Quivira Drive,Residential,"$399,000","2,530","1,415",2,2,05/30/2022,No
+32,8164888,38.9303347,-104.6799637,Colorado Springs,7891 Silver Birch Drive,Residential,"$620,000","3,356","1,932",4,5,05/30/2022,Yes
+33,7769778,40.0075266,-105.0902438,Lafayette,209 Lucerne Drive,Residential,"$550,000","1,320",888,3,2,05/30/2022,No
+34,4523360,38.327473,-104.836221,Pueblo,519 S Woodstock Drive,Land,"$51,000",,,,,05/30/2022,No
+35,5542749,39.5857215,-104.9210221,Centennial,7247 S Ivy Street,Residential,"$1,100,000","3,486","2,422",5,4,05/30/2022,Yes
+36,8096560,40.1121997,-104.510358,Keenesburg,414 Quincy Rr Avenue,Residential,"$455,500","1,473","1,473",3,2,05/30/2022,Yes
+37,7041478,39.6876637,-104.8210432,Aurora,14363 E Gunnison Place,Residential,"$499,950","1,724","1,724",4,2,05/30/2022,Yes
+38,9418476,39.2469199,-105.734955,Como,260 Nez Perce Road,Land,"$139,900",,,,,05/30/2022,Yes
+39,2504111,,,Denver,"460 S MARION Parkway Unit# 406, Bldg C",Residential,"$639,900","1,272","1,272",2,2,05/30/2022,Yes
+40,3205405,40.5241479,-104.8510819,Severance,612 Sawyers Pond Drive,Residential,"$553,335","3,333","2,415",5,3,05/30/2022,Yes
+41,6146663,39.99700259999999,-105.0119537,Broomfield,2219 W 166th Avenue,Residential,"$704,859","1,779",,3,3,05/30/2022,
+42,3999732,,,Denver,7700 W Grant Ranch Boulevard Unit# 1A,Residential,"$495,000","1,202","1,202",2,2,05/30/2022,Yes
+43,4423959,39.8794057,-104.832386,Commerce City,10049 Victor Street,Residential,"$776,223","2,744",,5,5,05/30/2022,
+44,6834907,40.498726,-105.0561139,Fort Collins,1626 Dancing Cattail Drive,Residential,"$779,990","2,600",,5,3,05/30/2022,
+45,5746857,40.5852602,-105.084423,Fort Collins,6009 Autumn Breeze Court,Residential,"$800,819","2,476",,4,3,05/30/2022,
+46,2354912,40.498726,-105.0561139,Fort Collins,1638 Dancing Cattail Drive,Residential,"$720,540","2,476",,4,3,05/30/2022,
+47,1586207,40.5852602,-105.084423,Fort Collins,6015 Autumn Breeze Court,Residential,"$775,520","2,253",,3,3,05/30/2022,
+48,8413808,40.498726,-105.0561139,Fort Collins,1632 Dancing Cattail Drive,Residential,"$680,557","1,984",,3,2,05/30/2022,
+49,7701786,40.2159334,-105.0096115,Mead,14816 Charbray Street,Residential,"$579,990","2,131",,3,3,05/30/2022,
+50,7047719,39.6735571,-104.9083388,Denver,6903 E Wesley Avenue,Residential,"$775,000","2,600","1,425",4,3,05/30/2022,No
+51,8198017,39.4840185,-105.0689502,Littleton,8401 Mount Ouray Road,Residential,"$519,990","1,498",,3,3,05/30/2022,
+52,6680292,39.4803791,-105.0709378,Littleton,8047 Monte Vista Circle,Residential,"$718,700","1,949",,4,3,05/30/2022,
+53,3397199,39.627499,-105.133762,Morrison,12079 W Chenango Drive,Residential,"$482,000","1,780","1,251",2,4,05/30/2022,Yes
+54,3112161,39.814597,-104.76353,Denver,19200 E 65th Avenue,Residential,"$435,530","1,420",,3,3,05/30/2022,
+55,4630135,39.81800800000001,-104.76673,Denver,6643 N Danube Way,Residential,"$480,550","1,245",,2,2,05/30/2022,
+56,8147773,39.4167991,-104.8287795,Castle Rock,3077 Carabiner Street,Residential,"$1,029,420","3,576",,4,4,05/30/2022,
+57,8360520,39.4180041,-104.8294465,Castle Rock,3051 Belay Point,Residential,"$1,114,900","3,576",,4,4,05/30/2022,
+58,3062110,39.4186757,-104.8282061,Castle Rock,3125 Belay Point,Residential,"$1,105,190","3,053",,4,3,05/30/2022,
+59,8848669,39.4152642,-104.836478,Castle Rock,3636 Sublime Court,Residential,"$917,110","2,727",,4,3,05/30/2022,
+60,8289544,38.9309415,-104.7125141,Colorado Springs,6245 Bodacious Circle,Residential,"$624,566","2,187",,4,3,05/30/2022,
+61,6874815,40.5178817,-104.8767222,Severance,1225 Argali Drive,Residential,"$619,895","2,161",,3,3,05/30/2022,
+62,4484545,39.3711164,-104.8890343,Castle Rock,535 Felicity Loop,Residential,"$746,000","1,857",,3,3,05/30/2022,
+63,2348727,39.3744146,-104.8239573,Castle Rock,239 Silver Rock Trail,Residential,"$599,900","1,609",,3,2,05/30/2022,
+64,7177908,39.4618557,-104.8579568,Castle Pines,1486 Golden Sill Drive,Residential,"$738,372","1,890",,3,2,05/30/2022,
+65,3226799,38.8338816,-104.8213634,Colorado Springs,6006 Wendy Stream Way,Residential,"$699,900","4,325",,5,4,05/30/2022,
+66,2465269,39.5095854,-104.7553071,Parker,20110 E Williamson Drive,Residential,"$650,000","2,388","2,388",4,3,05/30/2022,Yes
+67,7719124,39.7288816,-104.8744152,Aurora,789 Emporia Street,Residential Income,"$525,000","1,632","1,632",5,2,05/30/2022,No
+68,1554765,38.9842433,-104.5933201,Peyton,10577 Mount Evans Drive,Residential,"$601,000","2,820","1,960",4,4,05/30/2022,Yes
+69,3263274,39.8954887,-104.7863254,Commerce City,17218 E 109th Avenue,Residential,"$749,000","4,027","2,802",5,4,05/30/2022,Yes
+70,6039871,39.9850517,-104.7420219,Brighton,101 Golden Eagle Parkway,Residential,"$450,000","1,325","1,325",3,2,05/30/2022,Yes
+71,3920140,39.7295264,-104.8158909,Aurora,945 Dearborn Street,Residential,"$474,998","2,237","1,679",4,2,05/30/2022,No
+72,8611242,,,Littleton,7428 S Quail Circle Unit# 1715,Residential,"$325,000",759,759,1,1,05/30/2022,Yes
+73,3450197,38.2517805,-104.612489,Pueblo,824 Elm Street,Residential Income,"$264,900","1,950","1,646",2,2,05/30/2022,No
+74,9152538,39.5260173,-105.0183702,Highlands Ranch,10523 Hyacinth Place,Residential,"$644,900","2,064","1,488",4,4,05/30/2022,Yes
+75,3241543,39.7059527,-104.8478789,Aurora,12060 E Virginia Drive,Residential,"$560,000","2,384","1,192",5,3,05/30/2022,No
+76,7929653,39.6268734,-105.15429,Morrison,4937 S Coors Lane,Residential,"$700,000","3,046","2,157",3,3,05/30/2022,Yes
+77,1777252,39.985551,-104.9546286,Thornton,2784 E 159th Way,Residential,"$825,000","4,501","2,293",3,4,05/30/2022,Yes
+78,6728960,39.8155234,-105.0952679,Arvada,6518 Estes Street,Residential,"$700,000","2,350","1,418",3,3,05/30/2022,No
+79,4774266,40.7296196,-106.2753639,Walden,571 JCR 12E Road,Residential,"$425,000","3,564","1,782",4,3,05/30/2022,No
+80,3362465,39.7157473,-104.9273413,Denver,25 S Forest Street,Residential,"$1,875,000","3,722","3,722",4,5,05/30/2022,No
+81,IR966927,40.0325747,-105.0900383,Erie,812 Carbonate Lane,Residential,"$1,089,000","4,500","3,188",5,4,05/30/2022,Yes
+82,IR966925,40.3408147,-104.9258128,Johnstown,1764 Suntide Drive,Residential,"$448,000","3,076","1,550",3,2,05/30/2022,Yes
+83,IR966916,,,Erie,"2955 Blue Sky Circle Unit# 206, Bldg 6",Residential,"$372,500","1,156","1,156",2,2,05/30/2022,Yes
+84,IR966914,40.4289799,-104.7018999,Greeley,427 14th Avenue,Residential,"$299,900","1,230","1,230",3,1,05/30/2022,No
+85,IR966913,40.3781766,-105.5359657,Estes Park,800 Old Ranger Drive,Residential,"$695,000","1,282","1,282",2,1,05/30/2022,No
+86,IR966559,40.3429398,-104.91484,Johnstown,871 N Greeley Avenue,Residential,"$679,000","3,546","1,773",5,3,05/23/2022,No
+87,IR966504,40.4469368,-104.9710808,Windsor,7025 Aladar Drive,Residential,"$929,500","5,050","3,458",5,6,05/25/2022,Yes
+88,2705095,39.2654534,-106.3122056,Leadville,123 Lodgepole Drive,Land,"$40,000",,,,,05/29/2022,Yes
+89,8504526,39.7593299,-105.0535268,Wheat Ridge,2921 Sheridan Boulevard,Residential,"$829,000","1,768",988,3,3,05/29/2022,No
+90,6443181,,,Englewood,15455 Canyon Rim Drive Drive Unit# 207,Residential,"$425,000","1,317","1,317",2,2,05/29/2022,Yes
+91,9933503,39.7432952,-104.3198506,Strasburg,1863 Asoka Street,Residential,"$500,000","2,180","1,454",4,4,05/29/2022,Yes
+92,5536658,39.8481804,-104.9909808,Denver,8359 Cherokee Street,Residential,"$479,700","2,030","1,015",5,2,05/29/2022,No
+93,4142574,39.0498505,-104.820724,Colorado Springs,15025 Hilton Head Court,Residential,"$645,000","3,494","2,118",5,4,05/29/2022,Yes
+94,7855800,,,Estes Park,540 W Elkhorn Avenue Unit# B2,Residential,"$349,000",588,588,1,1,05/29/2022,Yes
+95,6793775,38.5358293,-106.0118778,Salida,118 Mesa Drive,Residential,"$889,000","2,455","1,708",3,4,05/29/2022,No
+96,7046988,40.2684441,-105.4268586,Lyons, Cedar,Land,"$97,000",,,,,05/29/2022,Yes
+97,5649842,39.9897641,-105.8945603,Tabernash,239 Pole Creek Drive,Residential,"$2,890,000","5,614","5,614",5,5,05/29/2022,Yes
+98,6450125,37.9446746,-105.7039687,Crestone,1011 Sycamore Road,Residential,"$749,000","3,179","3,179",5,2,05/29/2022,Yes
+99,1850088,39.7460124,-105.6714107,Georgetown,1944 Alvarado Road,Land,"$279,900",,,,,05/29/2022,No
+100,7158396,39.7084759,-105.1315375,Lakewood,422 S Union Boulevard,Residential,"$695,000","2,673","1,476",5,3,05/29/2022,No
+101,7678775,39.60963599999999,-105.183786,Morrison,5852 Whale Rock Way,Residential,"$1,495,000","3,524","2,300",4,3,05/29/2022,Yes
+102,4750332,39.63568799999999,-104.046874,Deer Trail,4425 S Price Rd,Residential,"$749,900","2,031","2,031",4,2,05/29/2022,No
+103,3402699,39.1125102,-106.3455186,Twin Lakes,796 Spruce Drive,Residential,"$989,000","2,550","2,550",4,3,05/29/2022,No
+104,7842430,,,Frisco,222 Creekside Drive Unit# 316,Residential,"$750,000",754,754,2,2,05/29/2022,Yes
+105,4757050,39.256938,-104.89698,Larkspur,648 Poncho Road,Land,"$250,000",,,,,05/29/2022,No
+106,5330687,40.0573091,-105.2013582,Boulder,4554 Starboard Drive,Residential,"$950,000","2,340","1,566",4,3,05/29/2022,Yes
+107,2580881,39.7574098,-105.0120246,Denver,2103 W 28th Avenue,Residential Lease,"$7,000","3,125","2,448",4,4,05/29/2022,
+108,5958452,,,Aurora,2868 S Heather Gardens Way Unit# 205,Residential,"$264,000","1,200","1,200",2,2,05/29/2022,Yes
+109,1552790,,,Aurora,2411 S Xanadu Way Unit# D,Residential,"$380,000","1,091","1,091",2,2,05/29/2022,Yes
+110,5827651,39.3800151,-104.8007997,Castle Rock,1274 N Tabor Drive,Residential,"$655,000","3,553","2,618",4,3,05/29/2022,Yes
+111,2720566,37.9519961,-104.8061936,Colorado City,Lot 9 Applewood Drive,Land,"$15,000",,,,,05/29/2022,No
+112,3245518,39.3790465,-104.8528271,Castle Rock,700 Sunset Drive,Residential,"$845,900","3,703","3,127",3,4,05/29/2022,No
+113,7476457,39.0085558,-104.6199342,Colorado Springs,12085 Sylvan Meadows Drive,Residential,"$2,000,000","5,025","2,518",5,4,05/29/2022,Yes
+114,6465002,,,Dillon,"72 Corinthian Circle Unit# 104, Bldg D",Residential,"$969,900","1,142","1,142",2,2,05/29/2022,Yes
+115,8209854,39.0922538,-104.6835853,Colorado Springs,7675 Walker Road,Residential,"$999,800","4,202","2,720",5,4,05/29/2022,Yes
+116,7174548,,,Keystone,20 Hunki Dori Court Unit# 2220,Residential,"$997,000",920,920,2,3,05/29/2022,Yes
+117,3296928,38.1261103,-104.0222042,Fowler,206 206 1/2 E Park,Residential,"$129,900",764,764,2,1,05/29/2022,No
+118,3133925,39.72298199999999,-104.47104,Bennett,44100 E County Road 6 E,Land,"$5,500,000",,,,,05/29/2022,No
+119,6895287,39.7809104,-105.0179594,Denver,4636 Beach Court,Residential,"$590,000","1,065","1,065",3,1,05/29/2022,No
+120,6310679,39.4528882,-104.854581,Castle Pines,1733 Stable View Drive,Residential,"$803,202","2,636","1,894",4,4,05/29/2022,Yes
+121,3523029,39.8891755,-104.9461179,Northglenn,3410 E 106th Place,Residential,"$520,000","1,848","1,540",3,3,05/29/2022,Yes
+122,8664833,39.5845358,-104.7796928,Foxfield,7234 S Uravan Court,Residential,"$1,599,000","5,832","3,866",5,6,05/29/2022,No
+123,3700191,39.0879824,-104.8036263,Monument,17745 Radbourne Court,Residential,"$1,279,000","4,540","2,297",4,5,05/29/2022,Yes
+124,4852129,39.5113057,-105.4986826,Bailey,5 Gray Street,Residential,"$150,000",480,480,1,0,05/29/2022,No
+125,5521649,39.94639859999999,-105.0534811,Broomfield,13870 Meadowbrook Drive,Residential,"$1,050,000","4,356","2,945",5,4,05/29/2022,Yes
+126,IR966923,40.6322789,-103.1737194,Sterling,13338 County Road 370,Residential,"$238,500","1,512","1,512",3,2,05/29/2022,No
+127,IR966906,40.3934769,-105.0848088,Loveland,570 W 2nd Street,Residential,"$489,000","2,184","1,092",2,1,05/29/2022,No
+128,IR966905,,,Estes Park,540 W Elkhorn Avenue Unit# B2,Residential,"$349,000",588,588,1,1,05/29/2022,Yes
+129,IR966903,40.4525649,-105.4497679,Glen Haven,7161 County Road 43,Land,"$425,000",,,,,05/29/2022,Yes
+130,IR966901,40.0005612,-105.1370762,Lafayette,414 Blue Lake Trail,Residential,"$575,000","1,572","1,076",2,3,05/29/2022,Yes
+131,IR966896,40.5203216,-104.8582998,Severance,511 Limber Pine Court Court,Residential,"$517,000","2,495","1,298",5,3,05/29/2022,Yes
+132,IR966895,39.5038991,-105.3296065,Conifer,28669 Mountain View Road,Residential,"$515,000","1,368",864,2,1,05/29/2022,No
+133,IR966894,,,Loveland,2075 Tonopas Court Unit# 101,Residential,"$344,900","1,962","1,350",3,3,05/29/2022,Yes
+134,IR966893,40.493479,-104.89163,Windsor,276 Blue Fortune Drive,Residential,"$892,899","4,576","2,288",5,5,05/29/2022,Yes
+135,IR966892,40.8675872,-105.6465455,Red Feather Lakes,42 Chickasaw Court,Residential,"$525,000","1,920","1,104",2,2,05/29/2022,Yes
+136,IR966890,40.4612328,-104.9027274,Windsor,400 Crystal Beach Drive,Residential,"$1,300,000","4,684","3,104",4,5,05/29/2022,Yes
+137,IR966888,40.114006,-104.5087664,Keenesburg,0 County Road 398,Land,"$1,925,000",,,,,05/29/2022,No
+138,IR966886,40.1373728,-105.1669036,Longmont,1986 Mountain Crest Court,Land,"$295,000",,,,,05/29/2022,Yes
+139,IR966820,,,Fort Collins,"5151 Boardwalk Drive Unit# 3, Bldg J",Residential,"$465,000","2,692","1,753",4,4,05/27/2022,Yes
+140,IR966480,40.3276647,-105.0887594,Berthoud,2009 Cuda Court,Residential,"$1,093,000","4,039","2,119",5,4,05/24/2022,Yes
+141,3008184,39.810931,-105.1094276,Arvada,6205 Janice Way,Residential,"$729,900","2,030","1,015",3,2,05/28/2022,No
+142,8556225,40.0207764,-105.0643721,Erie,953 Compass Drive,Residential,"$1,595,000","7,003","4,609",4,4,05/28/2022,Yes
+143,1701134,38.9660077,-104.7153411,Colorado Springs,6163 Wolf Village Drive,Residential,"$699,900","3,709","1,875",4,3,05/28/2022,Yes
+144,7585300,38.872894,-105.26258,Trinidad,000 Colorado Mountain Estates,Land,"$85,000",,,,,05/28/2022,No
+145,4868263,,,Lakewood,12485 W Virgina Avenue Unit# 4,Residential Lease,$990,"1,736","1,736",1,1,05/28/2022,
+146,7126324,,,Denver,6918 E Lowry Boulevard Unit# F1 P8,Residential,"$1,246,310","2,340","2,340",2,4,05/28/2022,Yes
+147,9215318,,,Aurora,10722 E Exposition Avenue Unit# 215,Residential,"$164,900",761,761,2,1,05/28/2022,Yes
+148,7431229,38.7849074,-104.7983379,Colorado Springs,3240 Lally Rook Court,Residential Lease,"$2,195","1,165",950,3,2,05/28/2022,
+149,4197959,39.8179971,-105.6572676,Idaho Springs,152 Hillside Road,Residential,"$395,000",800,800,2,1,05/28/2022,Yes
+150,7720210,38.9795343,-104.5936388,Peyton,10243 Capital Peak Way,Residential,"$539,900","3,818","3,818",3,2,05/28/2022,No
+151,4535822,,,Denver,1008 N Corona Street Unit# 605,Residential,"$324,900",589,589,1,1,05/28/2022,Yes
+152,6171183,40.5153846,-104.8477464,Severance,806 Elias Tarn Drive,Residential,"$581,955","2,718","2,718",5,3,05/28/2022,Yes
+153,2861880,39.4895065,-105.5259373,Bailey,445 Rising Sun Road,Residential,"$550,000","1,728","1,728",3,3,05/28/2022,Yes
+154,4935385,38.5285321,-106.0014102,Salida,1104 G Street,Residential,"$997,000","2,394","2,394",3,2,05/28/2022,No
+155,4492285,39.532341,-104.7909069,Parker,17167 Cornerstone Lane,Residential,"$750,000","3,492","2,465",5,4,05/28/2022,Yes
+156,8966304,39.5530877,-104.940414,Littleton,8981 Kittiwake Street,Residential,"$985,000","4,432","3,160",4,4,05/28/2022,Yes
+157,3744169,39.744371,-104.8625413,Aurora,1729 Jamaica Street,Residential,"$469,500","1,125","1,125",3,2,05/28/2022,No
+158,5864241,39.4344656,-104.764833,Parker,6546 Cherry Creek Drive,Residential,"$700,000","2,835","1,898",5,4,05/28/2022,Yes
+159,1620086,40.5153846,-104.8477464,Severance,810 Elias Tarn Drive,Residential,"$516,800","1,844","1,844",4,3,05/28/2022,Yes
+160,6160325,39.6968634,-105.1406746,Lakewood,12621 W Dakota Drive,Residential Lease,"$3,500","2,614","1,709",5,3,05/28/2022,
+161,6810402,39.4120743,-106.0429627,Blue River,285 Davis Court,Residential,"$1,900,000","2,666","2,666",4,3,05/28/2022,Yes
+162,7542408,39.2519714,-106.318161,Leadville,200 Snowshoe Rabbit Drive,Land,"$300,000",,,,,05/28/2022,Yes
+163,8762624,39.66908069999999,-104.9866446,Denver,2619 S Lincoln Street,Residential Income,"$700,000","1,972","1,972",4,2,05/28/2022,No
+164,1567652,39.5262125,-106.037154,Breckenridge,2346 Highlands Drive,Residential,"$3,965,000","4,709","2,371",4,4,05/28/2022,Yes
+165,4999923,40.0023407,-104.7329299,Lochbuie,1111 Sunrise Drive,Residential,"$520,980","2,125","2,125",4,3,05/28/2022,Yes
+166,5239981,39.7073699,-104.2223584,Byers,281 S Owens Street,Residential,"$499,500","1,779","1,779",3,2,05/28/2022,No
+167,3910261,40.6130332,-105.2806389,Bellvue,2721 Davis Ranch Road,Land,"$350,000",,,,,05/28/2022,Yes
+168,3745302,38.8969056,-105.2482432,Florissant,1400 Lower Twin Rocks Road,Residential,"$895,000","1,870","1,182",2,2,05/28/2022,No
+169,4575583,39.7717229,-104.7527092,Denver,20203 E 40th Place,Residential,"$630,000","3,218","2,144",3,4,05/28/2022,Yes
+170,3626054,40.2276185,-105.8506576,Grand Lake,12710 US Highway 34,Residential,"$1,995,000","1,848","1,848",3,2,05/28/2022,No
+171,6793096,,,Aurora,18847 E Yale Circle Unit# D,Residential,"$400,000","1,344","1,344",2,2,05/28/2022,Yes
+172,2245370,,,Denver,1401 Wewatta Street Unit# 601,Residential,"$525,000",775,775,1,1,05/28/2022,Yes
+173,2631383,39.88940360000001,-104.8361135,Commerce City,12967 E 106th Avenue,Residential,"$739,000","4,574","2,816",5,4,05/28/2022,No
+174,3604913,38.7914957,-105.4235795,Guffey,441 Wagon Wheel Road,Residential,"$300,000",624,624,2,0,05/28/2022,No
+175,6005808,,,Aurora,9191 E 17th Avenue Unit# A & B,Residential Income,"$799,000","3,188","1,594",8,4,05/28/2022,No
+176,8125579,38.9445111,-104.7388546,Colorado Springs,4745 Falls Church Road,Residential,"$545,000","3,255","2,255",5,4,05/28/2022,No
+177,4917912,39.4850303,-105.0838269,Littleton,10574 Kicking Horse Drive,Residential,"$815,000","3,685","2,454",4,3,05/28/2022,Yes
+178,2454866,39.8742085,-105.0199453,Federal Heights,9850 Federal Boulevard,Manufactured In Park,"$55,000","1,088","1,088",2,2,05/28/2022,Yes
+179,9919856,,,Aurora,13405 E Asbury Drive Unit# 101,Residential,"$269,900",940,940,2,2,05/28/2022,Yes
+180,6313815,39.6359897,-104.9893833,Englewood,4443 S Acoma Street,Residential Lease,"$3,200","1,944","1,076",4,2,05/28/2022,
+181,3468951,39.4389401,-103.9910925,Agate,35520 County Road 160,Land,"$115,000",,,,,05/28/2022,No
+182,7655122,39.673676,-105.404641,Evergreen,28 Valley View Lane,Residential Lease,"$3,950","1,800","1,800",3,3,05/28/2022,
+183,7395990,39.8762145,-105.0794653,Westminster,9851 Upham Drive,Residential,"$875,990","3,857","2,849",5,3,05/28/2022,Yes
+184,6311659,39.5157127,-104.8181696,Parker,14684 Domino Drive,Residential,"$804,900","3,435","2,310",3,3,05/28/2022,Yes
+185,8523140,,,Aurora,14004 E Princeton Place Unit# A,Residential,"$450,000","1,537","1,537",3,3,05/28/2022,Yes
+186,2703902,37.4288973,-105.4338999,Fort Garland,7276 Reg Jones Road,Residential,"$452,000","2,105","2,105",2,2,05/28/2022,No
+187,7263004,,,Castle Rock,532 Oakwood Drive Unit# E205,Residential,"$275,000",926,926,2,2,05/28/2022,Yes
+188,7776071,39.7834324,-104.9862795,Denver,4779 Lincoln Street,Commercial Lease,"$1,500",900,,,,05/28/2022,
+189,5030999,,,Castle Rock,532 Oakwood Drive Unit# E202,Residential,"$200,000",609,609,1,1,05/28/2022,Yes
+190,6067648,39.1059461,-105.6972341,Hartsel,3912 Goldenberg Canyon Road,Land,"$20,000",,,,,05/28/2022,Yes
+191,8421116,39.8170094,-105.0558556,Arvada,6627 Benton Street,Residential,"$664,900","2,686","1,568",4,2,05/28/2022,No
+192,7937820,39.57911199999999,-104.9735453,Centennial,1314 E Irish Place,Residential,"$669,000","2,970","2,164",4,3,05/28/2022,No
+193,8242889,39.4988929,-106.0427191,Breckenridge,161 Dyer Trail,Residential,"$3,900,000","5,382","5,382",5,5,05/28/2022,Yes
+194,5471890,38.8810244,-104.9024309,Colorado Springs,3420 Cathedral Spires Drive,Residential,"$1,400,000","6,258","4,122",5,6,05/28/2022,Yes
+195,9602645,39.059629,-104.873603,Monument,15757 Long Valley Drive,Residential,"$950,000","3,206","1,603",4,3,05/28/2022,Yes
+196,4721836,39.4742683,-105.0822512,Littleton,7735 Jared Way,Residential,"$665,000","2,406","1,253",4,3,05/28/2022,No
+197,7933702,39.6984309,-104.7985658,Aurora,1031 S Memphis Street,Residential,"$400,000","1,940","1,940",4,3,05/28/2022,No
+198,4406414,,,Breckenridge,1521 Ski Hill Road Unit# 8211,Residential,"$2,250,000","1,128","1,128",2,2,05/28/2022,Yes
+199,5451019,38.8635139,-104.8115138,Colorado Springs,2131 N El Paso Street,Residential,"$505,000","2,054","1,142",3,2,05/28/2022,No
+200,6134434,38.8296065,-106.1218141,Buena Vista, County Road 317,Land,"$450,000",,,,,05/28/2022,No
+201,5129278,39.7635572,-105.0560839,Wheat Ridge,3289 Benton Street,Commercial Sale,"$1,500,000","4,997",,,,05/28/2022,
+202,5329301,,,Englewood,9019 E Panorama Circle Unit# D406,Residential,"$450,000","1,172","1,172",2,2,05/28/2022,Yes
+203,5743384,38.9944604,-105.0559013,Woodland Park,300 Midland Avenue,Residential Lease,"$2,400","1,350","1,350",3,3,05/28/2022,
+204,7761125,38.942426,-104.689079,Colorado Springs,7613 Sand Lake Heights,Residential,"$420,000","2,068","2,068",3,3,05/28/2022,Yes
+205,6550374,39.5345378,-104.8093254,Parker,10086 Granite Hill Drive,Residential,"$795,000","3,644","2,398",5,4,05/28/2022,Yes
+206,7947305,39.1180015,-105.9909431,Fairplay,265 Trout Road,Residential,"$455,000","1,692","1,692",4,2,05/28/2022,No
+207,5235283,39.516912,-104.8022586,Parker,11012 Ouzel Court,Residential,"$620,000","1,867","1,463",3,3,05/28/2022,Yes
+208,4140414,40.0162522,-104.9975417,Broomfield,17899 Galapagos Street,Residential,"$385,000","1,787","1,787",3,3,05/28/2022,Yes
+209,1869180,38.8658452,-104.7858696,Colorado Springs,2317 Monteagle Street,Residential,"$550,000","2,958","1,479",3,3,05/28/2022,No
+210,8626476,38.8843215,-105.2486823,Florissant,145 Arrowhead Road,Land,"$25,000",,,,,05/28/2022,Yes
+211,7072116,39.7439241,-104.7672032,Aurora,18921 E 17th Avenue,Residential,"$495,000","1,664",832,3,2,05/28/2022,No
+212,7507249,40.4006594,-105.1473223,Loveland,787 Rossum Drive,Residential,"$1,195,000","6,116","3,058",4,5,05/28/2022,Yes
+213,4586004,39.88847610000001,-105.115503,Westminster,10600 W 106th Place,Residential,"$549,900","1,365","1,365",3,2,05/28/2022,No
+214,9659921,40.5612281,-105.0621573,Fort Collins,1904 Sequoia Street,Residential,"$1,100,000","3,476","1,787",5,4,05/28/2022,No
+215,6881987,39.5975086,-104.7244317,Aurora,22554 E Peakview Place,Residential,"$825,000","4,300","2,163",4,3,05/28/2022,Yes
+216,9433276,,,Denver,750 S Alton Way Unit# 6A,Residential,"$196,650",855,855,1,1,05/28/2022,Yes
+217,6246329,39.933006,-105.067934,Broomfield,1178 Clubhouse Drive,Residential,"$860,000","4,639","2,628",4,3,05/28/2022,Yes
+218,5591025,38.8786366,-105.9046077,Hartsel,597 Forge Road,Land,"$150,000",,,,,05/28/2022,Yes
+219,2850434,39.4901773,-104.5749276,Elizabeth,4745 River Highlands Loop,Residential,"$500,000","1,607","1,607",3,2,05/28/2022,Yes
+220,5005933,,,Denver,7665 E Quincy Avenue Unit# 201,Residential,"$219,900",952,952,2,1,05/28/2022,Yes
+221,4449934,39.8187163,-105.14136,Arvada,12665 W 67th Place,Residential,"$675,000","2,410","1,835",6,3,05/28/2022,No
+222,2286776,38.6907046,-105.4296796,Canon City,4232 COUNTY ROAD 352a,Residential,"$699,000","1,296","1,296",2,2,05/28/2022,No
+223,1665903,40.428214,-105.0748816,Loveland,294 Polk Drive,Residential,"$550,000","2,455","1,645",4,4,05/28/2022,Yes
+224,3575840,39.5619585,-104.5957104,Parker,3547 Antelope Ridge Trail,Residential,"$1,315,000","5,357","3,516",6,6,05/28/2022,Yes
+225,8884547,39.681082,-105.09008,Lakewood,1962 S Carr Street,Residential,"$440,000","2,344","1,172",2,2,05/28/2022,Yes
+226,5217110,39.5113057,-105.4986826,Bailey,5 Gray Street,Land,"$150,000",,,,,05/28/2022,No
+227,1664014,39.5018131,-105.0422028,Littleton,9639 Taylor River Circle,Residential,"$765,000","3,204","2,101",3,4,05/28/2022,Yes
+228,2680773,39.3246635,-104.8311203,Castle Rock,5438 Echo Hollow Street,Residential,"$675,000","3,216","2,216",5,4,05/28/2022,Yes
+229,6453570,39.7500868,-104.3234181,Strasburg,56734 E 24th Avenue,Residential,"$525,000","3,360","1,680",3,2,05/28/2022,Yes
+230,6204207,39.5511079,-104.9160034,Highlands Ranch,6378 Monterey Place,Residential,"$600,000","1,953","1,505",3,3,05/28/2022,Yes
+231,4076162,39.3818905,-104.8098725,Castle Rock,5048 Wingfeather Place,Residential,"$799,999","3,706","2,517",4,4,05/28/2022,Yes
+232,8678413,39.892622,-104.8024866,Commerce City,15857 E 107th Way,Residential,"$559,000","2,737","1,987",3,3,05/28/2022,Yes
+233,2837697,39.4377331,-104.8750841,Castle Rock,5380 N Lariat Drive,Residential,"$1,649,000","5,440","3,822",7,9,05/28/2022,Yes
+234,9070543,39.7576265,-104.985104,Denver,2531 Lawrence Street,Residential,"$1,069,000","2,231","1,887",3,4,05/28/2022,Yes
+235,IR966920,40.6080356,-103.2202053,Sterling,610 Lark Lane,Residential,"$279,000","2,324","1,456",4,2,05/28/2022,No
+236,IR966904,40.2684441,-105.4268586,Lyons,0 Cedar Drive,Land,"$97,000",,,,,05/28/2022,Yes
+237,IR966885,40.4386038,-104.9127413,Windsor,2133 Pelican Farm Road,Residential,"$775,000","3,359","2,357",5,4,05/28/2022,Yes
+238,IR966883,39.9357881,-104.9733171,Thornton,1029 E 131st Drive,Residential,"$650,000","3,077","1,968",3,3,05/28/2022,Yes
+239,IR966882,39.8353615,-105.0645319,Arvada,7622 Jay Court,Residential,"$449,000","1,850","1,850",3,2,05/28/2022,No
+240,IR966880,40.3497184,-105.5072422,Estes Park,1930 N Sharon Court N,Residential,"$1,350,000","3,712","1,856",3,3,05/28/2022,Yes
+241,IR966878,,,Fort Collins,"3465 Lochwood Drive Unit# 10, Bldg B",Residential,"$399,900","1,057","1,057",2,2,05/28/2022,Yes
+242,IR966876,39.9968432,-105.2637474,Boulder,2250 Bluebell Avenue,Land,"$1,695,000",,,,,05/28/2022,No
+243,IR966873,40.2401933,-105.3129127,Lyons,208 Longmont Dam Road,Residential,"$775,000","1,732","1,732",3,3,05/28/2022,No
+244,IR966871,39.822778,-105.057036,Arvada,5555 W 69TH Avenue,Residential,"$1,300,000","1,001",,2,1,05/28/2022,No
+245,IR966869,,,Lafayette,1150 Bacchus Drive Unit# A,Residential,"$350,000",910,910,2,1,05/28/2022,Yes
+246,IR966868,39.7717229,-104.7527092,Denver,20203 E 40th Place,Residential,"$630,000","3,218","2,144",5,4,05/28/2022,Yes
+247,IR966866,,,Fort Collins,"845 Birdwhistle Lane Unit# 6, Bldg 20",Residential,"$604,990","1,675","1,675",2,4,05/28/2022,No
+248,IR966865,,,Fort Collins,"845 Birdwhistle Lane Unit# 7, Bldg 20",Residential,"$621,990","2,149","2,149",3,4,05/28/2022,No
+249,IR966864,,,Fort Collins,"845 Birdwhistle Lane Unit# 8, Bldg 20",Residential,"$624,990","1,935","1,935",3,4,05/28/2022,Yes
+250,IR966863,,,Fort Collins,"845 Birdwhistle Lane Unit# 4, Bldg 20",Residential,"$603,990","1,675","1,675",2,4,05/28/2022,No
+251,IR966862,,,Fort Collins,"845 Birdwhistle Lane Unit# 5, Bldg 20",Residential,"$591,990","1,675","1,675",2,4,05/28/2022,No
+252,IR966860,40.9605792,-102.3893712,Ovid,217 5th Street,Residential,"$36,000","1,992","1,800",3,2,05/28/2022,No
+253,IR966859,40.5757232,-104.8442534,Severance,39671 Ridge Park Drive,Residential,"$1,525,000","6,131","2,821",4,5,05/28/2022,Yes
+254,IR966858,40.1083158,-104.5199585,Keenesburg,0 Highway 2,Land,"$580,000",,,,,05/28/2022,No
+255,IR966857,40.03257110000001,-105.2547525,Boulder,2960 Glenwood Drive,Residential,"$575,000","1,402","1,402",2,2,05/28/2022,Yes
+256,IR966855,40.4101429,-104.8241155,Greeley,9009 18th Street,Residential,"$819,900","4,392","2,297",5,5,05/28/2022,Yes
+257,IR966853,40.4040778,-104.7483112,Greeley,2125 44th Avenue,Residential,"$450,000","2,510","1,784",5,4,05/28/2022,No
+258,IR966752,,,Boulder,2930 Shadow Creek Drive Unit# 304,Residential,"$515,000",955,955,2,2,05/27/2022,Yes
+259,IR966732,40.5414502,-105.0992251,Fort Collins,"3449 Laredo Lane, Bldg D",Residential,"$410,000","1,270","1,270",2,2,05/26/2022,Yes
+260,IR966693,40.1463839,-105.1569401,Longmont,3974 Hawthorne Circle,Residential,"$898,000","2,719","1,851",5,4,05/26/2022,Yes
+261,IR966634,40.4709391,-104.7073902,Greeley,1777 AA Street,Residential,"$2,499,000","4,288","2,144",5,3,05/26/2022,No
+262,IR966592,40.3682251,-105.5329703,Estes Park,639 Park River Place,Residential,"$830,000","1,876","1,292",3,3,05/25/2022,Yes
+263,IR966583,40.428214,-105.0748816,Loveland,294 Polk Drive,Residential,"$550,000","2,455","1,645",4,4,05/24/2022,Yes
+264,IR966551,,,Boulder,4674 White Rock Circle Unit# 5,Residential,"$400,000",887,887,2,2,05/25/2022,Yes
+265,IR966478,40.1921593,-105.4858751,Lyons,536 Taylor Road,Residential,"$649,000","1,344",672,2,2,05/24/2022,No
+266,IR966384,40.5415342,-105.1009773,Fort Collins,3337 Hickok Drive,Residential,"$515,000","1,586",818,3,2,05/23/2022,No
+267,IR966286,40.3824335,-104.7407231,Evans,3715 Ironhorse Drive,Residential,"$450,000","2,692","1,346",3,3,05/20/2022,Yes
+268,3306421,,,Denver,"3550 S Harlan Street Unit# 157, Bldg 6",Residential,"$320,000","1,296","1,296",2,3,05/27/2022,Yes
+269,8100678,39.7201429,-104.940625,Denver,240 Colorado Boulevard,Residential,"$999,900","2,913","2,201",4,4,05/27/2022,No
+270,2584315,,,Denver,100 Park Avenue W Unit# 705,Residential,"$350,000",664,664,1,1,05/27/2022,Yes
+271,7033082,39.6505697,-106.0876139,Silverthorne,384 W Coyote Drive,Residential,"$1,250,000","1,704","1,704",3,3,05/27/2022,Yes
+272,9296592,37.166448,-104.5241573,Trinidad,1031 Robinson Avenue,Residential,"$140,000",839,839,2,1,05/27/2022,No
+273,3282010,40.0318721,-105.2244875,Boulder,5505 Valmont Road Lot 202,Manufactured In Park,"$80,000","1,020","1,020",4,2,05/27/2022,Yes
+274,4797134,38.9837603,-104.6005594,Peyton,12166 Sunset Crater Drive,Residential,"$625,000","3,799","2,539",5,4,05/27/2022,Yes
+275,5072923,40.02895400000001,-104.554537,Keenesburg,1985 County Road 55,Residential,"$649,900","3,951","1,976",4,3,05/27/2022,No
+276,9196896,38.8423431,-106.1292759,Buena Vista,102 S Colorado Avenue,Residential,"$725,000","1,824","1,824",2,3,05/27/2022,No
+277,9775441,39.6842981,-105.3441977,Evergreen,1699 Stoneham Lane,Residential,"$1,225,000","4,158","2,486",3,3,05/27/2022,Yes
+278,1990021,39.8667477,-104.9442082,Thornton,3549 E 94th Avenue,Residential,"$429,900","1,535","1,535",3,3,05/27/2022,Yes
+279,6707698,,,Nathrop,10795 County Road 197a Unit# 188,Residential,"$199,500",351,351,1,1,05/27/2022,Yes
+280,6640210,39.7538078,-104.9607209,Denver,2526 N Gaylord Street,Residential Lease,"$5,500","3,255","2,355",5,4,05/27/2022,
+281,8075811,,,Longmont,1400 S Collyer Street Unit# 295,Residential,"$115,000",976,976,2,2,05/27/2022,Yes
+282,7311566,39.7261836,-104.9176002,Denver,621 Kearney Street,Residential Lease,"$7,500","2,951","2,124",4,3,05/27/2022,
+283,3234493,40.5299519,-104.7098278,Eaton,124 E 4th Street,Residential,"$269,900","1,296","1,296",3,2,05/27/2022,No
+284,7742810,37.4665481,-105.7037069,Alamosa,7559 Badger Lane,Residential,"$205,000","1,216","1,216",3,2,05/27/2022,No
+285,8013470,39.9323185,-104.9477607,Thornton,13089 Steele Drive,Residential,"$680,000","3,588","2,024",4,3,05/27/2022,No
+286,6121339,38.8265068,-106.1872488,Buena Vista,17210 County Road 338,Residential,"$570,000","1,514","1,514",2,2,05/27/2022,No
+287,5991900,38.9719876,-104.7299683,Colorado Springs,5244 Castlewood Canyon Court,Residential,"$739,900","3,709","2,445",5,4,05/27/2022,Yes
+288,3563332,39.9195003,-104.9098899,Brighton,6702 E 123rd Place,Residential,"$495,000","1,243","1,243",3,3,05/27/2022,No
+289,4457083,39.5182334,-104.7318367,Parker,10895 Ridge Pointe Lane,Residential,"$929,000","4,688","3,078",4,5,05/27/2022,Yes
+290,9893669,39.25526,-106.099598,Fairplay,179 Sunshine Drive,Land,"$124,999",,,,,05/27/2022,No
+291,5402784,39.0904278,-105.7328267,Hartsel,6944 Jefferson Road,Land,"$29,900",,,,,05/27/2022,No
+292,5153262,38.8886174,-105.9534867,Hartsel,2141 Windmill Drive,Residential,"$575,000","2,048","1,024",2,3,05/27/2022,Yes
+293,8887858,38.8346428,-104.8654147,Colorado Springs,1413 Arch Street,Residential,"$390,000",994,994,0,0,05/27/2022,No
+294,3045045,39.36453909999999,-104.8095077,Castle Rock,595 S Lindsey Street,Residential,"$549,999","1,957","1,507",3,3,05/27/2022,Yes
+295,9617139,37.3303195,-107.5802985,Bayfield,1291 Pine Tree Drive,Land,"$49,999",,,,,05/27/2022,No
+296,3845980,38.7466555,-105.1783149,Cripple Creek,142 Mystic Valley Heights,Land,"$40,000",,,,,05/27/2022,No
+297,6479188,,,Denver,1750 Wewatta Street Unit# 631,Residential Lease,"$4,000","1,289","1,289",2,2,05/27/2022,
+298,7052918,,,Denver,1750 Wewatta Street Unit# 929,Residential Lease,"$3,150",897,897,1,1,05/27/2022,
+299,2818557,38.8893671,-105.94215,Hartsel,1591 Blacksmith Road,Land,"$104,999",,,,,05/27/2022,Yes
+300,7596231,37.5720733,-105.1646122,La Veta,6855 Highway 160,Residential,"$569,000","2,148","2,148",3,2,05/27/2022,Yes
+301,5436863,39.7697787,-104.9650108,Denver,3787 N High Street,Residential,"$799,000","1,984","1,672",4,2,05/27/2022,No
+302,5595310,39.4274363,-104.9034184,Castle Pines,7020 Homeplace Street,Residential,"$852,153","2,543","1,515",3,3,05/27/2022,Yes
+303,2324226,38.9516575,-104.6735178,Colorado Springs,8294 Moorebank Drive,Residential Lease,"$2,995","3,405","2,382",5,4,05/27/2022,
+304,2483126,39.331678,-106.0718193,Alma,2336 Quartzville Road,Land,"$199,000",,,,,05/27/2022,Yes
+305,7915116,38.0440451,-105.3698064,Westcliffe,2098 Commanche Road,Residential,"$745,000","2,080","2,080",3,3,05/27/2022,Yes
+306,2010153,38.8421005,-105.3340835,Florissant,899 Meadows Lane,Land,"$35,000",,,,,05/27/2022,No
+307,5469450,39.4476192,-104.2393483,Deer Trail, Parcel 6 Onyx Trail,Land,"$375,000",,,,,05/27/2022,No
+308,3909108,39.6345635,-104.7903599,Aurora,16931 E Stanford Avenue,Residential,"$365,000",842,842,3,1,05/27/2022,No
+309,5615781,39.5617306,-104.7138602,Aurora,23675 E Del Norte Place,Residential,"$1,198,000","4,557","2,278",5,4,05/27/2022,Yes
+310,9859802,39.6986405,-104.9219574,Denver,1001 S Holly Street,Residential,"$1,499,000","2,730","1,512",5,3,05/27/2022,No
+311,6724643,38.9851779,-104.1458097,Calhan,10555 Ramah Highway,Land,"$93,000",,,,,05/27/2022,No
+312,8036928,39.5849469,-105.0796023,Littleton,7339 W Frost Drive,Residential,"$689,000","2,252","1,126",5,3,05/27/2022,No
+313,7081523,39.3400458,-104.6309223,Elizabeth,1991 County Road 132,Residential,"$899,000","2,820","1,410",3,3,05/27/2022,No
+314,6313316,39.50273680000001,-104.8177831,Parker,11780 Camarillo Street,Residential,"$1,150,000","5,302","3,530",6,6,05/27/2022,Yes
+315,3256126,39.6720655,-104.7552159,Aurora,19978 E Dickenson Place,Residential,"$599,900","1,653","1,269",4,3,05/27/2022,Yes
+316,7932794,39.7486766,-104.971897,Denver,2122 N Marion Street,Residential,"$1,250,000","3,384","2,506",4,4,05/27/2022,No
+317,2604727,40.251711,-105.8216659,Grand Lake,828 Grand Avenue,Residential,"$449,900",539,539,1,1,05/27/2022,Yes
+318,2266645,39.7168529,-104.9277748,Denver,30 Fairfax Street,Residential Lease,"$5,250","2,254","2,254",4,2,05/27/2022,
+319,1678397,39.73396,-104.886854,Denver,8700-8702 Richthofen Place,Residential Income,"$750,000","1,756","1,756",4,2,05/27/2022,No
+320,9195884,40.0620707,-104.7323379,Fort Lupton,4240 Falcon Drive,Residential,"$699,000","2,855","1,893",3,3,05/27/2022,Yes
+321,8691741,39.9981738,-105.0469515,Broomfield,16682 Eolus Way,Residential,"$635,000","1,554","1,554",2,2,05/27/2022,Yes
+322,7833272,39.496326,-105.207078,Littleton,12183 Arnett Ranch Road,Residential,"$1,695,000","3,428","2,238",5,4,05/27/2022,No
+323,9291525,38.9158357,-104.6916945,Colorado Springs,5793 Brennan Avenue,Residential,"$491,000","2,130","1,065",2,2,05/27/2022,Yes
+324,7856859,39.6813821,-104.953328,Denver,1900 S Fillmore Street,Residential,"$899,900","2,520","1,435",4,3,05/27/2022,No
+325,4867091,39.7432337,-105.0636186,Lakewood,1650 Ingalls Street,Residential Lease,"$2,800","2,852","1,426",5,2,05/27/2022,
+326,8296772,40.170761,-105.8960771,Granby,246 County Road 640,Residential,"$2,800,000","5,610","4,253",5,7,05/27/2022,Yes
+327,9133216,,,Lakewood,1825 Kendall Street Unit# 105,Residential,"$245,000",580,580,1,1,05/27/2022,Yes
+328,2411954,39.0519437,-105.2415805,Woodland Park,8567 County Road 3,Land,"$2,500,000",,,,,05/27/2022,No
+329,6310590,39.7378715,-104.9497571,Denver,1357 Steele Street,Residential,"$749,900","1,608","1,200",3,2,05/27/2022,No
+330,4090098,,,Grand Lake,828 Grand Avenue Unit# 201a,Residential,"$469,900",539,539,1,1,05/27/2022,Yes
+331,2407185,40.58309029999999,-105.0735283,Fort Collins,308 E Magnolia Street,Residential,"$900,000","2,751","1,835",5,3,05/27/2022,No
+332,8104649,40.182168,-105.105956,Longmont,900 Mountain View Avenue Lot 103,Manufactured In Park,"$75,000",840,840,2,2,05/27/2022,No
+333,6125356,39.4281506,-104.8887683,Castle Rock,4501 Mirage Drive,Residential,"$1,375,000","4,015","2,018",3,4,05/27/2022,Yes
+334,2646749,39.2695947,-105.6428596,Jefferson,1748 Derbishire Road,Residential,"$749,900","1,701","1,701",3,2,05/27/2022,Yes
+335,9604913,40.00020079999999,-105.8657862,Tabernash,4601 County Road 85,Land,"$499,900",,,,,05/27/2022,No
+336,1576490,39.74801670000001,-105.0390523,Denver,2026 Perry Street,Residential,"$1,150,000","1,093","1,093",2,1,05/27/2022,No
+337,7057891,39.5043525,-105.5480899,Bailey,7823 County Road 43,Residential,"$175,000",712,712,2,1,05/27/2022,No
+338,1837684,39.5391274,-105.0343039,Highlands Ranch,3763 Bucknell Drive,Residential,"$675,000","2,728","1,871",4,3,05/27/2022,Yes
+339,2800225,,,Dillon,"0953 Straight Creek Drive Unit# 101, Bldg S",Residential,"$405,000",584,584,1,1,05/27/2022,Yes
+340,6987954,39.81078,-104.870513,Denver,10055 63rd Avenue,Residential,"$678,449","2,035","1,563",2,0,05/27/2022,Yes
+341,2253978,40.0933252,-104.9184215,Frederick,6289 Taylor Street,Residential,"$529,000","1,757","1,603",4,3,05/27/2022,Yes
+342,9994666,39.92952469999999,-104.895421,Thornton,8055 E 128th Place,Residential,"$601,000","1,932","1,932",3,3,05/27/2022,Yes
+343,3613276,39.0673155,-104.8039455,Monument,16255 Thunder Cat Way,Residential,"$1,290,000","5,126","2,980",5,6,05/27/2022,Yes
+344,4394505,39.0179983,-105.0595544,Woodland Park,444 Ridge Place,Residential,"$699,900","2,794","1,898",5,4,05/27/2022,No
+345,7831905,,,Aurora,18701 E Water Drive Unit# E,Residential,"$335,000","1,034","1,034",1,1,05/27/2022,No
+346,1634210,39.810851,-104.87043,Denver,10075 63rd Avenue,Residential,"$653,794","1,881","1,461",2,1,05/27/2022,Yes
+347,2203420,,,Dillon,175 Argentine Court Unit# 1523 and 1524,Residential,"$1,850,000","2,649","2,649",4,4,05/27/2022,Yes
+348,9102992,40.53603409999999,-105.0597713,Fort Collins,1001 Sailors Reef,Residential,"$499,900","1,765","1,765",2,2,05/27/2022,Yes
+349,5602832,39.5135073,-105.5246666,Bailey,44 Bandit Lane,Residential,"$675,000","2,034","2,034",4,2,05/27/2022,No
+350,2028946,,,Parker,9066 Apache Plume Drive Unit# A,Residential Lease,"$2,500","1,623","1,623",3,3,05/27/2022,
+351,7362714,38.9708535,-104.5815741,Peyton,12875 Morning Breeze Way,Residential,"$725,900","4,226","3,027",4,4,05/27/2022,Yes
+352,8685086,39.0591644,-104.7814934,Colorado Springs,15745 Roller Coaster Road,Residential,"$1,690,000","5,807","4,859",6,5,05/27/2022,No
+353,2847589,40.6019275,-105.0094225,Fort Collins,1121 Elgin Court,Residential,"$540,000","1,732","1,732",3,2,05/27/2022,Yes
+354,8073539,39.9999589,-104.7564465,Brighton,687 N 48th Avenue,Residential,"$545,000","2,745","1,891",4,4,05/27/2022,Yes
+355,6058393,40.4665799,-104.9027852,Twin Lakes,379 Hemlock Drive,Land,"$55,000",,,,,05/27/2022,No
+356,3982202,38.8991359,-104.7272341,Colorado Springs,4635 Woodsorrel Court,Residential,"$625,000","3,015","1,680",4,3,05/27/2022,No
+357,1541053,38.5517248,-105.6756792,Cotopaxi,4647 co Rd 16,Residential,"$1,790,000","3,864","3,864",4,3,05/27/2022,No
+358,6355568,39.2304159,-106.0001361,Fairplay,632 Silverheels Circle,Residential,"$798,980","2,088","2,088",4,2,05/27/2022,No
+359,8240638,,,Fort Collins,2001 S Shields Street Unit# J3,Commercial Sale,"$380,000",,,,,05/27/2022,
+360,8765359,39.50038929999999,-105.3241408,Conifer,28098 Green Valley Lane,Residential,"$2,755,000","7,484","4,802",3,4,05/27/2022,No
+361,8729785,39.4126938,-104.6384633,Elizabeth,1347 Mountview Drive,Land,"$179,000",,,,,05/27/2022,No
+362,6082430,39.3635046,-104.5958932,Elizabeth,375 Logan Street,Residential,"$415,000","1,312",865,3,2,05/27/2022,No
+363,9006033,39.5439493,-104.895953,Lone Tree,9528 Pinyon Trail,Residential,"$1,200,000","5,075","3,370",5,5,05/27/2022,Yes
+364,9700828,39.70333189999999,-104.9202921,Denver,724 S Ivy Street,Residential,"$748,000","2,284","1,142",4,3,05/27/2022,No
+365,6823120,40.4317799,-105.0719756,Loveland,447 Slippery Elm Court,Residential,"$415,000","1,008","1,008",2,2,05/27/2022,No
+366,4178145,39.7495692,-105.132337,Lakewood,2132 Union Way,Residential,"$999,999","3,000","1,850",4,3,05/27/2022,No
+367,6343431,,,Louisville,1400 Main Street Unit# 101,Commercial Lease,$16,"1,642",,,,05/27/2022,
+368,9869775,39.5200922,-104.7835219,Parker,10907 Baxter Drive,Residential,"$799,900","4,386","3,330",5,3,05/27/2022,Yes
+369,9722304,39.8131279,-105.0417919,Arvada,6400 Raleigh Street,Residential,"$450,000","1,552","1,552",3,2,05/27/2022,No
+370,8395120,,,Breckenridge,120 Atlantic Lode Road Unit# 4,Residential,"$885,000",812,812,2,2,05/27/2022,Yes
+371,9792657,40.5403168,-105.1179697,Fort Collins,2206 Bronson Street,Residential,"$625,000","2,659","1,600",4,4,05/27/2022,Yes
+372,5945640,,,Denver,2034 S Holly Street Unit# 4,Residential,"$632,660","1,315","1,315",3,3,05/27/2022,Yes
+373,8430200,39.716063,-105.2708499,Golden,219 Pine Road,Land,"$89,900",,,,,05/27/2022,No
+374,3921867,39.4809811,-106.0358913,Breckenridge,146 Moonstone Road,Residential,"$2,000,000","2,356","2,356",,0,05/27/2022,No
+375,2036379,39.4490016,-105.4600001,Bailey,238 Derringer Court,Residential,"$1,750,000","7,386","5,823",4,5,05/27/2022,Yes
+376,9593807,39.5586492,-106.0583802,Breckenridge,600 Alpensee Drive,Residential,"$2,000,000","2,900","2,900",0,0,05/27/2022,No
+377,4393515,39.7151245,-104.9248775,Denver,65 S Grape Street,Residential,"$1,099,000","2,111","1,391",3,3,05/27/2022,No
+378,6715925,39.8049048,-104.7573581,Aurora,19916 E 59th Drive,Residential,"$580,000","2,782","2,038",3,3,05/27/2022,Yes
+379,7771196,,,Wheat Ridge,10251 W 44th Avenue Unit# 1-108,Residential,"$315,000",954,954,2,1,05/27/2022,Yes
+380,3783422,39.404102,-104.849746,Castle Rock,4193 Black Feather Trail,Residential,"$733,000","3,371","3,371",5,4,05/27/2022,Yes
+381,6854523,40.1845223,-104.9628202,Firestone,12648 Canoe Street,Residential,"$820,000","4,401","3,069",5,4,05/27/2022,Yes
+382,2956252,39.7643076,-104.9531441,Denver,2910 Bruce Randolph Avenue,Residential,"$350,000","1,956","1,440",3,3,05/27/2022,Yes
+383,2015790,40.45194619999999,-104.9106075,Windsor,1774 Beachside Drive,Residential,"$797,487","2,130","2,130",3,2,05/27/2022,Yes
+384,3018992,40.4494591,-104.9309399,Windsor,1594 Winter Glow Drive,Residential,"$935,902","4,117","2,752",4,3,05/27/2022,Yes
+385,8807280,38.6618276,-104.8650954,Colorado Springs,11545 Calle Corvo,Residential,"$1,750,000","4,791","2,481",5,4,05/27/2022,No
+386,6423588,39.330372,-104.865271,Castle Rock,271 Kitselman Drive,Residential,"$885,000","3,423","2,401",3,3,05/27/2022,Yes
+387,3336519,39.7992514,-105.1663299,Golden,14888 W 57th Drive,Residential,"$2,195,000","6,422","4,394",6,7,05/27/2022,No
+388,4586217,39.3160998,-105.892792,Como,2463 Arrowhead Drive,Residential,"$590,000","1,803","1,803",4,3,05/27/2022,Yes
+389,9439508,38.9821123,-104.5818473,Peyton,10339 Evening Vista,Residential,"$565,000","3,480","2,381",3,3,05/27/2022,Yes
+390,2375444,40.0388623,-105.0377282,Erie,329 Bonanza Drive,Residential Lease,"$3,245","2,645","1,825",4,3,05/27/2022,
+391,5887709,39.068648,-104.815346,Monument,620 Sage Forest Lane,Residential,"$600,000","1,854","1,854",3,3,05/27/2022,Yes
+392,8764429,,,Denver,1800 Lawrence Street Unit# 103,Residential,"$495,000",906,906,1,1,05/27/2022,Yes
+393,4568552,39.1121409,-104.8549249,Monument,1520 Fawnwood Road,Residential,"$849,000","3,864","2,326",4,4,05/27/2022,Yes
+394,6218673,38.7285069,-104.703449,Colorado Springs,7110 Gershwin Court,Residential,"$425,000","1,427",937,3,2,05/27/2022,No
+395,2753084,38.931863,-104.6859543,Colorado Springs,6975 Dancing Wind,Residential,"$625,000","3,016","2,094",5,4,05/27/2022,Yes
+396,8431988,39.4577101,-104.8792577,Castle Pines,6531 Merrimack Drive,Residential,"$839,950","5,051","2,541",4,3,05/27/2022,Yes
+397,7791537,38.8336539,-106.1497086,Buena Vista,93 Tammie Drive,Residential,"$509,500","1,348","1,348",3,2,05/27/2022,No
+398,7856606,,,Englewood,10111 Inverness Main Street Unit# 315,Residential Lease,"$2,650","1,130","1,130",2,2,05/27/2022,
+399,9100744,39.5344215,-105.014855,Highlands Ranch,2131 Maples Place,Residential,"$935,000","4,060","2,717",4,3,05/27/2022,Yes
+400,4446044,40.802481,-105.5916629,Red Feather Lakes,1137 Okmulgee Circle,Residential,"$325,000",960,960,2,2,05/27/2022,Yes
+401,6922918,39.4167347,-104.8249645,Castle Rock,3304 Offbeaten Place,Residential,"$1,334,168","4,687","3,332",6,5,05/27/2022,Yes
+402,9192035,39.250827,-105.9828637,Fairplay,168 Dry Lake Road,Residential,"$499,000","1,900","1,900",3,2,05/27/2022,Yes
+403,8552914,39.336495,-104.6569027,Elizabeth,295 High Meadows Loop,Residential,"$1,275,000","4,956","2,478",3,2,05/27/2022,Yes
+404,8502208,39.73184579999999,-104.8443902,Aurora,1006 Quentin Street,Residential,"$499,900","1,644","1,612",3,2,05/27/2022,No
+405,2841894,38.8654431,-104.7027656,Colorado Springs,2255 Lisa Drive,Residential,"$405,000","1,583","1,231",3,2,05/27/2022,No
+406,7448009,40.302202,-105.063063,Berthoud,206 Cowbell Drive,Residential,"$692,167","3,714","2,187",3,4,05/27/2022,Yes
+407,1903871,39.2438422,-106.3068769,Leadville,000 County Road 4,Land,"$135,000",,,,,05/27/2022,No
+408,3358544,39.8070388,-104.7431863,Aurora,20936 E 61st Avenue,Residential,"$750,000","2,854","1,382",4,3,05/27/2022,Yes
+409,6585932,40.56257600000001,-105.068921,Fort Collins,1821 Indian Hills Circle,Residential,"$535,000","2,276","1,144",4,3,05/27/2022,Yes
+410,4427639,38.626664,-104.263722,Yoder,30495 Fred View,Land,"$48,000",,,,,05/27/2022,Yes
+411,4738282,38.886031,-105.96119,Hartsel,928 Kaufman Road,Residential,"$739,000","3,036","2,024",3,2,05/27/2022,Yes
+412,1842564,39.6900659,-105.0850372,Lakewood,1456 S Zephyr Court,Residential,"$599,900","2,194","1,097",4,3,05/27/2022,No
+413,5201634,39.6807108,-105.1448322,Lakewood,12951 W Jewell Circle,Residential,"$675,000","1,918","1,918",3,3,05/27/2022,No
+414,7288940,39.9980243,-104.7447336,Brighton,802 Gamble Oak Street,Residential,"$698,000","3,477","2,332",4,4,05/27/2022,Yes
+415,6410287,40.0666111,-104.72842,Fort Lupton,4800 Meadow Lark Road,Residential,"$1,065,000","4,664","2,653",4,3,05/27/2022,Yes
+416,5340288,39.4160431,-106.0469233,Breckenridge,528 97 Circle,Residential,"$675,000",676,580,1,1,05/27/2022,No
+417,4578777,40.56972409999999,-105.1004292,Fort Collins,1338 Bennett Road,Residential,"$925,000","3,888","2,307",5,5,05/27/2022,Yes
+418,7829885,38.7299151,-106.1376715,Nathrop,14510 County Road 276,Residential,"$649,900","1,568","1,568",3,2,05/27/2022,No
+419,8114521,39.8804347,-104.7920694,Commerce City,16722 E 102nd Avenue,Residential,"$539,800","3,012","1,506",2,2,05/27/2022,Yes
+420,3241552,40.42445800000001,-104.740107,Greeley,818 37th Avenue Court,Residential,"$230,000","1,596","1,071",2,2,05/27/2022,Yes
+421,3608856,40.2509123,-105.8473948,Grand Lake,714 GCR 4632,Land,"$119,000",,,,,05/27/2022,Yes
+422,4878663,39.8059501,-104.74446,Aurora,6016 N Lisbon Street,Residential,"$761,034","4,054","2,754",4,4,05/27/2022,Yes
+423,6668294,39.6417663,-104.7472402,Aurora,20656 E Oxford Place,Residential,"$599,000","2,466","1,726",5,3,05/27/2022,Yes
+424,7194610,39.6754197,-104.8780946,Denver,2276 S Dayton Street,Residential,"$695,000","2,714","2,710",4,3,05/27/2022,No
+425,4849812,39.14649319999999,-104.7558476,Larkspur,14700 Arfsten Road,Land,"$900,000",,,,,05/27/2022,No
+426,4681567,38.8599604,-104.6975261,Colorado Springs,1971 Mineola Street,Residential,"$289,999",984,984,2,2,05/27/2022,Yes
+427,8869363,39.62798600000001,-104.7428423,Aurora,21230 E Layton Lane,Residential,"$926,999","4,958","3,347",6,5,05/27/2022,Yes
+428,3214125,40.0314255,-105.2436753,Boulder,3129 Bell Drive,Residential,"$609,000","1,444","1,444",3,3,05/27/2022,Yes
+429,3197831,39.4803791,-105.0709378,Littleton,8047 Monte Vista Circle,Residential,"$718,700","2,866","1,949",4,3,05/27/2022,Yes
+430,8396760,39.6571205,-104.9792505,Englewood,3284 S Washington Street,Residential,"$615,000","1,608",936,3,2,05/27/2022,No
+431,8862457,39.7519319,-104.8643657,Aurora,2340 Iola Street,Residential,"$495,000","2,088","1,044",3,2,05/27/2022,No
+432,8120498,40.4337381,-105.1012742,Loveland,4163 Georgetown Drive,Residential,"$476,000","2,683","1,734",2,3,05/27/2022,Yes
+433,2926432,39.6090557,-104.9553359,Centennial,5927 S Elizabeth Way,Residential Lease,"$3,000","1,776","1,776",4,2,05/27/2022,
+434,4052634,39.5303909,-104.9366267,Highlands Ranch,4507 Lyndenwood Point,Residential,"$675,000","2,267","1,862",3,3,05/27/2022,Yes
+435,3607154,40.331681,-104.9382936,Johnstown,2398 Siskin Way,Residential,"$603,675","2,716","2,716",5,2,05/27/2022,Yes
+436,5800705,39.6858729,-104.7759093,Aurora,1750 S Walden Way,Residential,"$399,999","1,296","1,296",3,2,05/27/2022,No
+437,8106308,39.707719,-104.968238,Denver,1625 E Virginia Avenue,Residential Income,"$1,499,900","1,824","1,824",4,,05/27/2022,No
+438,3046095,39.9691942,-105.5158179,Nederland,5 Sundown Trail,Residential,"$869,000","2,679","1,703",3,4,05/27/2022,No
+439,6836172,,,Aurora,23456 E 5th Place Unit# 202,Residential,"$345,000","1,084","1,084",2,2,05/27/2022,Yes
+440,7316262,40.0358882,-107.9230239,Meeker,1231 Main Street,Residential,"$220,000","1,079","1,079",3,1,05/27/2022,No
+441,6411107,39.8790912,-104.9558835,Thornton,10092 Elizabeth Street,Residential,"$550,000","2,587","1,911",4,3,05/27/2022,No
+442,3412557,39.7400442,-105.5504844,Idaho Springs,0000 Spring Gulch,Land,"$186,000",,,,,05/27/2022,No
+443,6357741,39.8612398,-104.9448858,Thornton,9146 Delwood Court,Residential,"$450,000","1,920",960,3,2,05/27/2022,No
+444,2901219,39.3790786,-104.4412256,Kiowa, COUNTY ROAD 142,Land,"$285,000",,,,,05/27/2022,No
+445,5646978,39.5859275,-104.6637491,Aurora,129 S Waterloo Street,Residential,"$698,995","3,540","2,548",4,3,05/27/2022,Yes
+446,6660764,39.3790786,-104.4412256,Kiowa, COUNTY ROAD 142,Land,"$305,000",,,,,05/27/2022,No
+447,9397610,37.5081745,-105.5475616,Blanca,00 Eighteenth Street,Land,"$6,000",,,,,05/27/2022,No
+448,8783443,40.1883085,-105.1104326,Longmont,1651 Gay Street,Residential,"$625,000","2,252","1,136",4,2,05/27/2022,No
+449,8005304,,,Denver,1182 Clermont Street Unit# A202,Residential,"$235,000",528,528,1,1,05/27/2022,Yes
+450,7683028,39.9381334,-104.9176687,Thornton,13349 Krameria Street,Residential,"$695,000","4,209","2,313",3,3,05/27/2022,Yes
+451,8645548,,,Denver,875 S Quebec Unit# 11,Residential,"$220,000",833,833,2,2,05/27/2022,Yes
+452,8889284,39.7314208,-104.6638099,Aurora,35 N Waterloo Street,Residential,"$695,895","3,314","2,398",4,3,05/27/2022,Yes
+453,4082492,39.9917898,-105.0883826,Lafayette,206 Skylark Circle,Manufactured In Park,"$84,500",896,896,2,2,05/27/2022,Yes
+454,4948577,39.8822581,-104.7914995,Commerce City,10267 Ouray Street,Residential,"$580,000","3,190","2,195",4,3,05/27/2022,Yes
+455,2586943,39.8713243,-104.9277177,Denver,5129 Riverdale Avenue Lot 73,Manufactured In Park,"$110,000","1,216","1,216",3,2,05/27/2022,Yes
+456,5499415,38.8504781,-104.8625413,Colorado Springs,2611 W Bijou Street,Residential Income,"$639,900","1,667","1,667",3,2,05/27/2022,No
+457,7095925,40.4521659,-104.9113833,Windsor,1771 Barefoot Drive,Residential,"$964,698","3,134","3,134",4,3,05/27/2022,Yes
+458,3286291,39.330372,-104.865271,Castle Rock,271 Kitselman Drive,Residential,"$881,777","2,401",,3,3,05/27/2022,
+459,5580514,39.812951,-104.7614271,Denver,19037 E 64th Avenue,Residential,"$418,390","1,371",,3,3,05/27/2022,
+460,5532436,39.813621,-104.76314,Denver,6435 N Dunkirk Street,Residential,"$408,340","1,248",,2,3,05/27/2022,
+461,8555121,,,Denver,6571 N Danube Way Unit# 1,Residential,"$484,030","1,498",,2,2,05/27/2022,
+462,3294234,39.81800800000001,-104.76673,Denver,6643 N Danube Way,Residential,"$480,550","1,245","1,245",2,2,05/27/2022,Yes
+463,5632848,39.459973,-104.855359,Castle Pines,1650 Golden Sill Drive,Residential,"$949,252","2,893",,4,3,05/27/2022,
+464,9338016,39.9812583,-104.8987129,Thornton,7692 E 158th Place E,Residential,"$679,900","1,616","1,616",3,2,05/27/2022,Yes
+465,4724355,39.51382600000001,-104.814611,Parker,15012 Cast Pebble Circle,Residential,"$762,900","2,411",,3,3,05/27/2022,
+466,9224592,39.514098,-104.814867,Parker,15050 Gladshine Drive,Residential,"$698,400","2,297",,4,4,05/27/2022,
+467,4791446,39.8145687,-105.4894701,Black Hawk,0000 Dory Hill Road,Land,"$150,000",,,,,05/27/2022,No
+468,6802769,38.962427,-104.703772,Colorado Springs,6132 Harmonica Arch Drive,Residential,"$550,900","1,813",,3,2,05/27/2022,
+469,3662106,40.5291491,-104.9852533,Timnath,4810 Denys Drive,Residential,"$552,065","1,620",,3,3,05/27/2022,
+470,7172619,,,Fort Collins,557 Vicot Way Unit# D,Residential,"$378,465",868,,1,1,05/27/2022,
+471,9753875,39.9831657,-104.9588708,Thornton,15801 Josephine Circle,Residential,"$725,000","3,545","2,415",4,4,05/27/2022,Yes
+472,6831503,38.8422488,-106.1288165,Buena Vista,115 S Colorado Avenue,Residential,"$575,000","1,321","1,321",3,1,05/27/2022,No
+473,5264899,39.928951,-104.959406,Thornton,2273 E 128th Avenue,Residential,"$440,000","2,226","1,483",2,3,05/27/2022,Yes
+474,9670926,,,Frisco,910 Copper Road Unit# 622,Residential,"$600,000",591,591,1,1,05/27/2022,Yes
+475,5601318,39.723276,-105.2061001,Golden,1325 C Street,Manufactured In Park,"$132,000","1,150","1,150",3,2,05/27/2022,Yes
+476,9986536,39.442091,-104.666963,Parker,5524 Freddys Trail,Residential,"$1,325,000","4,353","2,957",5,5,05/27/2022,No
+477,3860384,39.72731599999999,-104.8652323,Aurora,761 Iola Street,Residential,"$410,000",816,816,3,1,05/27/2022,No
+478,8735107,39.3290426,-102.2595617,Burlington,19892 US Highway 385,Land,"$650,000",,,,,05/27/2022,No
+479,9282803,39.8812949,-104.9277291,Thornton,10137 Eudora Court,Residential,"$459,900","1,110","1,110",3,2,05/27/2022,Yes
+480,8172840,40.1560131,-104.9669263,Firestone,4666 Timberline Avenue,Manufactured In Park,"$160,000","1,404","1,404",3,2,05/27/2022,No
+481,5279111,40.50428309999999,-104.9507269,Timnath,5890 Jasper Street,Residential,"$710,000","3,085","2,110",4,4,05/27/2022,Yes
+482,1620561,39.9038519,-104.9181021,Thornton,11378 Kearney Way,Residential,"$599,000","3,459","2,254",3,3,05/27/2022,Yes
+483,4713657,38.0866304,-106.1417453,Saguache, San Juan Avenue,Land,"$149,000",,,,,05/27/2022,No
+484,6936985,38.8774489,-104.7353,Colorado Springs,3135 Raindrop Drive,Residential,"$390,000","2,174","2,174",5,3,05/27/2022,No
+485,8482089,39.8950691,-104.8352162,Commerce City,10934 Ursula Street,Residential,"$590,000","2,927","2,012",3,3,05/27/2022,Yes
+486,8224469,39.7630278,-105.2255896,Golden,414 Ford Street,Land,"$550,000",,,,,05/27/2022,No
+487,8187862,39.7045921,-105.0213377,Denver,660 S Dale Court,Residential,"$499,900","1,524",762,4,1,05/27/2022,No
+488,8102148,39.6125252,-104.729262,Aurora,5695 S Shawnee Street,Residential,"$730,000","4,151","2,714",5,4,05/27/2022,Yes
+489,3476319,39.6222203,-105.1231317,Littleton,11207 W Progress Avenue,Residential,"$700,000","2,610","1,908",4,3,05/27/2022,Yes
+490,8646814,39.4121995,-104.9039067,Castle Rock,5075 Stonecrop Circle,Residential,"$584,900","2,124","1,440",3,2,05/27/2022,Yes
+491,5509678,40.16745299999999,-104.9451596,Firestone,5831 Vine Avenue,Residential,"$525,000","2,507","1,747",3,3,05/27/2022,Yes
+492,2651737,,,Denver,1811 S Quebec Way Unit# 19,Residential,"$320,000","1,327","1,131",2,3,05/27/2022,Yes
+493,7389763,39.749852,-105.0248531,Denver,2156 Federal Boulevard,Residential,"$690,000","1,652","1,350",3,2,05/27/2022,No
+494,7849242,39.8125073,-105.0506501,Arvada,6389 Xavier Court,Residential,"$535,000","1,658","1,658",4,2,05/27/2022,No
+495,4928437,39.6689032,-105.1058648,Lakewood,2558 S Independence Court,Residential,"$675,000","2,766","1,807",2,4,05/27/2022,Yes
+496,2655414,39.9659108,-105.045673,Broomfield,14786 Eagle River Loop,Residential,"$915,000","3,590","1,795",3,3,05/27/2022,Yes
+497,4560201,39.4418456,-104.8924176,Castle Rock,38 Castle Pines Drive N,Residential,"$1,850,000","7,568","4,841",5,5,05/27/2022,Yes
+498,6917876,39.015737,-104.492283,Peyton,17925 E US Highway 24,Residential,"$1,999,000","1,954","1,954",4,3,05/27/2022,No
+499,2625243,39.1347065,-105.9772633,Fairplay,1294 Kokanee Road,Residential,"$395,000","1,188","1,188",2,2,05/27/2022,No
+500,9059123,39.5887523,-104.7261633,Aurora,7034 S Tibet Way,Residential,"$639,900","3,430","1,729",2,2,05/27/2022,Yes
+501,4814011,39.068623,-104.863432,Monument,1999 Peak Prairie Lane,Residential Lease,"$2,950","1,963","1,963",3,3,05/27/2022,
+502,3542958,39.4768508,-106.0630535,Breckenridge,457 Timber Trail Road,Residential,"$11,900,000","9,536","5,118",7,9,05/27/2022,Yes
+503,3078070,39.4086235,-104.6023365,Elizabeth,37245 Polo Run Drive,Residential,"$899,000","3,419","2,187",4,4,05/27/2022,Yes
+504,4358109,39.6082125,-104.7734478,Aurora,5932 S Zeno Court,Residential,"$600,000","1,956","1,612",3,4,05/27/2022,Yes
+505,2839897,39.7242184,-104.680852,Aurora,435 N Old Hammer Street,Residential,"$595,000","2,798","1,883",3,3,05/27/2022,Yes
+506,8287449,40.40131179999999,-105.1527822,Loveland,910 Owl Grove Place,Residential,"$995,000","4,996","2,498",5,4,05/27/2022,Yes
+507,7600158,37.9784083,-105.6847414,Crestone,383 N Chaparral Way,Residential,"$585,000","1,640","1,640",3,2,05/27/2022,Yes
+508,1984524,,,Frisco,737 Lagoon Drive Unit# A,Residential,"$875,000","1,120","1,120",2,3,05/27/2022,Yes
+509,3633004,,,Littleton,2769 W Riverwalk Circle Unit# D,Residential,"$475,000","1,279","1,279",2,2,05/27/2022,Yes
+510,9892606,38.989699,-104.75529,Colorado Springs,10925 Howells Road,Residential,"$1,400,000","4,488","2,992",6,4,05/27/2022,No
+511,3271329,,,Thornton,12963 Lafayette Street Unit# B,Residential,"$349,900","1,166","1,166",2,2,05/27/2022,Yes
+512,3128862,,,Arvada,7130 Simms Street Unit# 104,Residential,"$350,000",948,948,1,1,05/27/2022,Yes
+513,2508073,39.59649,-105.08042,Littleton,6638 S Webster Street,Residential,"$550,000","2,186","1,432",2,4,05/27/2022,Yes
+514,2705525,,,Denver,9315 E Center Avenue Unit# 5D,Residential,"$315,000","1,380","1,380",2,2,05/27/2022,Yes
+515,8945002,39.5851832,-104.7372824,Aurora,7243 S Perth Way,Residential,"$1,525,000","7,536","4,348",4,7,05/27/2022,Yes
+516,6572484,39.603058,-104.037383,Deer Trail,329 S 3rd Avenue,Residential,"$400,000","3,214","2,143",3,3,05/27/2022,Yes
+517,6848643,38.8501691,-104.8909351,Manitou Springs,35 Sutherland Road,Residential,"$649,900","2,168","1,229",3,3,05/27/2022,No
+518,4421833,39.324676,-104.8420189,Castle Rock,1958 Villageview Lane,Residential,"$649,900","2,657","1,813",3,4,05/27/2022,Yes
+519,2570329,39.9486053,-104.8954141,Thornton,8011 E 138th Place,Residential,"$710,000","4,023","2,531",4,4,05/27/2022,Yes
+520,8444723,39.1238763,-104.9157753,Palmer Lake,255 Upper Glenway,Residential,"$475,000","2,475","1,452",4,2,05/27/2022,No
+521,4906187,39.5019841,-104.7369862,Parker,11855 Discovery Circle,Residential,"$920,000","3,995","3,068",4,3,05/27/2022,Yes
+522,8718818,39.5932801,-105.1258498,Littleton,6817 S Queen Lane,Residential,"$980,000","4,829","2,996",4,4,05/27/2022,Yes
+523,5862509,38.8500756,-104.74822,Colorado Springs,1210 N Murray Boulevard,Residential,"$425,000","2,350","1,325",5,3,05/27/2022,No
+524,9931679,39.4433473,-104.9115323,Castle Rock,180 Ramshorn Drive,Residential,"$1,750,000","6,433","3,969",5,5,05/27/2022,Yes
+525,4087459,39.5495528,-104.8837507,Lone Tree,8989 E Cedar Hill Place,Residential,"$1,199,000","4,149","2,916",4,4,05/27/2022,Yes
+526,5862651,39.7245881,-104.7123641,Aurora,23625 E 5th Place,Residential,"$469,900","1,553","1,553",3,2,05/27/2022,Yes
+527,6871649,39.6275744,-105.1528736,Morrison,4868 S Coors Court,Residential,"$825,000","3,430","2,615",4,3,05/27/2022,Yes
+528,4948056,39.81941399999999,-105.1171931,Arvada,6798 Newman Street,Residential,"$699,000","2,030","1,015",4,2,05/27/2022,No
+529,3335314,39.5925521,-105.1049398,Littleton,9462 W Ontario Drive,Residential,"$410,000","1,116","1,116",2,3,05/27/2022,Yes
+530,9327237,39.9030221,-104.9465742,Thornton,3483 E 114th Drive,Residential,"$465,000","1,700",850,2,1,05/27/2022,No
+531,8422745,39.1003233,-106.3288422,Twin Lakes,446 Mount Hope Drive,Residential,"$995,000","2,479","2,479",3,3,05/27/2022,Yes
+532,7721881,39.9248673,-105.150589,Superior,3032 W Yarrow Circle,Residential,"$750,000","1,800","1,408",4,3,05/27/2022,Yes
+533,4863166,39.8510154,-105.0914313,Arvada,8566 W 84th Circle,Residential,"$665,000","2,616","1,941",3,3,05/27/2022,No
+534,4667295,39.7332617,-105.1792848,Golden,1035 Orchard Street,Residential,"$670,000","2,200","1,125",4,2,05/27/2022,No
+535,4763268,39.7112386,-104.8544254,Aurora,296 Moline Street,Residential,"$499,900","2,314","1,543",3,2,05/27/2022,No
+536,3596821,39.4575,-105.47185,Bailey,58 Conestoga Court,Residential,"$825,000","2,216","1,740",3,2,05/27/2022,Yes
+537,9853045,,,Fraser,905 County Road 834 Unit# B-10,Residential,"$735,000","1,390","1,390",2,3,05/27/2022,Yes
+538,5339475,39.2508229,-106.2925238,Leadville,4193 Badger,Land,"$79,000",,,,,05/27/2022,No
+539,4399172,39.8977346,-104.9264059,Thornton,11133 Forest Avenue,Residential,"$505,000","1,885","1,885",4,2,05/27/2022,No
+540,9152530,39.5313634,-105.0272728,Highlands Ranch,3266 White Oak Lane,Residential,"$950,000","4,733","3,084",5,4,05/27/2022,Yes
+541,2291764,39.0858474,-104.8364099,Monument,17485 Chipped Arrow Way,Residential,"$715,000","3,599","2,135",3,3,05/27/2022,Yes
+542,4264654,,,Englewood,10111 Inverness Main Street Unit# 301,Residential,"$579,000","1,387","1,387",2,2,05/27/2022,Yes
+543,9774386,39.7066011,-104.8494067,Aurora,11933 E Virginia Drive,Residential,"$509,000","2,233","1,192",4,3,05/27/2022,No
+544,5379599,39.7477972,-105.092322,Lakewood,2001 Cody Street,Residential,"$799,000","2,113","2,113",3,2,05/27/2022,No
+545,1656958,39.3704946,-104.8045382,Castle Rock,102 Ponderosa Street,Residential,"$630,000","2,701","2,159",4,3,05/27/2022,Yes
+546,6594695,39.690401,-104.8762021,Denver,9636 E Arkansas Place,Residential,"$507,000","2,200","2,200",3,3,05/27/2022,Yes
+547,5375752,39.694086,-105.1043091,Lakewood,1260 Hoyt Street,Residential,"$748,000","2,340","1,170",5,2,05/27/2022,No
+548,9288459,39.6369098,-105.2734716,Indian Hills,4362 Pima Road,Residential,"$1,995,000","5,129","2,918",5,4,05/27/2022,No
+549,9052646,38.2490328,-105.9494021,Villa Grove,57111 County Road Ll57,Residential,"$249,000","1,152","1,152",3,1,05/27/2022,No
+550,6329029,39.7495258,-104.9369461,Denver,2200 Bellaire Street,Residential,"$2,495,000","4,119","2,486",5,3,05/27/2022,No
+551,8919321,,,Nathrop,10795 County Road 197a Unit# 127,Residential,"$195,000",406,406,1,1,05/27/2022,Yes
+552,3073633,39.9491616,-104.9241246,Thornton,13945 Hudson Street,Residential,"$685,000","3,855","2,431",4,4,05/27/2022,Yes
+553,3807986,39.5217598,-104.4905771,Elizabeth,9330 Sun Country Drive,Residential,"$749,000","2,392","1,204",4,3,05/27/2022,Yes
+554,2717333,40.03124760000001,-105.0752409,Erie,883 Marfell Street,Residential,"$1,080,000","4,800","2,453",5,3,05/27/2022,No
+555,9909191,39.5200711,-105.3591791,Conifer,10835 Beas Drive,Residential,"$2,995,000","7,460","7,460",4,7,05/27/2022,No
+556,3736153,39.9826751,-104.7738125,Brighton,264 Montezuma Street,Residential,"$625,000","3,096","1,575",6,3,05/27/2022,Yes
+557,2268856,39.5688269,-104.7348215,Aurora,8142 S Quatar Circle,Residential,"$805,700","4,628","2,324",4,3,05/27/2022,Yes
+558,6749623,39.758179,-104.9120798,Denver,2890 Monaco Parkway,Residential,"$975,000","2,754","1,377",4,4,05/27/2022,No
+559,4848390,39.5235754,-104.99534,Highlands Ranch,10604 Star Thistle Court,Residential,"$1,425,000","4,037","2,869",4,4,05/27/2022,Yes
+560,6046197,39.6273239,-105.2798501,Evergreen,4923 Snowberry Lane,Residential,"$1,495,000","3,308","2,486",3,2,05/27/2022,Yes
+561,6425300,39.7571079,-105.0267847,Denver,2757 Grove Street,Residential,"$1,250,000","3,361","2,372",4,5,05/27/2022,No
+562,6407456,,,Denver,1366 Garfield Street Unit# 105,Residential,"$300,000",900,900,2,1,05/27/2022,Yes
+563,5888867,,,Denver,78 Jackson Street Unit# H,Residential,"$985,000","2,490","2,490",2,3,05/27/2022,Yes
+564,1734753,38.9745853,-104.7305839,Colorado Springs,5248 Mount Cutler Court,Residential,"$984,000","4,682","2,851",6,4,05/27/2022,Yes
+565,5524616,39.583711,-105.107871,Littleton,9835 W Hinsdale Place,Residential,"$614,990","2,212","1,754",3,4,05/27/2022,Yes
+566,8164225,39.5711388,-104.7156829,Aurora,23454 E Heritage Parkway,Residential,"$967,700","4,624","2,328",3,3,05/27/2022,Yes
+567,2135262,39.68132689999999,-104.7924113,Aurora,1988 S Ouray Street,Residential,"$389,900",969,969,3,1,05/27/2022,No
+568,3442133,39.6066542,-104.925174,Centennial,6072 S Glencoe Way,Residential,"$850,000","3,021","2,215",3,3,05/27/2022,Yes
+569,9984714,39.5315154,-104.9286417,Highlands Ranch,10174 Fawnbrook Lane,Residential,"$840,000","3,236","2,288",4,4,05/27/2022,Yes
+570,4299508,39.8472631,-105.0455817,Westminster,8240 Turnpike Drive,Residential,"$550,000","2,175","2,175",4,2,05/27/2022,No
+571,5871461,40.1843812,-105.0720669,Longmont,1026 Red Oak Drive,Residential,"$560,000","1,492","1,093",3,3,05/27/2022,Yes
+572,9121545,40.3989857,-104.7011709,Greeley,2406 14th Avenue,Residential,"$355,000","1,368",948,3,2,05/27/2022,No
+573,3550827,39.8151662,-105.0504674,Arvada,4932 W 65th Place,Residential,"$689,900","2,296","1,148",5,4,05/27/2022,No
+574,9955098,,,Highlands Ranch,2133 Primo Road Unit# 205,Residential,"$500,000","1,240","1,240",2,2,05/27/2022,Yes
+575,1695229,38.920937,-104.8124257,Colorado Springs,6205 Pulpit Rock Drive,Residential,"$565,000","2,112","1,412",4,3,05/27/2022,No
+576,5293901,39.6937722,-105.1081943,Lakewood,1293 S Johnson Way,Residential,"$650,900","2,244","1,668",5,3,05/27/2022,No
+577,7483001,39.8912129,-105.1315375,Westminster,11876 W 107th Avenue,Residential,"$600,000","2,616","2,175",3,3,05/27/2022,Yes
+578,1585075,39.9787097,-104.7973805,Brighton,2054 Donna Street,Residential,"$744,900","3,688","1,888",3,3,05/27/2022,Yes
+579,1650996,39.6894693,-104.9445664,Denver,1497 S Garfield Street,Residential,"$875,000","1,820","1,820",3,2,05/27/2022,No
+580,8276309,39.9923211,-104.6439113,Brighton,16300 Great Rock Way,Residential,"$800,000","3,830","2,083",4,4,05/27/2022,Yes
+581,7509810,39.6633202,-104.9371286,Denver,3001 S Birch Street,Residential,"$765,000","2,180","2,180",4,3,05/27/2022,No
+582,5340987,39.62176970000001,-105.0371347,Littleton,5287 S Mabre Court,Residential,"$739,000","2,462","1,368",3,3,05/27/2022,No
+583,7558044,39.8068243,-104.9184215,Commerce City,6000 E 61st Avenue,Residential,"$330,000",840,840,3,1,05/27/2022,No
+584,7485118,40.4244744,-105.0847631,Loveland,3207 Sheridan Avenue,Residential,"$430,000","2,128","1,064",3,2,05/27/2022,No
+585,7078021,39.5316601,-104.8805348,Lone Tree,10156 Belvedere Loop,Residential,"$675,000","1,559","1,559",3,3,05/27/2022,Yes
+586,3277680,39.590133,-104.958411,Centennial,2582 E Easter Avenue,Residential,"$475,000","1,343","1,343",3,2,05/27/2022,Yes
+587,7877821,39.67910699999999,-104.9661518,Denver,2060 S Williams Street,Residential,"$735,000","1,632",816,3,2,05/27/2022,No
+588,9396303,39.9973456,-104.7464882,Brighton,759 Lilac Court,Residential,"$770,000","3,786","2,162",5,4,05/27/2022,Yes
+589,4625760,39.7050971,-105.0043554,Denver,1317 W Gill Place,Residential,"$524,900","1,214","1,214",4,2,05/27/2022,No
+590,2248414,39.5225234,-104.8747877,Lone Tree,10659 Montecito Drive,Residential,"$1,075,000","4,260","3,043",3,3,05/27/2022,Yes
+591,3964432,38.9444861,-104.6905556,Colorado Springs,6926 Red Cardinal Loop,Residential,"$489,000","2,135","1,491",3,3,05/27/2022,Yes
+592,4266452,39.9970469,-105.0882799,Lafayette,210 E Cleveland Street,Residential,"$1,179,000","2,940","1,470",5,4,05/27/2022,No
+593,2707236,39.61054379999999,-105.1057506,Littleton,9604 W Long Drive,Residential,"$675,000","3,739","1,965",3,2,05/27/2022,Yes
+594,3162928,39.8101774,-105.0638012,Arvada,6209 Ingalls Street,Residential,"$484,999","1,976",988,3,2,05/27/2022,No
+595,5492202,,,Aurora,907 S Yampa Street Unit# 106,Residential,"$250,000","1,020","1,020",2,2,05/27/2022,Yes
+596,7513948,39.594812,-104.9438194,Centennial,6707 S Jackson Court,Residential,"$850,000","3,328","2,488",4,4,05/27/2022,Yes
+597,8028976,39.7570615,-104.9386344,Denver,2829 Ash Street,Residential,"$889,000","2,352","1,283",4,2,05/27/2022,No
+598,9846453,39.544432,-105.005011,Highlands Ranch,9460 Carlyle Park Place,Residential,"$525,000","1,594","1,594",3,3,05/27/2022,Yes
+599,9208425,39.6982595,-105.0266336,Denver,1015 S Grove Street,Residential,"$559,500","1,826",913,4,2,05/27/2022,No
+600,9123697,40.0849398,-104.9350068,Dacono,500 Sundance Parkway,Residential,"$499,900","1,800",900,3,2,05/27/2022,No
+601,9206818,39.6970651,-105.121076,Lakewood,11169 W Tennessee Court,Residential,"$988,000","3,103","2,374",5,4,05/27/2022,Yes
+602,8200709,39.70822280000001,-105.1515028,Lakewood,13561 W Alaska Place,Residential,"$780,000","2,442","2,442",4,3,05/27/2022,No
+603,IR966851,40.2429587,-105.5193016,Allenspark,763 Cabin Creek Road,Residential,"$599,000","1,264","1,264",2,2,05/27/2022,No
+604,IR966849,39.6754197,-104.8780946,Denver,2276 S Dayton Street,Residential,"$695,000","2,714","2,320",4,3,05/27/2022,No
+605,IR966848,40.62063020000001,-103.2428011,Sterling,114 Club Road,Residential,"$443,000","2,600","1,300",4,2,05/27/2022,Yes
+606,IR966846,40.5166523,-105.1796046,Fort Collins,5009 Sandstone Drive,Residential,"$1,100,000","5,129","3,515",4,4,05/27/2022,Yes
+607,IR966845,40.3928923,-105.5646117,Estes Park,1260 Fall River Court,Residential,"$2,345,678","4,760","3,860",4,3,05/27/2022,Yes
+608,IR966844,,,Boulder,540 Mohawk Drive Unit# 23,Residential,"$539,900",945,945,1,1,05/27/2022,Yes
+609,IR966843,40.4519112,-104.7778694,Greeley,14782 County Road 64 Road,Residential,"$435,000","1,292","1,292",3,2,05/27/2022,No
+610,IR966837,39.9787097,-104.7973805,Brighton,2054 Donna Street,Residential,"$744,900","3,688",400,3,3,05/27/2022,Yes
+611,IR966835,40.8264539,-104.8105339,Carr,56998 County Road 27,Residential,"$720,000","1,980","1,980",3,2,05/27/2022,No
+612,IR966833,40.1640901,-103.2187629,Akron,581 Delta Avenue,Residential,"$230,000","2,120","1,620",4,2,05/27/2022,No
+613,IR966831,40.5884879,-104.7344797,Ault,628 1st Avenue,Residential,"$420,000","2,102","1,102",4,3,05/27/2022,No
+614,IR966830,39.8521396,-105.0458556,Westminster,8473 Rutgers Street,Residential,"$521,000","1,998",999,5,2,05/27/2022,No
+615,IR966828,40.5291491,-104.9852533,Timnath,5057 John Muir Drive,Residential,"$661,063","2,764","1,921",3,3,05/27/2022,No
+616,IR966827,40.4648143,-105.4568529,Glen Haven,1298 North Fork Road,Residential,"$550,000",706,608,1,1,05/27/2022,Yes
+617,IR966825,40.54349819999999,-105.0981911,Fort Collins,3125 Laredo Lane,Residential,"$435,000",915,915,3,1,05/27/2022,No
+618,IR966823,40.44469429999999,-104.9418635,Windsor,1981 Blue Moon Drive,Residential,"$594,959","2,966","1,542",2,2,05/27/2022,Yes
+619,IR966821,40.4444035,-104.9416876,Windsor,1993 Blue Moon Drive,Residential,"$674,028","3,511","1,823",3,3,05/27/2022,Yes
+620,IR966819,40.7027126,-105.0048119,Wellington,8114 3rd Street,Residential,"$435,000","1,595","1,204",2,2,05/27/2022,No
+621,IR966818,40.2898819,-105.3492295,Lyons,369 Cree Court,Residential,"$1,050,000","2,742","2,205",2,2,05/27/2022,No
+622,IR966816,40.5707776,-105.1088338,Fort Collins,1121 Skyline Drive,Residential,"$475,000","2,085","2,085",4,2,05/27/2022,No
+623,IR966812,40.33796479999999,-104.9290979,Johnstown,1906 Sherwood Lane,Residential,"$550,000","2,569","1,289",4,3,05/27/2022,Yes
+624,IR966811,40.5824804,-104.7319112,Ault, TBD Weld County Road 112,Land,"$145,000",,,,,05/27/2022,No
+625,IR966809,40.4164342,-104.8163468,Greeley,1335 84th Ave Ct,Residential,"$535,000","2,806","2,236",4,3,05/27/2022,Yes
+626,IR966808,40.5263239,-104.7162069,Eaton,106 Cheyenne Avenue,Residential,"$440,000","1,902","1,902",3,1,05/27/2022,No
+627,IR966807,40.5891637,-105.0643492,Fort Collins,304 E Lincoln Avenue,Residential,"$535,000","1,342","1,342",2,2,05/27/2022,No
+628,IR966806,38.934388,-104.7263228,Colorado Springs,5557 Prairie Schooner Drive,Residential,"$560,000","2,447","1,287",4,4,05/27/2022,Yes
+629,IR966805,38.8793336,-104.7359643,Colorado Springs,1335 Raindrop Drive,Residential,"$390,000","2,117","1,087",5,3,05/27/2022,No
+630,IR966803,40.2457614,-103.8879587,Fort Morgan,16879 County Road 14,Residential,"$650,000","1,500","1,500",2,2,05/27/2022,No
+631,IR966802,,,Windsor,"1897 Seadrift Drive Unit# B, Bldg 6",Residential,"$489,000","1,852","1,852",3,3,05/27/2022,Yes
+632,IR966799,40.5403168,-105.1179697,Fort Collins,2206 Bronson Street,Residential,"$625,000","2,567","1,484",4,4,05/27/2022,Yes
+633,IR966798,40.6130332,-105.2806389,Bellvue,2721 Davis Ranch Road,Land,"$350,000",,,,,05/27/2022,Yes
+634,IR966797,40.4317799,-105.0719756,Loveland,447 Slippery Elm Court,Residential,"$415,000","1,008","1,008",3,1,05/27/2022,No
+635,IR966796,40.2446212,-103.7862414,Fort Morgan,308 Dahlia Street,Residential,"$359,000","2,228","1,136",4,2,05/27/2022,No
+636,IR966795,,,Denver,1800 Lawrence Street Unit# 103,Residential,"$495,000",906,906,1,1,05/27/2022,Yes
+637,IR966794,,,Greeley,5775 W 29th Street Unit# 905,Residential,"$324,900","1,276","1,276",2,2,05/27/2022,Yes
+638,IR966792,40.53603409999999,-105.0597713,Fort Collins,1001 Sailors Reef,Residential,"$499,900","1,765","1,765",2,2,05/27/2022,Yes
+639,IR966791,40.6770293,-103.3191013,Sterling,16755 County Road 29,Residential,"$545,000","3,528","1,512",4,3,05/27/2022,No
+640,IR966789,40.58309029999999,-105.0735283,Fort Collins,308 E Magnolia Street,Residential,"$900,000","2,751","1,835",5,3,05/27/2022,No
+641,IR966786,39.9620177,-104.9225822,Thornton,14650 Hudson Street,Residential,"$775,000","4,507","3,162",5,5,05/27/2022,Yes
+642,IR966785,40.856048,-105.6842446,Red Feather Lakes,37 Yacqui Court,Land,"$150,000",,,,,05/27/2022,Yes
+643,IR966784,40.2248175,-104.8276942,Platteville,12125 County Road 32 1/2,Residential,"$650,000","2,600","2,028",4,3,05/27/2022,No
+644,IR966783,40.2504732,-103.7969016,Fort Morgan,311 Lake Street,Residential,"$149,000","1,318","1,248",3,2,05/27/2022,No
+645,IR966782,40.3992605,-104.7243177,Greeley,2314 27th Ave Ct,Residential,"$430,000","2,583","1,911",3,3,05/27/2022,No
+646,IR966779,40.3881154,-104.5679626,Kersey,112 Park View Boulevard,Residential,"$445,000","2,790","1,860",3,3,05/27/2022,Yes
+647,IR966778,39.977363,-105.4754833,Nederland,277 N sky view Drive,Residential,"$649,900","1,552","1,308",2,2,05/27/2022,No
+648,IR966776,39.9616817,-104.9225912,Thornton,14620 Hudson Street,Residential,"$750,000","3,709","2,576",3,4,05/27/2022,Yes
+649,IR966775,40.0687206,-105.1792132,Boulder,7454 Singing Hills Drive,Residential,"$429,000",965,965,2,2,05/27/2022,Yes
+650,IR966770,40.302202,-105.063063,Berthoud,206 Cowbell Drive,Residential,"$692,167","3,714","2,187",3,4,05/27/2022,Yes
+651,IR966769,40.45194619999999,-104.9106075,Windsor,1774 Beachside Drive,Residential,"$797,487","2,130","2,130",3,2,05/27/2022,Yes
+652,IR966766,40.193133,-105.1061845,Longmont,926 Yeager Place,Residential,"$440,000",984,984,3,1,05/27/2022,No
+653,IR966764,40.592851,-105.0907246,Fort Collins,412 Wood Street,Residential,"$695,000",962,762,2,1,05/27/2022,No
+654,IR966762,40.1325796,-105.1585621,Longmont,2284 Picadilly Circle,Residential,"$2,100,000","7,625","4,369",6,7,05/27/2022,Yes
+655,IR966759,40.4019365,-104.7748153,Greeley,2303 Fairway Lane,Residential,"$464,000","2,878","2,149",4,3,05/27/2022,No
+656,IR966758,40.3697719,-104.715979,Evans,4202 Larkspur Road,Residential,"$399,000","2,184","1,092",3,2,05/27/2022,Yes
+657,IR966757,40.4337381,-105.1012742,Loveland,4163 Georgetown Drive,Residential,"$476,000","2,683","1,734",2,3,05/27/2022,Yes
+658,IR966755,40.5299416,-104.7003053,Eaton,407 Magnolia Court,Residential,"$425,000","3,105","2,083",5,4,05/27/2022,No
+659,IR966754,40.4521659,-104.9113833,Windsor,1771 Barefoot Drive,Residential,"$964,698","3,134","3,134",4,3,05/27/2022,Yes
+660,IR966753,40.4494591,-104.9309399,Windsor,1594 Winter Glow Drive,Residential,"$935,902","4,117","2,752",4,3,05/27/2022,Yes
+661,IR966751,40.6038615,-105.0044924,Fort Collins,3926 Celtic Lane,Residential,"$499,000","1,686","1,686",3,3,05/27/2022,Yes
+662,IR966749,39.8957267,-105.4685253,Black Hawk,161 Meadow Way,Residential,"$525,000","1,032","1,032",2,2,05/27/2022,No
+663,IR966748,40.4690151,-104.9472359,Windsor,1049 Ridge West Drive,Residential,"$1,000,000","4,644","2,322",4,5,05/27/2022,Yes
+664,IR966744,40.5677784,-104.9736138,Timnath,5622 Bristow Road N,Residential,"$699,500","3,434","1,652",5,4,05/27/2022,No
+665,IR966742,40.4364243,-105.0900155,Loveland,967 Claremont Place,Residential,"$485,000","1,954","1,538",3,3,05/27/2022,Yes
+666,IR966741,40.2393531,-105.0074596,Mead,2539 Basil Drive,Residential,"$515,000","2,074","1,641",3,3,05/27/2022,Yes
+667,IR966740,40.2015874,-105.0017534,Mead,2769 Stage Coach Drive,Residential,"$575,000","2,253","1,505",4,4,05/27/2022,Yes
+668,IR966738,40.5547581,-105.0490291,Fort Collins,2404 Rollingwood Drive,Residential,"$2,020,000","4,452","3,270",4,4,05/27/2022,Yes
+669,IR966737,40.4147454,-104.6877287,Greeley,1523 6th Avenue,Residential,"$479,500","1,048",712,2,1,05/27/2022,No
+670,IR966720,40.3223975,-104.8406999,Milliken,838 S Depot Drive,Residential,"$425,000","2,462","1,231",3,2,05/26/2022,Yes
+671,IR966717,39.8653026,-104.9606297,Thornton,9290 Harris Street,Residential,"$475,000","1,426","1,426",3,2,05/26/2022,No
+672,IR966680,39.8881968,-105.0385044,Westminster,10564 N Osceola Drive,Residential,"$880,000","4,046","2,531",2,2,05/26/2022,Yes
+673,IR966606,40.1660026,-105.0986022,Longmont,403 Collyer Street,Residential,"$750,000","1,756","1,756",3,3,05/26/2022,No
+674,IR966588,40.0232174,-105.2683296,Boulder,"2130 Mapleton Avenue, Bldg 2",Residential,"$925,000",900,900,2,1,05/25/2022,Yes
+675,IR966586,40.3050467,-105.0751267,Berthoud,121 Mountain Avenue,Residential,"$460,000","1,974","1,496",3,1,05/25/2022,No
+676,IR966584,40.3418241,-104.9185811,Johnstown,1009 N 6th Street,Residential,"$722,000","3,409","1,724",6,3,05/25/2022,No
+677,IR966578,,,Windsor,"387 Buffalo Drive Unit# H, Bldg 1",Residential,"$285,000",784,784,2,1,05/24/2022,Yes
+678,IR966573,39.9821482,-105.1009773,Lafayette,1723 Dusty Boot Drive,Residential,"$1,225,000","4,436","3,316",5,5,05/25/2022,Yes
+679,IR966548,40.4046438,-104.8092114,Greeley,2112 82nd Avenue,Residential,"$545,000","3,512","1,766",3,3,05/16/2022,Yes
+680,IR966545,40.4244744,-105.0847631,Loveland,3207 Sheridan Avenue,Residential,"$430,000","2,128","1,064",3,2,05/25/2022,No
+681,IR966532,40.395972,-105.5689399,Estes Park,1491 David Drive,Residential,"$949,900","1,849","1,849",2,2,05/25/2022,Yes
+682,IR966500,40.408068,-104.7141109,Greeley,1909 21st Ave Ct,Residential,"$535,000","3,710","1,855",5,3,05/24/2022,No
+683,IR966498,40.2002907,-105.0899698,Longmont,209 Homestead Parkway,Residential,"$750,000","4,884","2,442",3,3,05/24/2022,Yes
+684,IR966482,40.4357221,-105.102302,Loveland,1919 Dove Creek Circle,Residential,"$389,900","1,533","1,533",3,3,05/24/2022,Yes
+685,IR966466,40.0047053,-105.2802304,Boulder,955 10th Street,Residential,"$1,850,000","3,179","2,339",4,5,05/24/2022,No
+686,IR966448,39.9595256,-105.4910941,Nederland,42 Doe Trail,Residential,"$699,000","1,647","1,647",2,2,05/24/2022,No
+687,IR966429,40.0094461,-105.0853797,Lafayette,1204 Hawk Ridge Road,Residential,"$1,490,000","5,128","3,458",6,5,05/17/2022,Yes
+688,IR966421,40.3989857,-104.7011709,Greeley,2406 14th Avenue,Residential,"$355,000","1,368",948,3,2,05/24/2022,No
+689,IR966376,40.140515,-105.1716077,Longmont,5419 Cannon Mountain Way,Residential,"$1,249,000","5,222","3,507",4,4,05/18/2022,Yes
+690,IR966335,40.0665678,-105.1868708,Boulder,7170 Cedarwood Circle,Residential,"$1,350,000","3,771","2,782",3,3,05/22/2022,Yes
+691,IR966316,40.6341731,-103.2214674,Sterling,737 N 7th Avenue,Residential,"$299,900","2,321","2,321",4,3,05/20/2022,No
+692,IR966315,,,Boulder,1140 Portland Place Unit# #308,Residential,"$799,000","1,311","1,311",3,2,05/20/2022,Yes
+693,IR966303,40.4643152,-104.901336,Windsor,215 Pelican Cove,Residential,"$575,000","3,037","1,528",3,3,05/20/2022,Yes
+694,IR966297,40.4452997,-104.9458669,Windsor,8898 Longs Peak Circle,Residential,"$1,195,000","5,688","2,852",6,6,05/21/2022,Yes
+695,IR966292,40.3826906,-105.1284995,Loveland,3748 Desert Rose Drive,Residential,"$850,000","4,312","2,156",3,2,05/20/2022,Yes
+696,IR966272,40.4433852,-105.0241226,Loveland,4941 Valley Oak Drive,Residential,"$1,450,000","3,924","2,550",5,4,05/20/2022,Yes
+697,IR966258,39.9248673,-105.150589,Superior,3032 W Yarrow Circle,Residential,"$750,000","1,800","1,400",4,3,05/18/2022,Yes
+698,IR966184,39.9697866,-105.2572177,Boulder,2750 Juilliard Street,Residential,"$1,799,000","1,846","1,846",4,3,05/20/2022,No
+699,IR966183,40.0178895,-105.2911538,Boulder,409 Mountain View Road,Residential,"$1,850,000","1,073","1,073",1,2,05/20/2022,No
+700,2732720,40.5153846,-104.8477464,Severance,808 Elias Tarn Drive,Residential,"$520,630","2,219","2,219",3,3,05/30/2022,Yes
+701,7625865,40.0023407,-104.7329299,Lochbuie,1109 Sunrise Drive,Residential,"$492,460","1,844","1,844",4,3,05/27/2022,Yes
+702,3475748,39.8785766,-104.9902505,Northglenn,10031 Melody Drive,Residential,"$540,000","1,868","1,868",3,3,05/27/2022,No
+703,6296661,39.499049,-105.339136,Conifer,11905 Blackfoot Road,Residential,"$1,257,000","3,768","2,512",4,3,05/27/2022,No
+704,9025685,40.5153846,-104.8477464,Severance,804 Elias Tarn Drive,Residential,"$558,210","2,398","2,398",4,3,05/27/2022,Yes
+705,3111010,39.7012182,-105.3239395,Evergreen,727 Dreamcatcher Lane,Residential,"$1,395,000","4,991","2,940",4,4,05/27/2022,Yes
+706,5130475,38.997568,-104.7920466,Colorado Springs,2183 Shady Aspen Drive,Residential,"$450,000","1,566","1,566",3,3,05/27/2022,Yes
+707,IR966579,40.3391062,-104.9173037,Johnstown,1001 N 3rd Street,Residential,"$590,000","3,084","1,542",4,3,05/25/2022,No
+708,8160961,39.7015715,-105.0334821,Denver,3503 W Ada Place,Residential,"$335,000",842,471,1,1,05/27/2022,No
+709,IR966735,,,Fort Collins,2608 Kansas Drive Unit# A107,Residential,"$450,000","1,934","1,139",3,4,05/24/2022,Yes
