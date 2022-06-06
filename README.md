@@ -1,4 +1,4 @@
-# MLS_Scrape
+# MLS-Scrape
 ## Overview
 Zillow tends to have older listings, thus in a competitive market like Colorado, its hard for clients to be up to date. The goal is to create an app for realtors that automates scraping MLS info, filters based on clients specifications and returns a map of their potential houses.
 ### Purpose
