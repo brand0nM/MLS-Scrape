@@ -14,3 +14,4 @@ https://user-images.githubusercontent.com/79609464/171085521-64f2a9eb-eea8-4ef9-
 https://user-images.githubusercontent.com/79609464/171085723-d7660a70-9da4-40d2-9520-d7c04570107a.mp4
 
 ## Summary
+We've created an app that uses python to scrape data, store it in a dataframe, cross references google maps API, then plots the coordinate. To further improve this project we can create a webapplication to run an exported version of scraping.py and display its data. 
